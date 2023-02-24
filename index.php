@@ -13,7 +13,6 @@
     <!-- FAVICONS ICON -->
     <!-- <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png"> -->
-    
     <!-- PAGE TITLE HERE -->
     <title>Bluzen | We support your growth through digital transformation</title>
     <link rel="canonical" href="http://localhost/bluzen/" />
