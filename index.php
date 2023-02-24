@@ -82,7 +82,7 @@
                         <div class="text-left">
                         <h2 class="text-white f-70 ">Innovative IT Services for Success</h2>
                         <!-- <h2 class="pa-h2-v2-hero-subhead pa-white">The Coolest Modern HTML Template is Here! Welcome to <strong>Particle</strong> by Skilltech Web Design</h2> -->
-                        <h4 class="text-white">We support your growth through digital transformation</h4>
+                        <h4 class="text-silver">We support your growth through digital transformation</h4>
                         </div>
                     </div>
                 </div>
