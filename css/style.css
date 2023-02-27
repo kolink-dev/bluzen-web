@@ -10067,7 +10067,7 @@ INPUT ANIMATION
 
 .apos_ment > img {
     position: absolute;
-    top: -5px;
+    top: -15px;
 }
 
 .apos_ment .apos2-home {
@@ -10079,7 +10079,27 @@ INPUT ANIMATION
 }
 
 .top-2{
-	top: 20px;
+	top: 30px;
+}
+
+.span-about{
+	font-size: 18px;
+    font-weight: 500;
+}
+
+.bx-2p{
+	border: solid 2px #F6F6F6;
+	border-radius: 10px;
+}
+
+.bl-count-font{
+	font-size: 50px;
+	font-weight: 600;
+}
+
+.col-xl-3-1 {
+    flex: 0 0 auto;
+    width: 20%;
 }
 
 @media only screen and (max-width:768px) {
@@ -10112,4 +10132,108 @@ INPUT ANIMATION
 	.top-2{
 		top: 20px;
 	}
+}
+
+#c3_wrap {
+    text-align: left;
+    padding: 120px 0 115px;
+    background: #fff;
+}
+
+#c3_wrap .c_inner {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.c3_top {
+    display: flex;
+    align-items: center;
+}
+
+.c3_top span {
+    display: block;
+    width: 1px;
+    height: 44px;
+    background: #0053a5;
+    margin: 0 45px;
+}
+
+.c3_top h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #333;
+}
+
+.c3_top p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #666;
+    line-height: 28px;
+}
+
+.c3_list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 45px 0 0;
+}
+
+.c3_list li {
+    width: 16.6%;
+    position: relative;
+	list-style: none;
+}
+
+.c3_list li::before {
+    height: 0%;
+    width: 1px;
+    left: -1px;
+}
+
+.c3_list li::before, .c3_list li::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: #0053a5;
+    transition: all .4s ease;
+}
+
+.c3_list li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 160px;
+    border: 1px solid #ddd;
+    border-bottom: 0;
+    border-right: 0;
+    position: relative;
+}
+
+.c3_list li a::before {
+    height: 0%;
+    width: 1px;
+}
+
+.c3_list li a::before, .c3_list li a::after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: #0053a5;
+    transition: all .4s ease;
+}
+
+.c3_list li a::after {
+    width: 0%;
+    height: 1px;
+    right: 1px;
+}
+
+.c3_list li:nth-child(6n) a {
+    border-right: 1px solid #ddd;
+}
+
+.c3_list li:nth-child(n+7) a {
+    border-bottom: 1px solid #ddd;
 }
