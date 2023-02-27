@@ -33,12 +33,6 @@
  * -- Colors are in particle-colors.css
  */
 
-body {
-	background-color: #0e1621;
-	font-family: 'Blinker', sans-serif;
-	color: #647D89;
-}
-
 
 /*
  * 1. Page Transitions (priority)
@@ -1612,10 +1606,10 @@ span.pa-back-to-top,
 			transition: all 0.3s ease 0s;
 }
 
-img {
+/* img {
 	width: 100%;
 	height: auto;
-}
+} */
 
 /* Standard section basics */
 

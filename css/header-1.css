@@ -918,7 +918,7 @@ header-style1 {
 	padding: 13px 0;
   }
   .header-style1 .is-fixed .color-fill.main-bar {
-	background: var(--white);
+	background: #c5c5c5;
   }
   
   @media (max-width: 991px) {

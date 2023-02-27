@@ -10048,3 +10048,68 @@ INPUT ANIMATION
 .text-silver{
 	color: #b5b5b5;
 }
+
+.apos_ment {
+    margin: 30px 0 50px;
+}
+
+.apos_ment h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #434343;
+    letter-spacing: -.4px;
+    line-height: 34px;
+}
+
+.apos_ment .apos1-home {
+    left: 30%;
+}
+
+.apos_ment > img {
+    position: absolute;
+    top: -5px;
+}
+
+.apos_ment .apos2-home {
+    right: 30%;
+}
+
+.gold-text {
+    color: #0061bc;
+}
+
+.top-2{
+	top: 20px;
+}
+
+@media only screen and (max-width:768px) {
+	.apos_ment {
+		margin: 30px 0 50px;
+	}
+	
+	.apos_ment h1 {
+		font-size: 40px;
+		font-weight: 600;
+		color: #434343;
+		letter-spacing: -.4px;
+		line-height: 34px;
+	}
+	
+	.apos_ment .apos1-home {
+		left: 10%;
+	}
+	
+	.apos_ment > img {
+		position: absolute;
+		top: -5px;
+		width: 15px;
+	}
+	
+	.apos_ment .apos2-home {
+		right: 10%;
+	}
+	
+	.top-2{
+		top: 20px;
+	}
+}
