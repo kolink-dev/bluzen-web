@@ -140,12 +140,14 @@
                                     </div>
                                     <div class="icon-content">
                                     <h4 class="sx-tilte">Workplace IT</h4>
-                                    <p class="text-left">Making it easier for your teams to work together and share information is a surefire way to boost productivity and gain a competitive edge.</p>
-                                    <div class="sx-center-btn">
+                                    <div class="h-350-left">
+                                        <p>Making it easier for your teams to work together and share information is a surefire way to boost productivity and gain a competitive edge.</p>
+                                    </div>
+                                    <!-- <div class="sx-center-btn">
                                         <a href="javascript:void(0);" class="site-button-circle">
                                         <i class="fa fa-long-arrow-right"></i>
                                         </a>
-                                    </div>
+                                    </div> -->
                                     </div>
                                 </div>
                                 </div>
@@ -182,13 +184,14 @@
                                         </div>
                                         <div class="icon-content">
                                         <h4 class="sx-tilte">Factory Infra Solutions</h4>
-                                        <p class="text-left">In order to start a stable business and smooth business operation at an overseas plant, it is essential to construct a network timely from the factory building design stage, and to establish efficient operation, maintenance, and technical support system. Consistent factory IT Infra, tailored to each step requirement, including initial factory infra construction optimized for local factories and efficient technical support, operation and maintenance. 
-                                            We provide the basis for establishing the right time, supporting stable business start-up, efficient operation, maintenance and technical support system.</p>
-                                        <div class="sx-center-btn">
-                                            <a href="#" class="site-button-circle">
+                                        <div class="h-200-left">
+                                            <p>In order to start a stable business and smooth business operation at an overseas plant, it is essential to construct a network timely from the factory building design stage, and to establish efficient operation, maintenance, and technical support system.</p>
+                                        </div>
+                                        <!-- <div class="sx-center-btn">
+                                            <a href="javascript:void(0);" class="site-button-circle">
                                             <i class="fa fa-long-arrow-right"></i>
                                             </a>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -217,13 +220,14 @@
                                         </div>
                                         <div class="icon-content">
                                         <h4 class="sx-tilte">Overseas Construction Site</h4>
-                                        <p class="text-left">To work with Factory ERP system leader “ISC”, Bluzen is providing Total Factory Solution of IT Infra and ERP System by professional technicians. This enables you to build a systematic and rapid IT environment just like an automated factory. 
-                                            In addition, it is possible to apply the module-specific system, so that even if the third-party ERP system has already been built, it has the merit of selecting and supplementing the deficient system.</p>
-                                        <div class="sx-center-btn">
-                                            <a href="#" class="site-button-circle">
+                                        <div class="h-200-left">
+                                            <p>To work with Factory ERP system leader “ISC”, Bluzen is providing Total Factory Solution of IT Infra and ERP System by professional technicians. This enables you to build a systematic and rapid IT environment just like an automated factory.</p>
+                                        </div>
+                                        <!-- <div class="sx-center-btn">
+                                            <a href="javascript:void(0);" class="site-button-circle">
                                             <i class="fa fa-long-arrow-right"></i>
                                             </a>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -255,13 +259,14 @@
                                         </div>
                                         <div class="icon-content">
                                         <h4 class="sx-tilte">Smart Street Light Solutions</h4>
-                                        <p class="text-left">Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution. 
-                                            Public mobility services and public information such as air quality would be provided to citizen by the smart street light as well.</p>
-                                        <div class="sx-center-btn">
-                                            <a href="#" class="site-button-circle">
+                                        <div class="h-200-left">
+                                            <p>Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution.</p>
+                                        </div>
+                                        <!-- <div class="sx-center-btn">
+                                            <a href="javascript:void(0);" class="site-button-circle">
                                             <i class="fa fa-long-arrow-right"></i>
                                             </a>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -269,132 +274,156 @@
                         </div>
                     </div>
                 </div>
-                <!-- COUNTER START -->
-                <div class="counter-blocks pt-4 mt-5">
+               
+            </div>
+                                                    
+            <!-- COUNTER START -->
+                <div class="counter-blocks bg-count pt-4 mt-5">
                     <div class="text-center mb-5">
                        <h2 class="bl-count-font">Bluzen in Numbers</h2>
                     </div>
-                    <div class="row when-item-four">
-                        <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
-                            <div class="sx-count">
-                                <h2 class="sx-title">
+                    <div class="container">
+                        <div class="row when-item-four">
+                            <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
+                                <div class="sx-count">
+                                    <h2 class="sx-title text-white">
+                                        <span class="counter">9</span>
+                                        <span class="sx-cont-before">+</span>
+                                    </h2>
+                                    <div class="sx-count-info sx-count-info2 text-white">Years of Experience</div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
+                                <div class="sx-count">
+                                    <h2 class="sx-title text-white">
+                                        <span class="counter">500</span>
+                                        <span class="sx-cont-before">+</span>
+                                    </h2>
+                                    <div class="sx-count-info sx-count-info2 text-white">Clients Served</div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
+                                <div class="sx-count">
+                                    <h2 class="sx-title text-white">
+                                        <span class="counter">30</span>
+                                        <span class="sx-cont-before">+</span>
+                                    </h2>
+                                    <div class="sx-count-info sx-count-info2 text-white">IT Professionals</div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
+                                <div class="sx-count">
+                                    <h2 class="sx-title text-white">
+                                    <!-- <span class="sx-cont-before">+</span> -->
                                     <span class="counter">9</span>
-                                    <span class="sx-cont-before">+</span>
-                                </h2>
-                                <div class="sx-count-info">Years of Experience</div>
+                                    <!-- <span class="sx-cont-after">K</span> -->
+                                    </h2>
+                                    <div class="sx-count-info sx-count-info2 text-white">Asian Cities</div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
-                            <div class="sx-count">
-                                <h2 class="sx-title">
-                                    <span class="counter">500</span>
-                                    <span class="sx-cont-before">+</span>
-                                </h2>
-                                <div class="sx-count-info">Clients Served</div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
-                            <div class="sx-count">
-                                <h2 class="sx-title">
-                                    <span class="counter">30</span>
-                                    <span class="sx-cont-before">+</span>
-                                </h2>
-                                <div class="sx-count-info">IT Professionals</div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
-                            <div class="sx-count">
-                                <h2 class="sx-title">
-                                <!-- <span class="sx-cont-before">+</span> -->
-                                <span class="counter">9</span>
-                                <!-- <span class="sx-cont-after">K</span> -->
-                                </h2>
-                                <div class="sx-count-info">Asian Cities</div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
-                            <div class="sx-count">
-                                <h2 class="sx-title">
-                                <span class="counter">200</span>
-                                </h2>
-                                <div class="sx-count-info">Partners</div>
+                            <div class="col-xl-3-1 col-lg-3 col-md-6 col-sm-6">
+                                <div class="sx-count">
+                                    <h2 class="sx-title text-white">
+                                    <span class="counter">200</span>
+                                    </h2>
+                                    <div class="sx-count-info sx-count-info2 text-white">Partners</div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- COUNTER END -->
-            </div>
-            <section id="c3_wrap">
-                <div class="c_inner">
+            <!-- COUNTER END -->
+            
+            <!-- SECTION CONTENTG START -->
+            <div class="section-full p-t100 p-b70 mobile-page-padding">
+                <div class="container">
                     <div class="c3_top">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Clients</h1>
-                        <span data-aos="fade-left" class="aos-init aos-animate"></span>
+                        <!-- <span data-aos="fade-left" class="aos-init aos-animate"></span> -->
                         <!-- <p data-aos="fade-left" data-aos-delay="100" class="aos-init aos-animate">삼성전자 공식 온라인 파트너 ㈜포디아이의 제품을 구입하실 수 있는 스토어 입니다. <br>포디아이만의 다양한 혜택을 만나보세요. </p> -->
                     </div>
-                    <ul class="c3_list">
-                        <li>
-                            <a href="javascript:void(0);">
-                                <img src="images/clients/daelim.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                                <img src="images/clients/hyundai.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                                <img src="images/clients/daewoo.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/naver.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/sk-ecoplant.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/samsung.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/korea-it.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/sdk.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/cyberlogic.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/pantos.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/shinhan.webp" title="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);">
-                            <img src="images/clients/lg.webp" title="">
-                            </a>
-                        </li>
-                    </ul>
+                    <div class="section-content mt-40">
+                        <div class="sx-box m-b30">
+                            <div class="icon-font container">
+                                <div class="row">
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/daelim.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/hyundai.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/daewoo.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/naver.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/sk-ecoplant.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-re">
+                                        <img src="images/clients/samsung.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/korea-it.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/sdk.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/cyberlogic.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/pantos.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/shinhan.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-re">
+                                        <img src="images/clients/lg.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/cj.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/penta.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/nps.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/nonghyup.webp">
+                                    </div>
+                                    <div class="icon-font-block2">
+                                        <img src="images/clients/the-shilla.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-re border-bt">
+                                        <img src="images/clients/lg-chem.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-bt">
+                                        <img src="images/clients/dongah.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-bt">
+                                        <img src="images/clients/gs.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-bt">
+                                        <img src="images/clients/enzan.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-bt">
+                                        <img src="images/clients/hyundai-eng.webp">
+                                    </div>
+                                    <div class="icon-font-block2 border-re border-bt">
+                                        <img src="images/clients/amore.webp">
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </section>
+            </div>
+            <!-- SECTION CONTENTG END -->
+
         </div>
       
         <!-- OUR SERVICES SECTION END -->
