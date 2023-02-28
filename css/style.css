@@ -6908,7 +6908,7 @@ large-title-block
 .sx-service-bx-1{
 	margin-bottom: 30px;
 	text-align: center;
-	padding:0px 25px 30px;
+	padding: 30px 25px 20px 30px;
 }
 .sx-service-bx-1 .sx-service-bx-icon{
 	text-align: center;
@@ -10090,6 +10090,7 @@ INPUT ANIMATION
 .bx-2p{
 	border: solid 2px #F6F6F6;
 	border-radius: 10px;
+	background-color: #ededed;
 }
 
 .bl-count-font{
@@ -10128,7 +10129,7 @@ INPUT ANIMATION
 }
 
 .c3_top h1 {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
     color: #333;
 }

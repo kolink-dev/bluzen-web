@@ -432,6 +432,7 @@
             <!-- SECTION OUR Partners START -->
              <div class="section-full p-t10 p-b50 mobile-page-padding">
                 <div class="container">
+                <hr>
                     <div class="c3_top">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
                     </div>
