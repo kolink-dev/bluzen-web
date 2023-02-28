@@ -333,63 +333,63 @@
                     </div>
                     <ul class="c3_list">
                     <li>
-                        <a href="https://smartstore.naver.com/smartcamera" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo1.png" title="">
+                        <a href="#">
+                            <img src="images/clients/daelim.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://bit.ly/3bXenjH" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo2.png" title="">
+                        <a href="#">
+                            <img src="images/clients/hyundai.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://store.kakao.com/fodi/products/78446106?_=1614837344865&amp;docId=78446106" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo12.png" title="">
+                        <a href="#">
+                            <img src="images/clients/daewoo.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="http://stores.auction.co.kr/fodi04250" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo5.png" title="">
+                        <a href="#">
+                        <img src="images/clients/naver.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.1300k.com/shop/brandbook/brandbook.html?f_bno=BI77001" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo7.png" title="">
+                        <a href="#">
+                        <img src="images/clients/sk-ecoplant.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://store.musinsa.com/app/goods/1770553" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo11.png" title="">
+                        <a href="#">
+                        <img src="images/clients/samsung.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://shop.11st.co.kr/stores/355264?pdpPrdNo=3017885802" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo3.png" title="">
+                        <a href="#">
+                        <img src="images/clients/korea-it.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="http://minishop.gmarket.co.kr/fodi425" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo4.png" title="">
+                        <a href="#">
+                        <img src="images/clients/sdk.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://bit.ly/3sNiV30" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo8.png" title="">
+                        <a href="#">
+                        <img src="images/clients/cyberlogic.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.lotteon.com/p/display/seller/sellerShop/LD339925" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo9.png" title="">
+                        <a href="#">
+                        <img src="images/clients/pantos.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://bit.ly/3uVtSRE" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo10.png" title="">
+                        <a href="#">
+                        <img src="images/clients/shinhan.webp" title="">
                         </a>
                     </li>
                     <li>
-                        <a href="https://front.wemakeprice.com/deal/600030688?refer=AD" target="_blank">
-                        <img src="http://fodi.co.kr/theme/business/extend/contents/fodi_c3/img/c3_logo6.png" title="">
+                        <a href="#">
+                        <img src="images/clients/lg.webp" title="">
                         </a>
                     </li>
                     </ul>
