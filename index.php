@@ -43,6 +43,11 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Particle css -->
     <link rel="stylesheet" href="css/particle-theme.css">
+    <!-- Swiper -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" /> -->
+    <link rel="stylesheet" href="css/swiper.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
 </head>
 
 <body>
@@ -334,8 +339,8 @@
                 </div>
             <!-- COUNTER END -->
             
-            <!-- SECTION CONTENTG START -->
-            <div class="section-full p-t100 p-b70 mobile-page-padding">
+            <!-- SECTION OUR CLIENTS START -->
+            <div class="section-full p-t100 p-b50 mobile-page-padding">
                 <div class="container">
                     <div class="c3_top">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Clients</h1>
@@ -422,7 +427,101 @@
                     </div>
                 </div>
             </div>
-            <!-- SECTION CONTENTG END -->
+            <!-- SECTION OUR CLIENTS END -->
+
+            <!-- SECTION OUR Partners START -->
+             <div class="section-full p-t10 p-b50 mobile-page-padding">
+                <div class="container">
+                    <div class="c3_top">
+                        <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
+                    </div>
+                    <!-- ====== start clients ====== -->
+                    <section class="clients style-5 pb-100 mt-40">
+                        <div class="content">
+                            <div class="clients-slider5">
+                                <div class="swiper-container">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/dell.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/hewlett.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/kaspersky.png" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/cisco.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/ibm.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/fortinet.png" alt="">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clients-slider5" dir="rtl">
+                                <div class="swiper-container">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/juniper.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/singtel.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/sangfor.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/alhua.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/doalltech.png" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/apc.webp" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <a href="#" class="img">
+                                            <img src="images/partners/m-1.webp" alt="">
+                                            </a>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- ====== end clients ====== -->
+                </div>
+            </div>
+            <!-- SECTION OUR Partners End -->
 
         </div>
       
@@ -436,42 +535,79 @@
     
     </div>
 
-
-<!-- JAVASCRIPT  FILES ========================================= --> 
-<!-- JQUERY.MIN JS -->
-<script src="js/jquery-3.6.1.min.js.js"></script>
-<!-- POPPER.MIN JS -->
-<script src="js/popper.min.js"></script>
-<!-- BOOTSTRAP.MIN JS -->
-<script src="js/bootstrap.min.js"></script>
-<!-- MAGNIFIC-POPUP JS -->
-<script src="js/magnific-popup.min.js"></script>
-<!-- WAYPOINTS JS -->
-<script src="js/waypoints.min.js"></script>
-<!-- COUNTERUP JS -->
-<script src="js/counterup.min.js"></script>
-<!-- sticky header JS -->
-<script src="js/waypoints-sticky.min.js"></script>
-<!-- MASONRY  -->
-<script src="js/isotope.pkgd.min.js"></script>
-<!-- MASONRY  -->
-<script src="js/imagesloaded.pkgd.min.js"></script>
-<!-- OWL  SLIDER  -->
-<script src="js/owl.carousel.min.js"></script>
-<!--sticky content-->
-<script src="js/theia-sticky-sidebar.js"></script>
-<!-- WOW JS -->
-<script src="js/wow.js"></script>
-<!-- IMAGE POPUP -->
-<script src="js/lc_lightbox.lite.js" ></script>
-<!-- Swiper js -->
-<script src="js/swiper-bundle.min.js"></script>
-<!-- CUSTOM FUCTIONS  -->
-<script src="js/custom.js"></script>
-<!-- <script src="js/particle-theme.js"></script> -->
-<script src="js/page-home-dark.js"></script>
-<script src="vendor/particles/particles.min.js"></script>
-
+                                                    
+    <script>
+        // ------------ clients sliders -----------
+        $(document).ready(function() {
+            let SwiperBottom = new Swiper('.clients-slider5 .swiper-container', {
+                spaceBetween: 0,
+                centeredSlides: true,
+                slidesPerView: 6,
+                speed: 6000,
+                autoplay: {
+                    delay: 1,
+                },
+                loop: true,
+                allowTouchMove: false,
+                disableOnInteraction: true,
+                breakpoints: {
+                    0: {
+                        slidesPerView: 2,
+                    },
+                    480: {
+                        slidesPerView: 2,
+                    },
+                    787: {
+                        slidesPerView: 3,
+                    },
+                    991: {
+                        slidesPerView: 4,
+                    },
+                    1200: {
+                        slidesPerView: 6,
+                    }
+                }
+            });
+        });
+        
+    </script>
+    <!-- JAVASCRIPT  FILES ========================================= --> 
+    <!-- JQUERY.MIN JS -->
+    <script src="js/jquery-3.6.1.min.js.js"></script>
+    <!-- POPPER.MIN JS -->
+    <script src="js/popper.min.js"></script>
+    <!-- BOOTSTRAP.MIN JS -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- MAGNIFIC-POPUP JS -->
+    <script src="js/magnific-popup.min.js"></script>
+    <!-- WAYPOINTS JS -->
+    <script src="js/waypoints.min.js"></script>
+    <!-- COUNTERUP JS -->
+    <script src="js/counterup.min.js"></script>
+    <!-- sticky header JS -->
+    <script src="js/waypoints-sticky.min.js"></script>
+    <!-- MASONRY  -->
+    <script src="js/isotope.pkgd.min.js"></script>
+    <!-- MASONRY  -->
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <!-- OWL  SLIDER  -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!--sticky content-->
+    <script src="js/theia-sticky-sidebar.js"></script>
+    <!-- WOW JS -->
+    <script src="js/wow.js"></script>
+    <!-- IMAGE POPUP -->
+    <script src="js/lc_lightbox.lite.js" ></script>
+    <!-- Swiper js -->
+    <script src="js/swiper-bundle.min.js"></script>
+    <!-- CUSTOM FUCTIONS  -->
+    <script src="js/custom.js"></script>
+    <!-- <script src="js/particle-theme.js"></script> -->
+    <script src="js/page-home-dark.js"></script>
+    <script src="vendor/particles/particles.min.js"></script>
+    <!-- Swiper -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script src="js/swiper.min.js"></script>                                 
 </body>
 <!-- Developer By Afif Muhamad -->
 </html>

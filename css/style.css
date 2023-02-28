@@ -10278,7 +10278,34 @@ INPUT ANIMATION
 .pt-4-1{
 	padding-top: 1.5rem!important;
 }
-	
+
+/* --------------- clients style 5 --------------- */
+.clients.style-5 .content .img {
+	padding: 30px;
+	text-align: center;
+	border-radius: 20px;
+	border: 1px solid rgba(153, 153, 153, 0.2666666667);
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+		-ms-flex-align: center;
+			align-items: center;
+	-webkit-box-pack: center;
+		-ms-flex-pack: center;
+			justify-content: center;
+	margin: 5px;
+	height: 150px;
+}
+.clients.style-5 .content .img.img-card {
+	width: 19%;
+}
+.clients.style-5 .swiper-wrapper {
+	-webkit-transition-timing-function: linear !important;
+	-o-transition-timing-function: linear !important;
+	   transition-timing-function: linear !important;
+	position: relative;
+}
 
 @media only screen and (max-width:768px) {
 	
