@@ -39,13 +39,13 @@
               <a href="javascript:;">Home</a>
             </li>
             <li>
-              <a href="javascript:;">About Us</a>
+              <a href="#about-us">About Us</a>
               <ul class="sub-menu">
                 <li>
-                  <a href="#">Our Clients</a>
+                  <a href="#our-clients">Our Clients</a>
                 </li>
                 <li>
-                  <a href="#">Our Partners</a>
+                  <a href="#our-partners">Our Partners</a>
                 </li>
               </ul>
             </li>

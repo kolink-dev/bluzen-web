@@ -99,6 +99,7 @@
         <!-- CONTENT END -->
 
         <!-- OUR SERVICES SECTION START -->
+        <section id="about-us" class="p-b30"></section>
         <div class="section-full pt-0 top-2 p-b80 sx-our-services-outer">
             <div class="container">
                 <!-- TITLE START -->
@@ -340,14 +341,15 @@
             <!-- COUNTER END -->
             
             <!-- SECTION OUR CLIENTS START -->
-            <div class="section-full p-t100 p-b50 mobile-page-padding">
+            <section class="mb-5" id="our-clients" ></section>
+            <div class="section-full p-t60 p-b50 mobile-page-padding">
                 <div class="container">
                     <div class="c3_top">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Clients</h1>
                         <!-- <span data-aos="fade-left" class="aos-init aos-animate"></span> -->
                         <!-- <p data-aos="fade-left" data-aos-delay="100" class="aos-init aos-animate">삼성전자 공식 온라인 파트너 ㈜포디아이의 제품을 구입하실 수 있는 스토어 입니다. <br>포디아이만의 다양한 혜택을 만나보세요. </p> -->
                     </div>
-                    <div class="section-content mt-40">
+                    <div class="section-content mt-4">
                         <div class="sx-box m-b30">
                             <div class="icon-font container">
                                 <div class="row">
@@ -430,14 +432,14 @@
             <!-- SECTION OUR CLIENTS END -->
 
             <!-- SECTION OUR Partners START -->
-             <div class="section-full p-t10 p-b50 mobile-page-padding">
+             <div class="section-full p-t10 p-b40 mobile-page-padding" id="our-partners">
                 <div class="container">
                 <hr>
-                    <div class="c3_top">
+                    <div class="c3_top mt-3">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
                     </div>
                     <!-- ====== start clients ====== -->
-                    <section class="clients style-5 pb-100 mt-40">
+                    <section class="clients style-5 pb-100 mt-4">
                         <div class="content">
                             <div class="clients-slider5">
                                 <div class="swiper-container">
