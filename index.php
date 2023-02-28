@@ -142,7 +142,7 @@
                                     <h4 class="sx-tilte">Workplace IT</h4>
                                     <p class="text-left">Making it easier for your teams to work together and share information is a surefire way to boost productivity and gain a competitive edge.</p>
                                     <div class="sx-center-btn">
-                                        <a href="#" class="site-button-circle">
+                                        <a href="javascript:void(0);" class="site-button-circle">
                                         <i class="fa fa-long-arrow-right"></i>
                                         </a>
                                     </div>
@@ -327,74 +327,74 @@
             <section id="c3_wrap">
                 <div class="c_inner">
                     <div class="c3_top">
-                    <h1 data-aos="fade-left" class="aos-init aos-animate">Our Clients</h1>
-                    <span data-aos="fade-left" class="aos-init aos-animate"></span>
-                    <!-- <p data-aos="fade-left" data-aos-delay="100" class="aos-init aos-animate">삼성전자 공식 온라인 파트너 ㈜포디아이의 제품을 구입하실 수 있는 스토어 입니다. <br>포디아이만의 다양한 혜택을 만나보세요. </p> -->
+                        <h1 data-aos="fade-left" class="aos-init aos-animate">Our Clients</h1>
+                        <span data-aos="fade-left" class="aos-init aos-animate"></span>
+                        <!-- <p data-aos="fade-left" data-aos-delay="100" class="aos-init aos-animate">삼성전자 공식 온라인 파트너 ㈜포디아이의 제품을 구입하실 수 있는 스토어 입니다. <br>포디아이만의 다양한 혜택을 만나보세요. </p> -->
                     </div>
                     <ul class="c3_list">
-                    <li>
-                        <a href="#">
-                            <img src="images/clients/daelim.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="images/clients/hyundai.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="images/clients/daewoo.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/naver.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/sk-ecoplant.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/samsung.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/korea-it.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/sdk.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/cyberlogic.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/pantos.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/shinhan.webp" title="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <img src="images/clients/lg.webp" title="">
-                        </a>
-                    </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                                <img src="images/clients/daelim.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                                <img src="images/clients/hyundai.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                                <img src="images/clients/daewoo.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/naver.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/sk-ecoplant.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/samsung.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/korea-it.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/sdk.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/cyberlogic.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/pantos.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/shinhan.webp" title="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                            <img src="images/clients/lg.webp" title="">
+                            </a>
+                        </li>
                     </ul>
                 </div>
-                </section>
+            </section>
         </div>
       
         <!-- OUR SERVICES SECTION END -->
