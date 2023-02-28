@@ -10274,10 +10274,17 @@ INPUT ANIMATION
 	transform: scale(0.8);
 	transition: 1s e
 }
-	
+
+.pt-4-1{
+	padding-top: 1.5rem!important;
+}
 	
 @media only screen and (max-width:768px) {
 	
+	.pt-4-1{
+		padding-top: 0.05rem!important;
+	}
+
 	.bg-count{
 		background-color: #00bfff;
 		border-top: none;

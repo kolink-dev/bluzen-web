@@ -278,7 +278,7 @@
             </div>
                                                     
             <!-- COUNTER START -->
-                <div class="counter-blocks bg-count pt-4 mt-5">
+                <div class="counter-blocks bg-count pt-4-1 mt-5">
                     <div class="text-center mb-5 mt-5">
                        <h2 class="bl-count-font">Bluzen in Numbers</h2>
                     </div>
