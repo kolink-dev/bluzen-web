@@ -143,11 +143,11 @@
                                     <div class="h-350-left">
                                         <p>Making it easier for your teams to work together and share information is a surefire way to boost productivity and gain a competitive edge.</p>
                                     </div>
-                                    <!-- <div class="sx-center-btn">
+                                    <div class="sx-center-btn">
                                         <a href="javascript:void(0);" class="site-button-circle">
                                         <i class="fa fa-long-arrow-right"></i>
                                         </a>
-                                    </div> -->
+                                    </div>
                                     </div>
                                 </div>
                                 </div>
@@ -187,11 +187,11 @@
                                         <div class="h-200-left">
                                             <p>In order to start a stable business and smooth business operation at an overseas plant, it is essential to construct a network timely from the factory building design stage, and to establish efficient operation, maintenance, and technical support system.</p>
                                         </div>
-                                        <!-- <div class="sx-center-btn">
+                                        <div class="sx-center-btn">
                                             <a href="javascript:void(0);" class="site-button-circle">
                                             <i class="fa fa-long-arrow-right"></i>
                                             </a>
-                                        </div> -->
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
@@ -223,11 +223,11 @@
                                         <div class="h-200-left">
                                             <p>To work with Factory ERP system leader “ISC”, Bluzen is providing Total Factory Solution of IT Infra and ERP System by professional technicians. This enables you to build a systematic and rapid IT environment just like an automated factory.</p>
                                         </div>
-                                        <!-- <div class="sx-center-btn">
+                                        <div class="sx-center-btn">
                                             <a href="javascript:void(0);" class="site-button-circle">
                                             <i class="fa fa-long-arrow-right"></i>
                                             </a>
-                                        </div> -->
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
@@ -262,11 +262,11 @@
                                         <div class="h-200-left">
                                             <p>Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution.</p>
                                         </div>
-                                        <!-- <div class="sx-center-btn">
+                                        <div class="sx-center-btn">
                                             <a href="javascript:void(0);" class="site-button-circle">
                                             <i class="fa fa-long-arrow-right"></i>
                                             </a>
-                                        </div> -->
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
@@ -279,7 +279,7 @@
                                                     
             <!-- COUNTER START -->
                 <div class="counter-blocks bg-count pt-4 mt-5">
-                    <div class="text-center mb-5">
+                    <div class="text-center mb-5 mt-5">
                        <h2 class="bl-count-font">Bluzen in Numbers</h2>
                     </div>
                     <div class="container">
@@ -349,71 +349,71 @@
                                     <div class="icon-font-block2">
                                         <img src="images/clients/daelim.webp">
                                     </div>
-                                    <div class="icon-font-block2">
+                                    <div class="icon-font-block2 border-re-mb">
                                         <img src="images/clients/hyundai.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/daewoo.webp">
                                     </div>
-                                    <div class="icon-font-block2">
+                                    <div class="icon-font-block2 border-re-mb">
                                         <img src="images/clients/naver.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/sk-ecoplant.webp">
                                     </div>
-                                    <div class="icon-font-block2 border-re">
+                                    <div class="icon-font-block2 border-re border-re-mb">
                                         <img src="images/clients/samsung.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/korea-it.webp">
                                     </div>
-                                    <div class="icon-font-block2">
+                                    <div class="icon-font-block2 border-re-mb">
                                         <img src="images/clients/sdk.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/cyberlogic.webp">
                                     </div>
-                                    <div class="icon-font-block2">
+                                    <div class="icon-font-block2 border-re-mb">
                                         <img src="images/clients/pantos.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/shinhan.webp">
                                     </div>
-                                    <div class="icon-font-block2 border-re">
+                                    <div class="icon-font-block2 border-re border-re-mb">
                                         <img src="images/clients/lg.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/cj.webp">
                                     </div>
-                                    <div class="icon-font-block2">
+                                    <div class="icon-font-block2 border-re-mb">
                                         <img src="images/clients/penta.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/nps.webp">
                                     </div>
-                                    <div class="icon-font-block2">
+                                    <div class="icon-font-block2 border-re-mb">
                                         <img src="images/clients/nonghyup.webp">
                                     </div>
                                     <div class="icon-font-block2">
                                         <img src="images/clients/the-shilla.webp">
                                     </div>
-                                    <div class="icon-font-block2 border-re border-bt">
+                                    <div class="icon-font-block2 border-re border-bt border-re-mb">
                                         <img src="images/clients/lg-chem.webp">
                                     </div>
                                     <div class="icon-font-block2 border-bt">
                                         <img src="images/clients/dongah.webp">
                                     </div>
-                                    <div class="icon-font-block2 border-bt">
+                                    <div class="icon-font-block2 border-bt border-re-mb">
                                         <img src="images/clients/gs.webp">
                                     </div>
                                     <div class="icon-font-block2 border-bt">
                                         <img src="images/clients/enzan.webp">
                                     </div>
-                                    <div class="icon-font-block2 border-bt">
+                                    <div class="icon-font-block2 border-bt border-re-mb">
                                         <img src="images/clients/hyundai-eng.webp">
                                     </div>
-                                    <div class="icon-font-block2 border-re border-bt">
-                                        <img src="images/clients/amore.webp">
+                                    <div class="icon-font-block2 border-re border-bt border-re-mb">
+                                        <img src="images/clients/amore.webp" class="min-top-20">
                                     </div>
 
                                 </div>

@@ -10225,17 +10225,24 @@ INPUT ANIMATION
 
 .h-200-left{
 	text-align: left;
-	height: 300px;
+	height: 270px;
 }
 
 .h-350-left{
 	text-align: left;
-	height: 330px;
+	height: 300px;
+}
+
+.font-linkdin{
+	font-size: 20px !important;
+	color: #FFFFFF !important;
+	text-align: left !important;
 }
 
 .bg-count{
 	background-color: #00bfff;
 	border-top: none;
+	height: 400px;
 }
 
 .icon-font-block2{
@@ -10270,6 +10277,13 @@ INPUT ANIMATION
 	
 	
 @media only screen and (max-width:768px) {
+	
+	.bg-count{
+		background-color: #00bfff;
+		border-top: none;
+		height: auto;
+	}
+
 	.mt-40{
 		margin-top: 20px;
 	}
@@ -10278,14 +10292,24 @@ INPUT ANIMATION
 		border-bottom: 1px solid #ddd !important;
 	}
 
+	.border-re-mb{
+		border-right: 1px solid #ddd !important;
+	}
+
 	.icon-font-block2{
 		width: 50%;
 		align-items: center;
 		justify-content: center;
 		border: 1px solid #ddd;
 		border-bottom: 0;
-    	/* border-right: 0; */
+    	border-right: 0;
 		padding: 10px;
+		text-align: center;
+		height: 120px;
+	}
+
+	.min-top-20{
+		margin-top: -20px;
 	}
 
 	.bl-count-font {
