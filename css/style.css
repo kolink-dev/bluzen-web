@@ -3457,7 +3457,7 @@ input[type=radio]:checked+label:before {
 .site-footer .widget_services ul li {
 	margin-bottom: 0px;
 	position: relative;
-	padding: 0px 10px 25px 0px;
+	padding: 0px 10px 15px 0px;
 	line-height: 20px;
 	background: none;
 }
@@ -5117,7 +5117,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 .footer-dark .footer-top {
 	padding-top: 115px;
-	padding-bottom: 75px;
+	padding-bottom: 120px;
 }
 @media only screen and (max-width:991px){
 	.footer-dark .footer-top {
@@ -5157,12 +5157,13 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	font-size: 14px;
 	line-height: 28px;
 	color: rgba(255, 255, 255, 0.7);
-	margin: 0px 70px;
-	padding: 40px;
+	/* margin: 0px 70px; */
+	padding: 20px;
 	background: #0b2958;
-	border-radius: 5px;
+	/* border-radius: 5px; */
 
 }
+
 .sx-f-bottom-section .sx-f-copy a{color: var(--white);}
 @media only screen and (max-width:767px){
 	.sx-f-bottom-section{
@@ -10338,7 +10339,16 @@ INPUT ANIMATION
 .image-logo-footer{
 	max-width: 150%;
 }
+
+.ml-f-5{
+	margin-left: 50px;
+}
 @media only screen and (max-width: 991px){
+	
+	.ml-f-5{
+		margin-left: 0px;
+	}
+
 	.cp-h2{
 		font-size: 20px;
 		font-weight: 600;
@@ -10357,6 +10367,9 @@ INPUT ANIMATION
 }
 
 @media only screen and (max-width:768px) {
+	.ml-f-5{
+		margin-left: 0px;
+	}
 	
 	.mb-contact{
 		margin-bottom:20px

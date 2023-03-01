@@ -1,7 +1,7 @@
   <!-- FOOTER START -->
 <footer class="site-footer footer-dark ft-bg">
     <!-- FOOTER BLOCKES START -->  
-    <div class="footer-top">
+    <div class="p-t60">
         <div class="container">
             <div class="row">
                 <!-- ABOUT COMPANY -->
@@ -23,9 +23,8 @@
                 </div> 
                 
                 <!-- EXPLORE LINKS -->
-                <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6 col-6 col">
-
-                    <div class="widget widget_services">
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6 col">
+                    <div class="widget widget_services ml-f-5">
                         <h4 class="sx-f-title">Service & Solutions</h4>
                         <ul>
                             <li><a href="#">Workplace IT</a></li>
@@ -38,19 +37,20 @@
                 </div> 
                 
                 <!-- USEFUL LINK -->
-                <!-- <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6 col-6 col">
-
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6 col">
                     <div class="widget widget_services">
-                        <h4 class="sx-f-title">Useful Links</h4>
+                        <h4 class="sx-f-title">Location</h4>
                         <ul>
-                            <li><a href="mission-vision.html">Mission &amp; Vision</a></li>
-                            <li><a href="why-choose-us.html">Why Choose Us</a></li>
-                            <li><a href="portfolio.html">Portfolio</a></li>
-                            <li><a href="portfolio-2.html">Case Studies</a></li>
-                            <li><a href="portfolio-detail.html">Case Studies V2</a></li>
+                           <li>
+                            <h4 class="sx-f-title mb-1">Bluzen Pte Ltd Singapore</h4>
+                            <p> 21 Bukit Batok Crescent, #13-73 WCEGA Tower, Singapore 658056
+                            Tel: +65 6271 0177 / 070 8843 5095</p>
+                            </li>
+                           <li></li>
+                           <li></li>
                         </ul>
                     </div>							                          
-                </div> -->
+                </div>
                                     
                 <!-- SOLUTIONS -->
                 <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-12 col footer-col-3">

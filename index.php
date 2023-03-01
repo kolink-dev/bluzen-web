@@ -577,10 +577,73 @@
 
                         </div>
                     </div>
-                    
-                   
                 </div>
             <!-- COUNTER END -->
+            <div class="section-full p-t60 p-b0 bg-white mobile-page-padding">
+                <!-- TESTIMONIAL START -->
+                <div class="container">
+                    <div class="section-content">
+                    <!-- TITLE START -->
+                         <div class="c3_top mt-4 mb-5">
+                            <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
+                        </div>
+                    <!-- TITLE END -->
+                        <div class="masonry-outer mfp-gallery news-grid clearfix row" style="position: relative; height: 876.376px;">
+                            <!-- COLUMNS 1 -->
+                            <div class="masonry-item  col-lg-4 col-md-6 col-sm-12 m-b30" style="position: absolute; left: 0px; top: 0px;">
+                                <div class="testimonial-3  hover-animation-1 sx-bg-light">
+                                    <div class="testimonial-user-info">
+                                        <h4 class="testimonial-name">HCMC Gets Connected</h4>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p>
+                                            The Ho Chi Minh Metro (HCMC Metro) is a project by GS E&C to alleviate the severe traffic congestion in the city of Ho Chi Minh and providing the Vietnamese a completely new and convenient way of moving in the near future. 
+                                            It is an extensive rapid transit network of elevated railways that is scheduled to start its operation in 2024 to serve the city and its surrounding provinces. 
+                                            Bluzen has been supporting the IT infrastructure of this monumental project. Headed by Mr Nathan of Bluzen Vietnam, our team provides IT infrastructure and maintenance services to the GS E&C offices. 
+                                            Read more at https://bit.ly/3AFN6OM or you can reach out to Mr Nathan (nathan@bluzen.com) to learn more.
+                                        </p>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <!-- COLUMNS 2 -->
+                            <div class="masonry-item  col-lg-4 col-md-6 col-sm-12 m-b30" style="position: absolute; left: 0px; top: 0px;">
+                                <div class="testimonial-3  hover-animation-1 sx-bg-light">
+                                    <div class="testimonial-user-info">
+                                        <h4 class="testimonial-name">Woodlands Health Campus</h4>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p>
+                                        Bluzen is honoured to support the IT Infrastructure of SDK in the construction of the Woodlands Health Campus - an integrated health hub that encompasses SMART technology, green space for healing as well as setting a strong ecosystem for community care. 
+                                        The 7.66-hectare WHC will use SMART technology and AI to increase productivity and improve the quality of patient care. 
+                                        Read more at http://bitly.ws/nizF.
+                                        </p>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                            <!-- COLUMNS 3 -->
+                            <div class="masonry-item  col-lg-4 col-md-6 col-sm-12 m-b30" style="position: absolute; left: 0px; top: 0px;">
+                                <div class="testimonial-3  hover-animation-1 sx-bg-light">
+                                    <div class="testimonial-user-info">
+                                        <h4 class="testimonial-name">Changi East Project</h4>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p>
+                                            Bluzen is proud to be a part of the Changi East Project by providing IT hardware support to Enzan Koubou Co. Ltd.
+                                        </p>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    
+                        </div>
+                    </div>
+                </div>
+                <!-- TESTIMONIAL END -->
+            </div>
         </div>
       
         <!-- OUR SERVICES SECTION END -->
