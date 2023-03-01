@@ -11,9 +11,8 @@
     <meta name="description" content="Bluzen, which was established in 2013, offers a wide range of technology services and solutions, from strategic IT consulting to solution implementation.">
     
     <!-- FAVICONS ICON -->
-    <!-- <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png"> -->
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
     <!-- PAGE TITLE HERE -->
     <title>Bluzen | We support your growth through digital transformation</title>
     <link rel="canonical" href="http://localhost/bluzen/" />
@@ -56,7 +55,7 @@
     <div class="loading-box"></div>
     <div class="loading-pic">
         <div class="loading">
-            <h2><img src="images/footer-logo.webp" alt="#"></h2>
+            <!-- <h2><img src="images/footer-logo.webp" alt="#"></h2> -->
             <span></span>
             <span></span>
             <span></span>
@@ -68,14 +67,47 @@
     </div>
 </div>
 <!-- LOADING AREA  END ====== -->
-
+       
 	<div class="page-wraper"> 
                	
         <!-- HEADER START -->
             <?php include('layouts/header.php') ?>
             
         <!-- HEADER END -->
-        
+
+        <div id="main_location">
+            <ul>
+                <li>
+                <a class="default_location2 active_location2" id="quick_btn1" href="#top" onfocus="this.blur();">
+                    <span class="num">01</span>
+                    <span class="line"></span>
+                    <span class="txt">Home</span>
+                </a>
+                </li>
+                <li>
+                <a class="default_location2" id="quick_btn2" href="#about-us" onfocus="this.blur();">
+                    <span class="num">02</span>
+                    <span class="line"></span>
+                    <span class="txt">About Us</span>
+                </a>
+                </li>
+                <li>
+                <a class="default_location2" id="quick_btn3" href="#our-clients" onfocus="this.blur();">
+                    <span class="num">03</span>
+                    <span class="line"></span>
+                    <span class="txt">Our Clients</span>
+                </a>
+                </li>
+                <li>
+                <a class="default_location2" id="quick_btn4" href="#our-partners" onfocus="this.blur();">
+                    <span class="num">04</span>
+                    <span class="line"></span>
+                    <span class="txt">Our Partners</span>
+                </a>
+                </li>
+            </ul>
+        </div>
+
         <!-- CONTENT START -->
         <section id="top" class="pa-hero pa-centered-section pa-full-height pa-image-back pushable-content" style="background-image: url(images/hero-dark.jpg);">
             <div class="pa-absolute-fill pa-gradient-back-v1" style="opacity: 0;"></div><!-- Increase opacity to overlay hero with a gradient -->
@@ -432,10 +464,11 @@
             <!-- SECTION OUR CLIENTS END -->
 
             <!-- SECTION OUR Partners START -->
-             <div class="section-full p-t10 p-b40 mobile-page-padding" id="our-partners">
+            <section class="mb-5" id="our-partners"></section>
+             <div class="section-full p-t10 p-b40 mobile-page-padding">
                 <div class="container">
                 <hr>
-                    <div class="c3_top mt-3">
+                    <div class="c3_top mt-4">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
                     </div>
                     <!-- ====== start clients ====== -->
@@ -526,11 +559,33 @@
             </div>
             <!-- SECTION OUR Partners End -->
 
+            <!-- COUNTER START -->
+                <div class="counter-blocks bg-contact ">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-7 col-12 mt-2">
+                                <div class="mb-contact">
+                                <h2 class="cp-h2">Are You Ready to Grow Your Business?</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 text-center">
+                                <a href="#" class="site-button site-button2 sx-btn-primary icon sx-btn-lg">
+                                    <i class="fa  fa-long-arrow-right"></i>
+                                    Contact Us
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                   
+                </div>
+            <!-- COUNTER END -->
         </div>
       
         <!-- OUR SERVICES SECTION END -->
         
-       <?php// include('layouts/footer.php') ?>
+       <?php include('layouts/footer.php') ?>
 
         <!-- BUTTON TOP START -->
 		<button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
@@ -540,7 +595,7 @@
 
                                                     
     <script>
-        // ------------ clients sliders -----------
+        // ------------ clients sliders Start-----------
         $(document).ready(function() {
             let SwiperBottom = new Swiper('.clients-slider5 .swiper-container', {
                 spaceBetween: 0,
@@ -572,7 +627,54 @@
                 }
             });
         });
+        // ------------ clients sliders End-----------
+
         
+        $(window).scroll(function () {
+            const this_scroll_top = $(this).scrollTop();
+            const fix_top_value = 0; // top 
+            const m01_y = $("#top").offset().top;
+            const m02_y = $("#about-us").offset().top -450;
+            const m03_y = $("#our-clients").offset().top -420;
+            const m04_y = $("#our-partners").offset().top -420;
+
+            let this_pass = "1";
+            if (this_scroll_top >= (m01_y - fix_top_value) || this_scroll_top < (m02_y - fix_top_value)) {
+                this_pass = "1";
+            }
+            if (this_scroll_top >= (m02_y - fix_top_value)) {
+                this_pass = "2";
+            }
+            if (this_scroll_top >= (m03_y - fix_top_value)) {
+                this_pass = "3";
+            }
+            if (this_scroll_top >= (m04_y - fix_top_value)) {
+                this_pass = "4";
+            }
+
+            
+            fn_menu_on(this_pass);
+        });
+
+        
+        function fn_menu_on(n){
+            let active_class = '';
+            if (n==1 || n==3) {
+                active_class = 'active_location2';
+                default_class = 'default_location2';
+            } else {
+                active_class = 'active_location';
+                default_class = 'default_location'
+            }
+
+            remove_class = 'default_location active_location default_location2 active_location2';
+
+            console.log(active_class);
+
+            $('#main_location').find('a').removeClass(remove_class);
+            $('#main_location').find('a').addClass(default_class);
+            $('#quick_btn'+n).addClass(active_class);
+        }
     </script>
     <!-- JAVASCRIPT  FILES ========================================= --> 
     <!-- JQUERY.MIN JS -->

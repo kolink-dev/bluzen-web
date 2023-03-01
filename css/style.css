@@ -3480,7 +3480,7 @@ input[type=radio]:checked+label:before {
 }
 
 .site-footer .widget_services ul li a {
-	color: rgba(255, 255, 255, 0.5);
+	color: rgb(233 233 233 / 87%);
 }
 
 .site-footer .widget_services ul li a:hover {
@@ -3507,6 +3507,7 @@ input[type=radio]:checked+label:before {
 
 .widget_about p {
 	margin-bottom: 10px;
+	color: #ddd9d9;
 }
 .widget_about-call-section{
 	margin-top: 30px;
@@ -5110,6 +5111,10 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	background-color: #251A37;
 }
 
+.ft-bg{
+	background-color: #224985 !important;
+}
+
 .footer-dark .footer-top {
 	padding-top: 115px;
 	padding-bottom: 75px;
@@ -5154,7 +5159,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	color: rgba(255, 255, 255, 0.7);
 	margin: 0px 70px;
 	padding: 40px;
-	background: #1D152C;
+	background: #0b2958;
 	border-radius: 5px;
 
 }
@@ -10308,8 +10313,68 @@ INPUT ANIMATION
 	position: relative;
 }
 
+.cp-h2{
+	font-size: 40px;
+    font-weight: 600;
+    color: #FFFFFF;
+	text-align:right;
+
+}	
+
+.bg-contact{
+	background-color: #00bfff;
+    border-top: none;
+	padding-top: 30px !important;
+}
+
+.site-button2{
+    font-size: 20px;
+}
+
+.mb-contact{
+	margin-bottom:35px
+}
+
+.image-logo-footer{
+	max-width: 150%;
+}
+@media only screen and (max-width: 991px){
+	.cp-h2{
+		font-size: 20px;
+		font-weight: 600;
+		color: #FFFFFF;
+		text-align:right;
+	}	
+	
+	.site-button2{
+		font-size: 12px;
+		margin-bottom: 30px;
+	}
+	
+	.mb-contact{
+		margin-bottom:20px
+	}
+}
+
 @media only screen and (max-width:768px) {
 	
+	.mb-contact{
+		margin-bottom:20px
+	}
+
+	.cp-h2{
+		font-size: 20px;
+		font-weight: 600;
+		color: #FFFFFF;
+		text-align:center;
+	}	
+	
+	.site-button2{
+		font-size: 12px;
+		margin-bottom: 30px;
+		/* margin-top:30px; */
+	}
+
 	.mt-3-mb{
 		margin-top: 25px;
 	}
@@ -10426,3 +10491,38 @@ INPUT ANIMATION
 	} */
 }
 
+
+
+#main_location {position: fixed; top: 50%; right: 60px; z-index: 9; transform: translateY(-50%);}
+#main_location ul li {height: 70px; margin-top:-3px; list-style: none; }
+#main_location ul li:last-child {margin-bottom:0;}
+
+#main_location ul li a {height: 100%; display: flex; align-items: center; }
+#main_location ul li a span {display: block; font-size:13px; font-weight: 400; color:#fff; }
+#main_location ul li a span.line {display: block; width: 1px; height: 100%; background: rgb(151 147 147); transition: all .3s ease ;position: relative; margin:0 30px;}
+#main_location ul li a span.line::before {content: ''; display: block; width: 3px; height: 3px; border-radius: 50%; position: absolute; left:-1px; top:0; background: #fff;
+transition: all .3s ease; }
+#main_location ul li a span.line::after {content: ''; display: block; width: 3px; height: 3px; border-radius: 50%; position: absolute; left:-1px; bottom:0; background: #fff;
+transition: all .3s ease ;}
+#main_location ul li a span.num {transition: all .3s ease; font-weight: 500; opacity: 0; width: 18px;}
+
+#main_location ul li a.default_location span { color:rgb(0 0 0 / 65%); }
+#main_location ul li a.default_location span.line {background: rgba(0,0,0,.1); }
+#main_location ul li a.default_location span.line::before, #main_location ul li a.default_location span.line::after {background-color:#0053a5;}
+#main_location ul li a.active_location span {color:#0074e5; }
+#main_location ul li a.active_location span.num {opacity: 1; }
+#main_location ul li a.active_location span.line {background: #0074e5; }
+
+#main_location ul li a.default_location2 span {color:rgb(133 123 123); }
+#main_location ul li a.active_location2 span {color:#0d8ad3;}
+#main_location ul li a.active_location2 span.line {background-color: #0074e5; }
+#main_location ul li a.active_location2 span.num {color:#0d8ad3; opacity: 1; }
+
+/* #main_location ul li a.active_w {color:#fff; opacity: .5;}
+#main_location ul li a.active_w::after {background: #fff; opacity: .5;}
+#main_location ul li a.active.active_w  {opacity: 1;}
+#main_location ul li a.active.active_w::after {opacity: 1; background: transparent; border:4px solid #fff;} */
+
+@media screen and (max-width:1700px) {
+    #main_location {display: none; }
+}

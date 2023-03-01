@@ -1087,12 +1087,8 @@ nav a em {
  * ========
  */
 
-p {
-	font-size: 17px;
-	color: #647D89;
-	font-weight: 300;
-}
 
+ 
 p.pa-p-v1 {
 	margin-bottom: 30px;
 	line-height: 26px;
@@ -2320,33 +2316,6 @@ img.pa-services-image {
 }
 
 
-/*
- * 18. Footer
- * ==========
- */
-
-footer {
-	position: relative;
-	background-color: #0C161E;
-}
-
-footer p {
-	font-size: 15px;
-	font-weight: 400;
-	color: #697982;
-}
-
-footer a {
-	/*font-weight: 300;*/
-	color: #87A1AD;
-}
-
-section.pa-main-footer {
-	background: #091015;
-	padding: 60px 20px 40px;
-}
-
-
 /* 
  * 19. Custom Animations, Effects & Decorations
  * ============================================
@@ -3281,9 +3250,6 @@ section.pa-main-footer {
 
 	/* Fonts */
 
-	p {
-		font-size: 16px;
-	}
 
 	.pa-h1-v1, 
 	.single .pa-h1-v1 {
