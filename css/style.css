@@ -1500,7 +1500,9 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .sx-bg-light {
-	background-color: var(--bg-light);
+	background-color: #ededed;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgb(0 2 0 / 15%);
 }
 
 .sx-bg-white {
@@ -10343,6 +10345,17 @@ INPUT ANIMATION
 .ml-f-5{
 	margin-left: 50px;
 }
+
+.bold-text-project{
+	font-weight: 600;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+.h-200{
+	height: 200px;
+}
+
 @media only screen and (max-width: 991px){
 	
 	.ml-f-5{

@@ -47,6 +47,9 @@
                 <li>
                   <a href="#our-partners">Our Partners</a>
                 </li>
+                <li>
+                  <a href="#our-projects">Our Projects</a>
+                </li>
               </ul>
             </li>
             <li>

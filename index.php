@@ -75,38 +75,47 @@
             
         <!-- HEADER END -->
 
+        <!-- navigator side start -->
         <div id="main_location">
             <ul>
                 <li>
-                <a class="default_location2 active_location2" id="quick_btn1" href="#top" onfocus="this.blur();">
-                    <span class="num">01</span>
-                    <span class="line"></span>
-                    <span class="txt">Home</span>
-                </a>
+                    <a class="default_location2 active_location2" id="quick_btn1" href="#top" onfocus="this.blur();">
+                        <span class="num">01</span>
+                        <span class="line"></span>
+                        <span class="txt">Home</span>
+                    </a>
                 </li>
                 <li>
-                <a class="default_location2" id="quick_btn2" href="#about-us" onfocus="this.blur();">
-                    <span class="num">02</span>
-                    <span class="line"></span>
-                    <span class="txt">About Us</span>
-                </a>
+                    <a class="default_location2" id="quick_btn2" href="#about-us" onfocus="this.blur();">
+                        <span class="num">02</span>
+                        <span class="line"></span>
+                        <span class="txt">About Us</span>
+                    </a>
                 </li>
                 <li>
-                <a class="default_location2" id="quick_btn3" href="#our-clients" onfocus="this.blur();">
-                    <span class="num">03</span>
-                    <span class="line"></span>
-                    <span class="txt">Our Clients</span>
-                </a>
+                    <a class="default_location2" id="quick_btn3" href="#our-clients" onfocus="this.blur();">
+                        <span class="num">03</span>
+                        <span class="line"></span>
+                        <span class="txt">Our Clients</span>
+                    </a>
                 </li>
                 <li>
-                <a class="default_location2" id="quick_btn4" href="#our-partners" onfocus="this.blur();">
-                    <span class="num">04</span>
-                    <span class="line"></span>
-                    <span class="txt">Our Partners</span>
-                </a>
+                    <a class="default_location2" id="quick_btn4" href="#our-partners" onfocus="this.blur();">
+                        <span class="num">04</span>
+                        <span class="line"></span>
+                        <span class="txt">Our Partners</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="default_location2" id="quick_btn5" href="#our-projects" onfocus="this.blur();">
+                        <span class="num">05</span>
+                        <span class="line"></span>
+                        <span class="txt">Our Projects</span>
+                    </a>
                 </li>
             </ul>
         </div>
+        <!-- navigator side End -->
 
         <!-- CONTENT START -->
         <section id="top" class="pa-hero pa-centered-section pa-full-height pa-image-back pushable-content" style="background-image: url(images/hero-dark.jpg);">
@@ -579,28 +588,42 @@
                     </div>
                 </div>
             <!-- COUNTER END -->
+            <section class="mb-5" id="our-projects"></section>
             <div class="section-full p-t60 p-b0 bg-white mobile-page-padding">
-                <!-- TESTIMONIAL START -->
+                <!-- Project START -->
                 <div class="container">
                     <div class="section-content">
                     <!-- TITLE START -->
                          <div class="c3_top mt-4 mb-5">
-                            <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
+                            <h1 data-aos="fade-left" class="aos-init aos-animate">Our Project</h1>
                         </div>
                     <!-- TITLE END -->
                         <div class="masonry-outer mfp-gallery news-grid clearfix row" style="position: relative; height: 876.376px;">
+
+                          
+
                             <!-- COLUMNS 1 -->
                             <div class="masonry-item  col-lg-4 col-md-6 col-sm-12 m-b30" style="position: absolute; left: 0px; top: 0px;">
-                                <div class="testimonial-3  hover-animation-1 sx-bg-light">
-                                    <div class="testimonial-user-info">
-                                        <h4 class="testimonial-name">HCMC Gets Connected</h4>
+                                    
+                                <div class="p-3 hover-animation-1 sx-bg-light">
+                                   
+                                    <div class="testimonial-user mt-4 info">
+                                        <div class="text-center mb-3">
+                                            <img src="images/project/get_connected.png" alt="">
+                                        </div>
+                                        <h6 class="testimonial-name bold-text-project">
+                                            <a href="https://www.linkedin.com/posts/bluzen_bluzenvn-hcmc-gsmetro-activity-6894875692547342336-vxt2" target="_blank">
+                                                HCMC Gets Connected
+                                            </a>
+                                        </h6>
                                     </div>
-                                    <div class="testimonial-text">
+                                    <div class="testimonial-text h-200">
                                         <p>
-                                            The Ho Chi Minh Metro (HCMC Metro) is a project by GS E&C to alleviate the severe traffic congestion in the city of Ho Chi Minh and providing the Vietnamese a completely new and convenient way of moving in the near future. 
+                                            The Ho Chi Minh Metro (HCMC Metro) is a project by GS E&C to alleviate the severe traffic congestion in the city of Ho Chi Minh and providing the Vietnamese
+                                             a completely new and convenient way of moving in the near future. 
                                             It is an extensive rapid transit network of elevated railways that is scheduled to start its operation in 2024 to serve the city and its surrounding provinces. 
-                                            Bluzen has been supporting the IT infrastructure of this monumental project. Headed by Mr Nathan of Bluzen Vietnam, our team provides IT infrastructure and maintenance services to the GS E&C offices. 
-                                            Read more at https://bit.ly/3AFN6OM or you can reach out to Mr Nathan (nathan@bluzen.com) to learn more.
+                                            <!-- Bluzen has been supporting the IT infrastructure of this monumental project. Headed by Mr Nathan of Bluzen Vietnam, our team provides IT infrastructure and maintenance services to the GS E&C offices. 
+                                            Read more at <a href="https://bit.ly/3AFN6OM" target="_blank">https://bit.ly/3AFN6OM</a> or you can reach out to Mr Nathan (nathan@bluzen.com) to learn more. -->
                                         </p>
                                     </div>
                                     
@@ -609,15 +632,22 @@
                         
                             <!-- COLUMNS 2 -->
                             <div class="masonry-item  col-lg-4 col-md-6 col-sm-12 m-b30" style="position: absolute; left: 0px; top: 0px;">
-                                <div class="testimonial-3  hover-animation-1 sx-bg-light">
-                                    <div class="testimonial-user-info">
-                                        <h4 class="testimonial-name">Woodlands Health Campus</h4>
+                                <div class="p-3 hover-animation-1 sx-bg-light">
+                                    <div class="testimonial-user-info mt-4">
+                                        <div class="text-center mb-3">
+                                            <img src="images/project/health-campus.jpg" alt="">
+                                        </div>
+                                        <h6 class="testimonial-name bold-text-project">
+                                            <a href="https://www.linkedin.com/posts/bluzen_bluzen-itsupportservices-technology-activity-6883951480320208896-07x-/" target="_blank">
+                                            Woodlands Health Campus
+                                            </a>
+                                        </h6>
                                     </div>
-                                    <div class="testimonial-text">
+                                    <div class="testimonial-text h-200">
                                         <p>
                                         Bluzen is honoured to support the IT Infrastructure of SDK in the construction of the Woodlands Health Campus - an integrated health hub that encompasses SMART technology, green space for healing as well as setting a strong ecosystem for community care. 
-                                        The 7.66-hectare WHC will use SMART technology and AI to increase productivity and improve the quality of patient care. 
-                                        Read more at http://bitly.ws/nizF.
+                                        The 7.66-hectare WHC will use SMART technology and AI to increase productivity and improve the quality of patient.
+                                        <!-- care. Read more at <a href="http://bitly.ws/nizF" target="_blank">http://bitly.ws/nizF</a>. -->
                                         </p>
                                     </div>
                                     
@@ -626,11 +656,18 @@
                             
                             <!-- COLUMNS 3 -->
                             <div class="masonry-item  col-lg-4 col-md-6 col-sm-12 m-b30" style="position: absolute; left: 0px; top: 0px;">
-                                <div class="testimonial-3  hover-animation-1 sx-bg-light">
-                                    <div class="testimonial-user-info">
-                                        <h4 class="testimonial-name">Changi East Project</h4>
+                                <div class="p-3 hover-animation-1 sx-bg-light">
+                                    <div class="testimonial-user-info mt-4">
+                                        <div class="text-center mb-3">
+                                            <img src="images/project/east-project.png" alt="">
+                                        </div>
+                                        <h6 class="testimonial-name bold-text-project">
+                                            <a href="https://www.linkedin.com/posts/bluzen_changieastproject-enzankoubou-bluzensg-activity-6876357199438991360-hA0S" target="_blank">
+                                                Changi East Project
+                                            </a>
+                                        </h6>
                                     </div>
-                                    <div class="testimonial-text">
+                                    <div class="testimonial-text h-200">
                                         <p>
                                             Bluzen is proud to be a part of the Changi East Project by providing IT hardware support to Enzan Koubou Co. Ltd.
                                         </p>
@@ -642,7 +679,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- TESTIMONIAL END -->
+                <!-- Project END -->
             </div>
         </div>
       
@@ -692,7 +729,7 @@
         });
         // ------------ clients sliders End-----------
 
-        
+        // ------------ Navigator side start ------------
         $(window).scroll(function () {
             const this_scroll_top = $(this).scrollTop();
             const fix_top_value = 0; // top 
@@ -700,6 +737,7 @@
             const m02_y = $("#about-us").offset().top -450;
             const m03_y = $("#our-clients").offset().top -420;
             const m04_y = $("#our-partners").offset().top -420;
+            const m05_y = $("#our-projects").offset().top -420;
 
             let this_pass = "1";
             if (this_scroll_top >= (m01_y - fix_top_value) || this_scroll_top < (m02_y - fix_top_value)) {
@@ -713,6 +751,9 @@
             }
             if (this_scroll_top >= (m04_y - fix_top_value)) {
                 this_pass = "4";
+            }
+            if (this_scroll_top >= (m05_y - fix_top_value)) {
+                this_pass = "5";
             }
 
             
@@ -738,6 +779,9 @@
             $('#main_location').find('a').addClass(default_class);
             $('#quick_btn'+n).addClass(active_class);
         }
+
+        // ------------ Navigator side end ------------
+
     </script>
     <!-- JAVASCRIPT  FILES ========================================= --> 
     <!-- JQUERY.MIN JS -->
