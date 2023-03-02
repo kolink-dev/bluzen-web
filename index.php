@@ -595,7 +595,7 @@
                     <div class="section-content">
                     <!-- TITLE START -->
                          <div class="c3_top mt-4 mb-5">
-                            <h1 data-aos="fade-left" class="aos-init aos-animate">Our Project</h1>
+                            <h1 data-aos="fade-left" class="aos-init aos-animate">Our Projects</h1>
                         </div>
                     <!-- TITLE END -->
                         <div class="masonry-outer mfp-gallery news-grid clearfix row" style="position: relative; height: 876.376px;">
