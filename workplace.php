@@ -14,7 +14,7 @@
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
     <!-- PAGE TITLE HERE -->
-    <title>Bluzen | We support your growth through digital transformation</title>
+    <title>Bluzen | Workplace IT</title>
     <link rel="canonical" href="http://localhost/bluzen/" />
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">     
@@ -96,7 +96,7 @@
         
         <!-- Senction Content Start -->
         <div class="page-content">
-            <div class="full-landing-image sx-bnr-inr overlay-wraper  bg-top-center" style="background-image:url(images/old/banner/bnr-7.jpg);background-position:center">
+            <div class="full-landing-image sx-bnr-inr overlay-wraper  bg-top-center" style="background-image:url(images/old/banner/bnr-7.png);background-position:center">
                 <div class="overlay-main bg-white opacity-0"></div>
                     <div class="container">
                         <div class="sx-bnr-inr-entry">

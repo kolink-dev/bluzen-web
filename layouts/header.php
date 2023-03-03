@@ -4,7 +4,7 @@
       <div class="container clearfix">
         <div class="logo-header">
           <div class="logo-header-inner logo-header-one">
-            <a href="#">
+            <a href="index.php">
               <img src="images/logo.webp" alt="">
             </a>
           </div>
@@ -52,7 +52,7 @@
               </ul>
             </li>
             <li>
-              <a href="javascript:;">Services & Solutions</a>
+              <a href="services-solution.php">Services & Solutions</a>
               <ul class="sub-menu">
                 <li>
                   <a href="workplace.php">Workplace IT</a>
