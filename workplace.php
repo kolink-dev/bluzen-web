@@ -102,8 +102,8 @@
                         <div class="sx-bnr-inr-entry">
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
-                                    <h2 class="sx-title">Workplace IT</h2>
-                                    <span class="sx-bnr-sm-title text-cl-wi">
+                                    <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Workplace IT</h2>
+                                    <span class="sx-bnr-sm-title text-cl-wi wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
                                         It is not easy for in-house IT staffs to keep pace with the rapidly changing IT industry. 
                                         However, as a company specializing in IT, Bluzen will be your strong supporter who will 
                                         continue to explore and research the latest information from existing technologies to future-oriented 
@@ -196,7 +196,7 @@
                 <!-- TITLE START -->
                 <div class="section-head center">
                     <div class="sx-head-l-title">
-                        <h2 class="sx-title">Workplace IT</h2>
+                        <h2 class="sx-title wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">Workplace IT</h2>
                     </div>
                 </div>
                 <!-- TITLE END -->
@@ -352,7 +352,8 @@
     <script src="vendor/particles/particles.min.js"></script>
     <!-- Swiper -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-    <script src="js/swiper.min.js"></script>                                 
+    <script src="js/swiper.min.js"></script>
+                                     
 </body>
 <!-- Developer By Afif Muhamad -->
 </html>
