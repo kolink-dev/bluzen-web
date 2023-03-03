@@ -32,7 +32,7 @@
         <!-- MAIN NAVIGATION -->
         <div class="header-nav navbar-collapse collapse d-flex justify-content-center collapse ">
           <ul class="nav navbar-nav ">
-            <li class="active">
+            <li>
               <a href="index.php">Home</a>
             </li>
             <li>
@@ -49,7 +49,7 @@
                 </li>
               </ul>
             </li>
-            <li>
+            <li class="active">
               <a href="services-solution.php">Services & Solutions</a>
               <ul class="sub-menu">
                 <li class="d-md-none d-md-block">

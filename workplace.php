@@ -71,7 +71,7 @@
 	<div class="page-wraper"> 
                	
         <!-- HEADER START -->
-            <?php include('layouts/header.php') ?>
+            <?php include('layouts/header-service.php') ?>
         <!-- HEADER END -->
 
             <?php //include('component/side-navigator.php') ?>
