@@ -3485,8 +3485,41 @@ input[type=radio]:checked+label:before {
 	color: rgb(233 233 233 / 87%);
 }
 
+
+.site-footer .widget_services a:after {
+	position: absolute;
+	top: 140%;
+	left: 0;
+	width: 100%;
+	height: 3px;
+	background: rgba(255, 255, 255, 0.2);
+	content: '';
+	opacity: 0;
+	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+	-moz-transition: opacity 0.3s, -moz-transform 0.3s;
+	transition: opacity 0.3s, transform 0.3s;
+	-webkit-transform: translateY(10px);
+	-moz-transform: translateY(10px);
+	transform: translateY(10px);
+	
+}
+
+.site-footer .widget_services ul li a:hover:after, 
+.site-footer .widget_services ul li a:focus:after {
+	opacity: 1;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	transform: translateY(0px);
+}
+
+
 .site-footer .widget_services ul li a:hover {
-	color: var(--primary);
+	font-size: 15px;
+	font-weight: 600;
+	color: #979797;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	transform: translateY(0px);
 }
 
 .site-footer .widget_services li {
@@ -10366,11 +10399,11 @@ INPUT ANIMATION
     padding: 10px;
 }
 
-
-
 .re-bd-pr{
     border-right: 1px solid #ddd;
 }
+
+
 @media only screen and (max-width: 991px){
 	
 	.ml-f-5{

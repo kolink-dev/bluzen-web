@@ -597,7 +597,6 @@
                          <div class="c3_top mt-4 mb-4">
                             <h1 data-aos="fade-left" class="aos-init aos-animate">Our Projects</h1>
                         </div>
-                        <hr>
                     <!-- TITLE END -->
                         <div class="container mt-5">
                             <div class="row">

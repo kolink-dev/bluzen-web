@@ -31,7 +31,7 @@
                             <li><a href="#">Overseas Construction Site</a></li>
                             <li><a href="#">Factory Infra Solutions</a></li>
                             <li><a href="#">SMART Street Light Solution</a></li>
-
+                            <li></li>
                         </ul>
                     </div>							                          
                 </div> 
@@ -55,7 +55,7 @@
                 <!-- SOLUTIONS -->
                 <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-12 col footer-col-3">
                     <div class="widget widget_info">
-                        <h4 class="sx-f-title">Solutions</h4>
+                        <h4 class="sx-f-title">Media Social</h4>
                         <ul>
                             <li>
                                 <div class="widget-info-icon">
@@ -66,25 +66,7 @@
                                     <a href="tel:+55(66633)2577">+ 55 ( 66633 ) 25 77</a>
                                 </div>
                             </li>
-                            <li>
-                                <div class="widget-info-icon">
-                                    <i class="flaticon-email"></i>
-                                </div>
-                                <div class="widget-info-detail">
-                                    <p>info.Itodo@company.com</p>
-                                </div>
-                            </li>
-                            
-                            <li>
-                                <div class="widget-info-icon">
-                                    <i class="flaticon-maps-and-flags"></i>
-                                </div>
-                                <div class="widget-info-detail">
-                                    <p>88 Broklyn Golden Road Street New York. USA</p>
-                                </div>
-                            
-                            
-                            </li>
+                           
                         </ul>
                     </div>                           
                 </div> -->
