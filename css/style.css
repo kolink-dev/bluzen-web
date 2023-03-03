@@ -7124,6 +7124,7 @@ large-title-block
 	color: var(--white);
 	z-index: 1;
 	position: relative;
+	height: 450px;
 }
 .sx-icon-bx-1:hover .sx-tilte{
 	color: var(--white);
@@ -7213,6 +7214,7 @@ large-title-block
 	color: var(--white);
 	z-index: 1;
 	position: relative;
+	height: 700px;
 }
 .sx-icon-bx-2:hover .sx-tilte{
 	color: var(--white);

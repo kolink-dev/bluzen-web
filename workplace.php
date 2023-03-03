@@ -103,7 +103,7 @@
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
                                     <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Workplace IT</h2>
-                                    <span class="sx-bnr-sm-title text-cl-wi wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
+                                    <span class="sx-bnr-sm-title mt-4 text-cl-wi wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
                                         It is not easy for in-house IT staffs to keep pace with the rapidly changing IT industry. 
                                         However, as a company specializing in IT, Bluzen will be your strong supporter who will 
                                         continue to explore and research the latest information from existing technologies to future-oriented 
