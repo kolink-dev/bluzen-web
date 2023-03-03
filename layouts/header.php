@@ -54,6 +54,9 @@
             <li>
               <a href="services-solution.php">Services & Solutions</a>
               <ul class="sub-menu">
+                <li class="d-md-none d-md-block">
+                  <a href="services-solution.php">Services</a>
+                </li>
                 <li>
                   <a href="workplace.php">Workplace IT</a>
                 </li>
