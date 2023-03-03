@@ -10414,6 +10414,9 @@ INPUT ANIMATION
 	color: #e5e5e5 !important;
 }
 
+.image-logo-banner {
+	max-width: 150%;
+}
 
 @media only screen and (max-width: 991px){
 	
@@ -10450,9 +10453,28 @@ INPUT ANIMATION
 		top: -5px;
 		width: 15px !important;
 	}
+	.f-70 {
+		font-size: 40px;
+		font-weight: 700;
+	}
+	
+	.image-logo-banner {
+		max-width: 40%;
+		margin-top:10px !important
+	}
 }
 
 @media only screen and (max-width:768px) {
+
+	.image-logo-banner {
+		max-width: 40%;
+		margin-top:10px !important
+	}
+
+	.f-70 {
+		font-size: 40px;
+		font-weight: 700;
+	}
 
 	.m-b30p{
 		margin-bottom: 0px !important;

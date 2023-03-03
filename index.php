@@ -90,7 +90,7 @@
 
                         <!-- <h2 class="pa-h2-v2-hero-subhead pa-white">The Coolest Modern HTML Template is Here! Welcome to <strong>Particle</strong> by Skilltech Web Design</h2> -->
                         <h4 class="text-silver wow fadeInDown" data-wow-delay=".8s" data-wow-duration="2s">We support your growth through digital transformation</h4>
-                        <img src="images/footer-bluzen.png" width="200" class="image-logo-footer mt-5" alt="image">
+                        <img src="images/footer-bluzen.png" width="200" class="image-logo-banner mt-5 wow fadeInDown"  data-wow-delay=".8s" data-wow-duration="2s" alt="image">
                     </div>
                 </div>
             </div>
