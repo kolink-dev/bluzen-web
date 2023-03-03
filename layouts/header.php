@@ -1,6 +1,5 @@
-<header class="header-style1 site-header  mobile-sider-drawer-menu">
-  
-  <div class="sticky-header main-bar-wraper navbar-expand-lg">
+<header class="header-style2 site-header mobile-sider-drawer-menu full-navbar">
+<div class="sticky-header main-bar-wraper navbar-expand-lg">
     <div class="main-bar">
       <div class="container clearfix">
         <div class="logo-header">
@@ -35,8 +34,8 @@
         <!-- MAIN NAVIGATION -->
         <div class="header-nav navbar-collapse collapse d-flex justify-content-center collapse ">
           <ul class=" nav navbar-nav ">
-            <li class="active">
-              <a href="javascript:;">Home</a>
+            <li>
+              <a href="index.php">Home</a>
             </li>
             <li>
               <a href="#about-us">About Us</a>
@@ -56,7 +55,7 @@
               <a href="javascript:;">Services & Solutions</a>
               <ul class="sub-menu">
                 <li>
-                  <a href="#">Workplace IT</a>
+                  <a href="workplace.php">Workplace IT</a>
                 </li>
                 <li>
                   <a href="#">Overseas Construction Site</a>
@@ -78,4 +77,3 @@
     </div>
   </div>
 </header>
-

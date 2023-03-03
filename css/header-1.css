@@ -220,7 +220,7 @@ header-style1 {
   }
   
   .header-style1 .navbar-toggler .icon-bar {
-	background: #000;
+	background: #d8d8d8;
 	height: 3px;
 	border-radius: 0;
 	display: block;
@@ -229,6 +229,16 @@ header-style1 {
   .header-style1 .navbar-toggler .icon-bar + .icon-bar {
 	margin-top: 4px;
   }
+  .header-style {
+    position: relative;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    background-color: transparent;
+	}
+	.header-style1 .main-bar .container{
+		padding: 10px 50px;
+	}
   
   .header-style1 .navbar-toggler {
 	display: none;
@@ -920,6 +930,7 @@ header-style1 {
   .header-style1 .is-fixed .color-fill.main-bar {
 	background: #224985;
   }
+
   
   @media (max-width: 991px) {
 	.header-style1.mobile-sider-drawer-menu .header-nav {

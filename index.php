@@ -72,50 +72,9 @@
                	
         <!-- HEADER START -->
             <?php include('layouts/header.php') ?>
-            
         <!-- HEADER END -->
 
-        <!-- navigator side start -->
-        <div id="main_location">
-            <ul>
-                <li>
-                    <a class="default_location2 active_location2" id="quick_btn1" href="#top" onfocus="this.blur();">
-                        <span class="num">01</span>
-                        <span class="line"></span>
-                        <span class="txt">Home</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="default_location2" id="quick_btn2" href="#about-us" onfocus="this.blur();">
-                        <span class="num">02</span>
-                        <span class="line"></span>
-                        <span class="txt">About Us</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="default_location2" id="quick_btn3" href="#our-clients" onfocus="this.blur();">
-                        <span class="num">03</span>
-                        <span class="line"></span>
-                        <span class="txt">Our Clients</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="default_location2" id="quick_btn4" href="#our-partners" onfocus="this.blur();">
-                        <span class="num">04</span>
-                        <span class="line"></span>
-                        <span class="txt">Our Partners</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="default_location2" id="quick_btn5" href="#our-projects" onfocus="this.blur();">
-                        <span class="num">05</span>
-                        <span class="line"></span>
-                        <span class="txt">Our Projects</span>
-                    </a>
-                </li>
-            </ul>
-        </div>
-        <!-- navigator side End -->
+            <?php include('component/side-navigator.php') ?>
 
         <!-- CONTENT START -->
         <section id="top" class="pa-hero pa-centered-section pa-full-height pa-image-back pushable-content" style="background-image: url(images/hero-dark.jpg);">
@@ -567,7 +526,7 @@
             </div>
             <!-- SECTION OUR Partners End -->
 
-            <!-- COUNTER START -->
+            <!-- Contact Us START -->
                 <div class="counter-blocks bg-contact ">
                     <div class="col-md-12">
                         <div class="row">
@@ -586,10 +545,10 @@
                         </div>
                     </div>
                 </div>
-            <!-- COUNTER END -->
+            <!-- Contact Us END -->
 
             <section class="mb-2" id="our-projects"></section>
-            <div class="section-full p-t60 p-b0 bg-white mobile-page-padding">
+            <div class="section-full p-t60 p-b60 bg-white mobile-page-padding">
                 <!-- Project START -->
                 <div class="container">
                     <div class="section-content">
@@ -598,7 +557,7 @@
                             <h1 data-aos="fade-left" class="aos-init aos-animate">Our Projects</h1>
                         </div>
                     <!-- TITLE END -->
-                        <div class="container mt-5">
+                        <div class="container mt-4">
                             <div class="row">
                                 <!-- COLUMNS 1 -->
                                 <div class="masonry-item m-b30 m-b30p">
@@ -691,98 +650,8 @@
     
     </div>
 
-                                                    
-    <script>
-        // ------------ clients sliders Start-----------
-        $(document).ready(function() {
-            let SwiperBottom = new Swiper('.clients-slider5 .swiper-container', {
-                spaceBetween: 0,
-                centeredSlides: true,
-                slidesPerView: 6,
-                speed: 6000,
-                autoplay: {
-                    delay: 1,
-                },
-                loop: true,
-                allowTouchMove: false,
-                disableOnInteraction: true,
-                breakpoints: {
-                    0: {
-                        slidesPerView: 2,
-                    },
-                    480: {
-                        slidesPerView: 2,
-                    },
-                    787: {
-                        slidesPerView: 3,
-                    },
-                    991: {
-                        slidesPerView: 4,
-                    },
-                    1200: {
-                        slidesPerView: 6,
-                    }
-                }
-            });
-        });
-        // ------------ clients sliders End-----------
-
-        // ------------ Navigator side start ------------
-        $(window).scroll(function () {
-            const this_scroll_top = $(this).scrollTop();
-            const fix_top_value = 0; // top 
-            const m01_y = $("#top").offset().top;
-            const m02_y = $("#about-us").offset().top -450;
-            const m03_y = $("#our-clients").offset().top -420;
-            const m04_y = $("#our-partners").offset().top -420;
-            const m05_y = $("#our-projects").offset().top -420;
-
-            let this_pass = "1";
-            if (this_scroll_top >= (m01_y - fix_top_value) || this_scroll_top < (m02_y - fix_top_value)) {
-                this_pass = "1";
-            }
-            if (this_scroll_top >= (m02_y - fix_top_value)) {
-                this_pass = "2";
-            }
-            if (this_scroll_top >= (m03_y - fix_top_value)) {
-                this_pass = "3";
-            }
-            if (this_scroll_top >= (m04_y - fix_top_value)) {
-                this_pass = "4";
-            }
-            if (this_scroll_top >= (m05_y - fix_top_value)) {
-                this_pass = "5";
-            }
-
-            
-            fn_menu_on(this_pass);
-        });
-
-        
-        function fn_menu_on(n){
-            let active_class = '';
-            if (n==1 || n==3) {
-                active_class = 'active_location2';
-                default_class = 'default_location2';
-            } else {
-                active_class = 'active_location';
-                default_class = 'default_location'
-            }
-
-            remove_class = 'default_location active_location default_location2 active_location2';
-
-            console.log(active_class);
-
-            $('#main_location').find('a').removeClass(remove_class);
-            $('#main_location').find('a').addClass(default_class);
-            $('#quick_btn'+n).addClass(active_class);
-        }
-
-        // ------------ Navigator side end ------------
-
-    </script>
-
-    
+    <?php include('component/script/clients-slider.php') ?>                                        
+    <?php include('component/script/navigator-side.php') ?>                                        
 
     <!-- JAVASCRIPT  FILES ========================================= --> 
     <!-- JQUERY.MIN JS -->

@@ -4650,12 +4650,19 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	justify-content: space-between;
 	align-items: center;
 }
+
+.bg-none-wi{
+	background: none !important;
+	border: none !important;
+}
+
 @media only screen and (max-width:767px){
 	.sx-bnr-inr-entry .banner-title-outer {
 		display: block;
 	}
 	.sx-bnr-inr-entry .banner-title-name{
 		margin-bottom: 20px;
+		margin-top: 80px;
 	}
 }
 
@@ -10401,6 +10408,10 @@ INPUT ANIMATION
 
 .re-bd-pr{
     border-right: 1px solid #ddd;
+}
+
+.text-cl-wi{
+	color: #e5e5e5 !important;
 }
 
 

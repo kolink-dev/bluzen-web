@@ -199,7 +199,7 @@ HEADER (top part of page)
 	transition: var(--transition);
 }
 @media only screen and (max-width:1440px){
-	.header-style2 .header-nav .nav>li>a{font-size:14px; padding: 24px 10px;}
+	.header-style2 .header-nav .nav>li>a{font-size:16px; padding: 24px 20px;}
 }
 .header-style2 .header-nav .nav>li>a:after {
 	content: '';
@@ -209,7 +209,7 @@ HEADER (top part of page)
 	height:1px;
 	width: 0px;
 	z-index: -1;
-	background-color:var(--primary);
+	background-color:#ff8151;
 	transition: all 0.4s ease;
 }
 
@@ -221,14 +221,14 @@ HEADER (top part of page)
 }
 
 
-.header-style2 .header-nav .nav>li>a:hover {background-color: transparent;color: #212427;}
+.header-style2 .header-nav .nav>li>a:hover {background-color: transparent;color: #ff8151;}
 .header-style2 .header-nav .nav>li>a:active,
 .header-style2 .header-nav .nav>li>a:focus {background-color: transparent;}
 
 
 .header-style2 .header-nav .nav>li.active>a,
-.header-style2 .header-nav .nav>li.current-menu-item>a {background-color: transparent;color: var(--primary);}
-.header-style2 .header-nav .nav>li:hover>a {color:var(--primary);}
+.header-style2 .header-nav .nav>li.current-menu-item>a {background-color: transparent;color: #ff8151; font-weight:500}
+.header-style2 .header-nav .nav>li:hover>a {color:#ff8151;}
 
 .header-style2 .header-nav .nav>li:hover>.sub-menu,
 .header-style2 .header-nav .nav>li:hover>.mega-menu {
@@ -514,7 +514,10 @@ HEADER (top part of page)
     text-align: center;
 }
 .header-style2 .main-bar{position: relative;	width: 100%;left: 0px;padding:0px; border-bottom: 1px solid rgba(255, 255, 255, 0.1);}
-.header-style2 .main-bar .container{padding:10px 50px; max-width: 100%;}
+.header-style2 .main-bar .container{
+	padding:10px 50px; 
+	/* max-width: 100%; */
+}
 
 @media only screen and (max-width:991px){
 	.header-style2 .main-bar .header-nav .nav > li > a{display:block;	color:#000;}
@@ -547,7 +550,7 @@ HEADER (top part of page)
 
 .header-style2 .is-fixed .main-bar {position: fixed;top: 0;left: 0;}
 .header-style2 .is-fixed .extra-nav {padding: 13px 0;}
-.header-style2 .is-fixed .color-fill.main-bar {  background-color: #251a37;}
+.header-style2 .is-fixed .color-fill.main-bar {  background-color: #224985;}
 
 @media (max-width: 991px) {
 	.header-style2.mobile-sider-drawer-menu .header-nav {
