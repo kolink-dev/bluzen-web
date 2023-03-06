@@ -12,7 +12,7 @@
 
     <!-- FAVICONS ICON -->
     <link rel="icon" href="{{asset('frontend')}}/images/favicon.png" type="image/x-icon">
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontend')}}/images/favicon.png">
     <!-- PAGE TITLE HERE -->
     <title>@yield('title')</title>
     <link rel="canonical" href="http://localhost/bluzen/" />
@@ -74,7 +74,6 @@
         @include('layouts.header')
         <!-- HEADER END -->
 
-        @include('component.side-navigator')
 
         @yield('content')
 
@@ -85,8 +84,7 @@
 
 
     </div>
-    @include('component.script.clients-slider')
-    @include('component.script.navigator-side')
+
 
     <!-- JAVASCRIPT  FILES ========================================= -->
     <!-- JQUERY.MIN JS -->

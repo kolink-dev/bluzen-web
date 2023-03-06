@@ -33,7 +33,7 @@ Bluzen | Workplace IT
     <!-- Senction Content End -->
 
     <!-- Section Worplace IT Start -->
-    <div class="section-full p-t60 p-b80 sx-why-chooseus-outer sx-bg-light bg-cover" style="background-image:url(images/background/bg-1.jpg);">
+    <div class="section-full p-t60 p-b80 sx-why-chooseus-outer sx-bg-light bg-cover" style="background-image:url({{asset('frontend')}}/images/background/bg-1.jpg);">
         <div class="container">
             <!-- TITLE START -->
             <div class="section-head center">

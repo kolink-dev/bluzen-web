@@ -4,6 +4,9 @@
 Bluzen | We support your growth through digital transformation
 @endsection
 @section('content')
+
+@include('component.side-navigator')
+
       <!-- CONTENT START -->
       <section id="top" class="pa-hero pa-centered-section pa-full-height pa-image-back pushable-content" style="background-image: url({{asset('frontend')}}/images/hero-dark.jpg);">
         <div class="pa-absolute-fill pa-gradient-back-v1" style="opacity: 0;"></div><!-- Increase opacity to overlay hero with a gradient -->
@@ -564,4 +567,6 @@ Bluzen | We support your growth through digital transformation
             <!-- Project END -->
         </div>
     </div>
+    @include('component.script.clients-slider')
+    @include('component.script.navigator-side')
 @endsection

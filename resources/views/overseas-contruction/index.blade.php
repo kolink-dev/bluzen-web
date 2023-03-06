@@ -14,6 +14,12 @@ Bluzen | Overseas Construction Site
                         <div class="banner-title-outer">
                             <div class="banner-title-name">
                                 <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Overseas Construction Site</h2>
+                                <span class="sx-bnr-sm-title mt-4 text-cl-wi wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
+                                    For the stable start-up and smooth conduct of overseas plant project, timely establishment of Plant Site Office, efficient operation, maintenance, and technical support system are inevitable.
+                                    However, most of the plant projects in the field face often the difficulty to establish the early-stage IT infrastructures in time, due to the lack of IT personnel and field knowledge & information,
+                                    which induces the cost exceeds frequently. It also leads to the poor operation of IT infrastructures when IT personnel is appointed and stationed at the site office, because of neglected change-over and careless on-the-job trainings. To resolve such various issues and secures the optimum operation, Bluzen ensures to timely build a stable project start-up IT surroundings, efficient operation,
+                                    maintenance requirements and technical support systems for each step based on the coherent and professional implementation plan
+                                </span>
                             </div>
                         </div>
                     </div>
