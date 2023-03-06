@@ -27,7 +27,7 @@
                     <div class="widget widget_services ml-f-5">
                         <h4 class="sx-f-title">Service & Solutions</h4>
                         <ul>
-                            <li><a href="workplace.php">Workplace IT</a></li>
+                            <li><a href="{{route('workplace')}}">Workplace IT</a></li>
                             <li><a href="#">Overseas Construction Site</a></li>
                             <li><a href="#">Factory Infra Solutions</a></li>
                             <li><a href="#">SMART Street Light Solution</a></li>
