@@ -10689,7 +10689,8 @@ INPUT ANIMATION
 
     .factory-infra{
         border: none !important;
-        max-width: 100% !important
+        max-width: 100% !important;
+        height: 370px !important;
     }
 
     .sx-icon-bx-2 .sx-icon-bx-icon {
