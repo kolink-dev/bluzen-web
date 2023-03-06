@@ -1,7 +1,7 @@
 <header class="header-style2 site-header mobile-sider-drawer-menu full-navbar">
 <div class="sticky-header main-bar-wraper navbar-expand-lg">
     <div class="main-bar">
-      <div class="container clearfix">
+      <div class="container clearfix p-10">
         <div class="logo-header">
           <div class="logo-header-inner logo-header-one">
             <a href="{{route('home')}}">
@@ -49,7 +49,8 @@
                 </li>
               </ul>
             </li>
-            <li class="@if (Route::is('services-solution','workplace','overseas-construction-site'))active @endif">
+            <li class="@if (Route::is('services-solution','workplace',
+                'overseas-construction-site','factory-infra-solutions'))active @endif">
               <a href="services-solution">Services & Solutions</a>
               <ul class="sub-menu">
                 <li class="d-md-none d-md-block @if (Route::is('services-solution'))active @endif">
@@ -62,7 +63,7 @@
                   <a href="{{route('overseas-construction-site')}}">Overseas Construction Site</a>
                 </li>
                 <li>
-                  <a href="#">Factory Infra Solutions</a>
+                  <a href="{{route('factory-infra-solutions')}}">Factory Infra Solutions</a>
                 </li>
                 <li>
                   <a href="#">SMART Street Light Solution</a>

@@ -5,8 +5,8 @@ Bluzen | Overseas Construction Site
 @endsection
 
 @section('content')
-      <!-- Senction Content Start -->
-      <div class="page-content">
+    <!-- Senction Content Start -->
+    <div class="page-content">
         <div class="full-landing-image sx-bnr-inr overlay-wraper  bg-top-center" style="background-image:url({{asset('frontend')}}/images/old/banner/bnr-6.png);background-position:center">
             <div class="overlay-main bg-white opacity-0"></div>
                 <div class="container">

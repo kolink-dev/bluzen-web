@@ -10613,10 +10613,27 @@ INPUT ANIMATION
     margin-bottom: 5px !important;
 }
 
+.factory-infra{
+    border: none;
+}
 
+.p-10{
+    padding: 10px 10px !important;
+}
+
+.fact-inf{
+    padding: 20px;
+    height: 450px;
+}
 
 @media only screen and (max-width: 991px){
 
+    .fact-inf h4 {
+        color: var(--title-color);
+        margin-bottom: 15px;
+        font-size: 14px !important;
+        font-weight: 700;
+    }
 	.ml-f-5{
 		margin-left: 0px;
 	}
@@ -10662,6 +10679,18 @@ INPUT ANIMATION
 }
 
 @media only screen and (max-width:768px) {
+    .fact-inf {
+        padding: 20px;
+        height: auto;
+    }
+    .p-10{
+        padding: 0px 15px !important;
+    }
+
+    .factory-infra{
+        border: none !important;
+        max-width: 100% !important
+    }
 
     .sx-icon-bx-2 .sx-icon-bx-icon {
         text-align: center;
