@@ -7225,6 +7225,88 @@ large-title-block
 
 /* End */
 
+/*-------------------------------------
+	3. icon box Section3
+-------------------------------------*/
+
+.sx-icon-bx-3 {
+    position: relative;
+    z-index: 1;
+    transition: all 0.5s linear;
+    overflow: hidden;
+  }
+
+  .sx-icon-bx-3 {
+    margin-bottom: 30px;
+    padding: 30px 10px;
+    background: var(--white);
+    border: 2px solid #f6f6f6;
+  }
+  .sx-icon-bx-3 .sx-icon-bx-icon {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  .sx-icon-bx-3 .sx-icon-bx-icon span {
+    font-size: 64px;
+    line-height: 64px;
+    display: inline-flex;
+  }
+  .sx-icon-bx-3 .sx-tilte {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 14px;
+  }
+  @media only screen and (max-width: 991px) {
+    .sx-icon-bx-3 .sx-tilte {
+      font-size: 18px;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+    .sx-icon-bx-3 {
+      padding: 5px;
+    }
+  }
+  .sx-icon-bx-3 p {
+    margin-bottom: 45px;
+  }
+  .sx-icon-bx-3 .icon-content {
+    overflow: inherit;
+  }
+
+  .sx-icon-bx-3:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: -1px;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    /* transition: all 0.8s cubic-bezier(1, -0.99, 0.14, 1.8); */
+    transition: var(--transition);
+    outline: solid 0px var(--white);
+  }
+
+  .sx-icon-bx-3:hover:after {
+    outline: solid 10px var(--white);
+    outline-offset: -5px;
+    background-color: #abacaf;
+  }
+
+  .sx-icon-bx-3:hover {
+    color: var(--white);
+    z-index: 1;
+    position: relative;
+    height: 500px;
+  }
+  .sx-icon-bx-3:hover .sx-tilte {
+    color: var(--white);
+  }
+  .sx-icon-bx-3:hover .sx-text-primary {
+    color: var(--white);
+  }
+
+  /* End */
+
 /*Blog Next Previous*/
 
 .s-post-pagination-control {
@@ -10526,6 +10608,12 @@ INPUT ANIMATION
     margin-bottom: 0px;
 }
 
+.p-text{
+    margin-bottom: 5px !important;
+}
+
+
+
 @media only screen and (max-width: 991px){
 
 	.ml-f-5{
@@ -10573,6 +10661,22 @@ INPUT ANIMATION
 }
 
 @media only screen and (max-width:768px) {
+
+    .sx-icon-bx-2 .sx-icon-bx-icon {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .sx-icon-box-wraper {
+        position: relative;
+        text-align: left;
+        margin-bottom:50px;
+        margin-top: 5px;
+    }
+
+    .sx-icon-bx-2 {
+        display: contents;
+    }
 
     .sx-bnr-inr-entry .banner-title-outer2 .sx-bnr-sm-title {
         display: block;
