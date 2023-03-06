@@ -44,7 +44,7 @@ Bluzen | Factory Infra Solutions
         <!-- TITLE END -->
         <div class="masonry-outer mfp-gallery news-grid clearfix row">
             <!-- COLUMNS 1 -->
-            <div class="factory-infra col-md-3 col-12 m-b30">
+            <div class="masonry-item factory-infra col-md-3 col-12 m-b30">
                 <div class="testimonial-3 fact-inf hover-animation-1 sx-bg-light">
                 <div class="testimonial-detail">
                     <div class="testimonial-user-info text-center">
@@ -77,7 +77,7 @@ Bluzen | Factory Infra Solutions
                 </div>
             </div>
             <!-- COLUMNS 2 -->
-            <div class="factory-infra col-md-3 col-12 m-b30">
+            <div class="masonry-item factory-infra col-md-3 col-12 m-b30">
                 <div class="testimonial-3 fact-inf hover-animation-1 sx-bg-light">
                 <div class="testimonial-detail">
                     <div class="testimonial-user-info text-center">
@@ -109,7 +109,7 @@ Bluzen | Factory Infra Solutions
                 </div>
             </div>
             <!-- COLUMNS 3 -->
-            <div class="factory-infra col-md-3 col-12 m-b30">
+            <div class="masonry-item factory-infra col-md-3 col-12 m-b30">
                 <div class="testimonial-3 fact-inf hover-animation-1 sx-bg-light">
                 <div class="testimonial-detail">
                     <div class="testimonial-user-info text-center">
@@ -144,7 +144,7 @@ Bluzen | Factory Infra Solutions
                 </div>
             </div>
             <!-- COLUMNS 4 -->
-            <div class="factory-infra col-md-3 col-12 m-b30">
+            <div class="masonry-item factory-infra col-md-3 col-12 m-b30">
                 <div class="testimonial-3 fact-inf hover-animation-1 sx-bg-light">
                 <div class="testimonial-detail">
                     <div class="testimonial-user-info text-center">
@@ -175,5 +175,6 @@ Bluzen | Factory Infra Solutions
     </div>
     <!-- Content END -->
 </div>
+
 <!-- Section Factory Infra Solutions End -->
 @endsection
