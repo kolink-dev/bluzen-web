@@ -1,7 +1,7 @@
 /*
 ==========================
 Author: 7xtheme team
-Version: 1.0  
+Version: 1.0
 ==========================
 */
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap');
@@ -18,7 +18,7 @@ Version: 1.0
 	--secondary:#202122;
 	--secondary-light:#666666;
 	--white:#fff;
-    
+
     --title-color:#202122;
     --title-family:'Manrope', sans-serif;
 	--outline-text:'Poppins', sans-serif;
@@ -29,7 +29,7 @@ Version: 1.0
 }
 
 
-/*____GENERAL 
+/*____GENERAL
 ======================================*/
 
 body {
@@ -42,8 +42,8 @@ body {
 	padding: 0;
 	margin: 0;
 	overflow-x: hidden;
-	
-	
+
+
 }
 
 
@@ -55,7 +55,7 @@ body {
 @media only screen and (max-width:767px) {
 	body {
 		font-size: 14px;
-	}	
+	}
 }
 
 a {
@@ -145,7 +145,7 @@ summary {
 }
 
 
-/*____HEADING & TITLE 
+/*____HEADING & TITLE
 ======================================*/
 
 h1,
@@ -203,7 +203,7 @@ h5 {font-size: 24px;}
 h6 {font-size: 20px;}
 
 
-/*____TEXT & PARAGRAPH 
+/*____TEXT & PARAGRAPH
 ======================================*/
 
 
@@ -253,7 +253,7 @@ Background Effects
 .text-uppercase {text-transform: uppercase}
 .text-capitalize {text-transform: capitalize}
 
-/*____LISTING STYLES 
+/*____LISTING STYLES
 ======================================*/
 
 dl,
@@ -374,7 +374,7 @@ dl dd {
 .sx-arrow-circle-checked li {
 	padding: 5px 5px 5px 30px;
 	position: relative;
-	
+
 	font-weight: 400;
 	font-size: 18px;
 	line-height:36px;
@@ -1617,7 +1617,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____BOXES CSS 
+/*____BOXES CSS
 ======================================*/
 
 .rounded-bx,
@@ -2046,7 +2046,7 @@ ol.list-num-count.list-outline-none>li:before {
 .site-button,
 .site-button-secondry {
 	font-family:var(--common-family);
-	
+
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 20px;
@@ -2288,7 +2288,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 .site-button-link {
 	font-family: var(--common-family);
-	
+
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 20px;
@@ -2426,7 +2426,7 @@ ol.list-num-count.list-outline-none>li:before {
 .section-head .sx-head-s-title,
 .section-head2 .sx-head-s-title{
 	font-family:var(--common-family);
-	
+
 	font-weight: 400;
 	font-size: 14px;
 	padding-bottom: 10px;
@@ -2436,7 +2436,7 @@ ol.list-num-count.list-outline-none>li:before {
 .section-head .sx-head-l-title .sx-title{
 	font-family:var(--title-family);
 	margin-bottom: 0px;
-	
+
 	font-weight: 800;
 	font-size: 32px;
 	text-transform: capitalize;
@@ -2543,7 +2543,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*-------------------------------------
-	Section Head Part 
+	Section Head Part
 -------------------------------------*/
 
 .section-head {
@@ -2587,7 +2587,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*-------------------------------------
-	7. Testimonials 
+	7. Testimonials
 -------------------------------------*/
 
 .quote-left,
@@ -2656,7 +2656,7 @@ ol.list-num-count.list-outline-none>li:before {
 		color: var(--secondary-light);
 		font-size: 18px;
 		line-height: 32px;
-	}	
+	}
 }
 
 @media only screen and (max-width:768px){
@@ -2720,11 +2720,11 @@ ol.list-num-count.list-outline-none>li:before {
 .testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-next{right: -86px;}
 @media only screen and (max-width:1365px){
 	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-prev{left: -40px;}
-	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-next{right: -40px;}	
+	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-next{right: -40px;}
 }
 @media only screen and (max-width:1280px){
 	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-prev{left: 0px;}
-	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-next{right: 0px;}	
+	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav .owl-next{right: 0px;}
 }
 @media only screen and (max-width:575px){
 	.testimonial-2-wrap.owl-btn-vertical-center .owl-nav{
@@ -2806,11 +2806,11 @@ ol.list-num-count.list-outline-none>li:before {
 	.testimonial-2 .testimonial-text p:last-child {
 		font-size: 14px;
 	}
-		
+
 }
 
 /*-------------------------------------
-	Image effects 
+	Image effects
 -------------------------------------*/
 
 .sx-img-effect {
@@ -2961,7 +2961,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*-------------------------------------
-	Social icons 
+	Social icons
 -------------------------------------*/
 
 .social-icons {
@@ -3004,7 +3004,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*-------------------------------------
-	Breadcrumb 
+	Breadcrumb
 -------------------------------------*/
 
 
@@ -3014,7 +3014,7 @@ ol.list-num-count.list-outline-none>li:before {
 	margin: 0;
 	list-style: none;
 	font-family: var(--common-family);
-	
+
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 20px;
@@ -3090,7 +3090,7 @@ ol.list-num-count.list-outline-none>li:before {
 	color: rgba(255,255,255,0.1);
 	margin: 0px;
 	font-family: var(--title-family);
-	
+
 	font-size: 128px;
 	line-height: 128px;
 	font-weight: 800;
@@ -3108,7 +3108,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 /*-------------------------------------
-	Google map 
+	Google map
 -------------------------------------*/
 
 .gmap-outline{display: flex;}
@@ -3126,7 +3126,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*-------------------------------------
-	Form elements 
+	Form elements
 -------------------------------------*/
 
 label {
@@ -3323,7 +3323,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	 Loading 
+	 Loading
 -------------------------------------*/
 
 
@@ -3365,7 +3365,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Widgets 
+	Widgets
 -------------------------------------*/
 
 .widget {
@@ -3501,10 +3501,10 @@ input[type=radio]:checked+label:before {
 	-webkit-transform: translateY(10px);
 	-moz-transform: translateY(10px);
 	transform: translateY(10px);
-	
+
 }
 
-.site-footer .widget_services ul li a:hover:after, 
+.site-footer .widget_services ul li a:hover:after,
 .site-footer .widget_services ul li a:focus:after {
 	opacity: 1;
 	-webkit-transform: translateY(0px);
@@ -3559,15 +3559,15 @@ input[type=radio]:checked+label:before {
 	margin-right: 5px;
 }
 .widget_about-call-section .sx-f-call-section span{
-	display: block; 
+	display: block;
 	text-transform: uppercase;
 	font-size: 14px;
 	line-height: 20px;
 }
 .widget_about-call-section .sx-f-call-section a{
-	display: block; 
+	display: block;
 	font-family: var(--title-family);
-	
+
 	font-weight: 600;
 	font-size: 22px;
 	line-height: 32px;
@@ -3678,7 +3678,7 @@ input[type=radio]:checked+label:before {
 
 .recent-posts-entry .post-date{
 	color: #3396d1;
-	
+
 }
 
 .widget .post-title {
@@ -3855,10 +3855,10 @@ input[type=radio]:checked+label:before {
 
 
 /*Sidebar Social Icon*/
-.sx-social-icons ul{ list-style:none; margin-bottom: 0px;}     
-.sx-social-icons li { margin-right:10px} 
-.sx-social-icons li a { color:var(--secondary-light) ; font-size: 16px; width: 40px; height: 40px; border-radius: 50%; background-color: var(--bg-light); display: inline-block; text-align: center; line-height: 40px;}  
-.sx-social-icons li a:hover { color:var(--white); background-color:var(--primary);}  
+.sx-social-icons ul{ list-style:none; margin-bottom: 0px;}
+.sx-social-icons li { margin-right:10px}
+.sx-social-icons li a { color:var(--secondary-light) ; font-size: 16px; width: 40px; height: 40px; border-radius: 50%; background-color: var(--bg-light); display: inline-block; text-align: center; line-height: 40px;}
+.sx-social-icons li a:hover { color:var(--white); background-color:var(--primary);}
 
 /*-------widget newsletter-------*/
 
@@ -3886,12 +3886,12 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Table 
+	Table
 -------------------------------------*/
 
 
 /*-------------------------------------
-	Video 
+	Video
 -------------------------------------*/
 
 .yt-thum-box img {
@@ -3900,7 +3900,7 @@ input[type=radio]:checked+label:before {
 
 
 /*======================================
-1WP DEFAULT  
+1WP DEFAULT
 ======================================*/
 
 blockquote.author-quote {
@@ -3927,7 +3927,7 @@ blockquote.author-quote .sx-bq-media{
 	width: 70px;
 	height: 70px;
 	border-radius: 50%;
-	
+
 }
 blockquote.author-quote .sx-bq-media img{
 	border-radius: 50%;
@@ -3944,7 +3944,7 @@ blockquote.author-quote strong {
 
 blockquote.author-quote span {
 	margin-bottom: 0px;
-	
+
 	font-weight: 400;
 	font-size: 24px;
 	line-height: 34px;
@@ -4008,7 +4008,7 @@ blockquote.author-quote .fa-quote-left {
 }
 
 
-/*____BLOG  
+/*____BLOG
 ======================================*/
 
 .blog-post {
@@ -4261,7 +4261,7 @@ ol.comment-list li.comment p {
 
 ol.comment-list li.comment .reply {
 	text-align: left;
-	
+
 }
 
 ol.comment-list li.comment .reply a {
@@ -4347,7 +4347,7 @@ ol.comment-list li .children li {
 .comment-respond .comment-reply-title {
 	margin-bottom: 15px;
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 32px;
 	text-transform: capitalize;
@@ -4356,12 +4356,12 @@ ol.comment-list li .children li {
 @media only screen and (max-width:767px){
 	.comment-respond .comment-reply-title{
 		font-size: 22px;
-	}	
+	}
 }
 @media only screen and (max-width:500px){
 	.comment-respond{
 		padding:20px;
-	}	
+	}
 }
 .comments-area .comment-form .comment-notes {
 	display: none;
@@ -4593,7 +4593,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 
-/*____ NAVIGATIONS 
+/*____ NAVIGATIONS
 ======================================*/
 
 
@@ -4602,7 +4602,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	inner page banner 
+	inner page banner
 -------------------------------------*/
 
 .sx-bnr-inr {
@@ -4721,7 +4721,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	owl slider 
+	owl slider
 -------------------------------------*/
 
 
@@ -4739,7 +4739,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	opacity: 0.5;
 	cursor: default;
   }
-  
+
   /*---Owl dots button---*/
   .owl-carousel .owl-dots {
 	text-align: center;
@@ -4759,7 +4759,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	position: relative;
   }
 
-  
+
   /*---Owl button top to center---*/
   .owl-btn-top-center .owl-nav {
 	position: absolute;
@@ -4768,7 +4768,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	width: 100%;
 	margin: 0;
   }
-  
+
   .owl-btn-top-left .owl-nav {
 	position: absolute;
 	top: 0;
@@ -4776,7 +4776,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	width: 100%;
 	margin: 0;
   }
-  
+
   .owl-btn-top-right .owl-nav {
 	position: absolute;
 	top: 0;
@@ -4784,48 +4784,48 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	width: 100%;
 	margin: 0;
   }
-  
+
   .owl-btn-top-center .owl-stage-outer {
 	padding-top: 60px;
   }
-  
+
   .owl-btn-top-left .owl-stage-outer {
 	padding-top: 60px;
   }
-  
+
   .owl-btn-top-right .owl-stage-outer {
 	padding-top: 60px;
   }
-  
+
   .owl-btn-top-center .owl-nav {
 	text-align: center;
   }
-  
+
   /*---Owl button top to left---*/
   .owl-btn-top-left .owl-nav {
 	text-align: left;
   }
-  
+
   /*---Owl button top to right---*/
   .owl-btn-top-right .owl-nav {
 	text-align: right;
   }
-  
+
   /*---Owl button bottom to center [it is default position ]---*/
   .owl-btn-bottom-center .owl-nav {
 	text-align: center;
   }
-  
+
   /*---Owl button bottom to left---*/
   .owl-btn-bottom-left .owl-nav {
 	text-align: left;
   }
-  
+
   /*Owl button bottom to right*/
   .owl-btn-bottom-right .owl-nav {
 	text-align: right;
   }
-  
+
   /*---Owl button vertical to center--*/
   .owl-btn-vertical-center .owl-nav {
 	margin: 0px;
@@ -4842,7 +4842,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	margin: -15px 0;
 	right: 0;
   }
-  
+
   /*---Owl button show on hover---*/
   .owl-btn-hover .owl-nav {
 	opacity: 0;
@@ -4850,7 +4850,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
   .owl-btn-hover:hover .owl-nav {
 	opacity: 1;
   }
-  
+
   .owl-carousel .owl-item img {
 	transform-style: inherit;
   }
@@ -4875,7 +4875,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 .owl-carousel .owl-nav button.owl-next i,
 .owl-carousel .owl-nav button.owl-prev i {
-	
+
 	font-size: 22px;
 	font-weight: bold;
 }
@@ -5018,7 +5018,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 
-/*____PAGINATION 
+/*____PAGINATION
 ======================================*/
 
 
@@ -5497,7 +5497,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Section Content Part 
+	Section Content Part
 -------------------------------------*/
 
 @media only screen and (max-width:1024px) {
@@ -5545,7 +5545,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Contact us page 
+	Contact us page
 -------------------------------------*/
 
 .contact-form {
@@ -5631,7 +5631,7 @@ ul.contact-info li .fa {
 	.contact-info {
 		padding: 0px;
 	}
-	
+
 }
 
 
@@ -5769,7 +5769,7 @@ ul.contact-info li .fa {
 }
 
 
-/*____content show on image box () 
+/*____content show on image box ()
 ======================================*/
 
 @media only screen and (max-width:768px) {
@@ -5780,12 +5780,12 @@ ul.contact-info li .fa {
 }
 
 
-/*____Customize  Grouping css 
+/*____Customize  Grouping css
 ======================================*/
 
 
 /*-------------------------------------
-	set-radius 
+	set-radius
 -------------------------------------*/
 
 .btn,
@@ -5816,8 +5816,8 @@ ol.comment-list li.comment .comment-body {
 }
 
 
-/*------------------------------------- 
-	transition 
+/*-------------------------------------
+	transition
 -------------------------------------*/
 
 a,
@@ -5845,8 +5845,8 @@ a,
 }
 
 
-/*------------------------------------- 
-	float-clearfix 
+/*-------------------------------------
+	float-clearfix
 -------------------------------------*/
 
 .clearfix::after,
@@ -5860,11 +5860,11 @@ ol.commentlist li::after {
 }
 
 
-/*____Inner pages 
+/*____Inner pages
 ======================================*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	Out Team
 -------------------------------------*/
 
@@ -6096,7 +6096,7 @@ ol.commentlist li::after {
 
 .our-team-2 .figcaption p {
 	font-family:var(--common-family);
-	
+
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 30px;
@@ -6134,7 +6134,7 @@ ol.commentlist li::after {
 	right: 10px;
 	text-align: center;
 	background-color: var(--primary);
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
@@ -6413,7 +6413,7 @@ ol.commentlist li::after {
 		font-size: 50px;
 		font-weight: 700;
 	}
-	
+
 }
 
 @media only screen and (max-width: 575px) {
@@ -6453,7 +6453,7 @@ ol.commentlist li::after {
 		justify-content:center;
 	  }
 }
-/*____Progress Bar 
+/*____Progress Bar
 -------------------------------------*/
 
 .progress {
@@ -6791,7 +6791,7 @@ scale-in-center
 .sx-count{text-align: center; margin-bottom: 30px;}
 .sx-count .sx-title{
 	font-family:var(--title-family);
-	
+
 	font-weight: 700;
 	font-size: 72px;
 	line-height: 50px;
@@ -6938,12 +6938,12 @@ large-title-block
 	.large-title .sx-title {
 		font-size: 20px;
 	}
-	
+
 }
 
 
 /*-------------------------------------
-	2. Services icon Section 
+	2. Services icon Section
 -------------------------------------*/
 
 .sx-service-bx-1 {
@@ -7030,7 +7030,7 @@ large-title-block
 
 .sx-service-bx-1.reverse .sx-service-bx-icon span{
 	background-color: var(--bg-light);
-	
+
 }
 .sx-service-bx-1.reverse .sx-service-bx-icon span:after {
 	border: 2px solid #f1f1f1;
@@ -7041,7 +7041,7 @@ large-title-block
 }
 .sx-service-bx-1.reverse:hover .sx-service-bx-icon span{
 	top: 0px;
-	
+
 }
 
 .sx-service-bx-1.reverse {
@@ -7050,7 +7050,7 @@ large-title-block
   }
 
 /*-------------------------------------
-	2. icon box Section 
+	2. icon box Section
 -------------------------------------*/
 
 .sx-icon-bx-1 {
@@ -7140,7 +7140,7 @@ large-title-block
 }
 
 /*-------------------------------------
-	2. icon box Section2 
+	2. icon box Section2
 -------------------------------------*/
 
 .sx-icon-bx-2 {
@@ -7501,18 +7501,18 @@ New Template Css Start
 @media only screen and (max-width:1024px){
 	.sx-large-title {
 		font-size: 48px;
-	}	
+	}
 }
 @media only screen and (max-width:991px){
 	.sx-large-title {
 		font-size: 30px;
-	}	
+	}
 }
 @media only screen and (max-width:640px){
 	.sx-large-title {
 		font-size: 22px;
 		margin-bottom: 30px;
-	}	
+	}
 }
 .sx-video-btn-wrap {
 	position: relative;
@@ -7522,7 +7522,7 @@ New Template Css Start
 	.sx-video-btn-wrap {
 		position: relative;
 		min-height: 120px;
-	}	
+	}
 }
 .sx-video-2-outer{
 	background-repeat: no-repeat;
@@ -7550,21 +7550,21 @@ New Template Css Start
 		-o-background-attachment: scroll;
 	}
 }
-  
+
   .circle {
 	height:200px;
 	width:200px;
 	border-radius:50%;
 	background-color:var(--white);
-	
+
 	position:absolute;
 	top:50%;
 	left:50%;
-	
-	
+
+
 	-webkit-transition:height .25s ease, width .25s ease;
 	transition:height .25s ease, width .25s ease;
-	
+
 	-webkit-transform:translate(-50%,-50%);
 	transform:translate(-50%,-50%);
 
@@ -7576,10 +7576,10 @@ New Template Css Start
 	.circle {
 		height:100px;
 	    width:100px;
-	}	
+	}
 }
   .circle i{color: var(--primary); font-size: 24px;}
-  
+
   .circle:before,
   .circle:after {
 	content:'';
@@ -7589,7 +7589,7 @@ New Template Css Start
 	border-radius:50%;
 	border:1px solid var(--white);
   }
-  
+
   .circle:before {
 	-webkit-animation: ripple 2s linear infinite;
 	animation: ripple 2s linear infinite;
@@ -7598,19 +7598,19 @@ New Template Css Start
 	-webkit-animation: ripple 2s linear 1s infinite;
 	animation: ripple 2s linear 1s infinite;
   }
-  
+
   .circle:hover:before,
   .circle:hover:after {
 	-webkit-animation: none;
 	animation: none;
   }
-  
+
   @-webkit-keyframes ripple{
 	0% {-webkit-transform:scale(1); }
 	50% {-webkit-transform:scale(1.2); opacity:1;}
 	100% {-webkit-transform:scale(1.5); opacity:0;}
   }
-  
+
   @keyframes ripple{
 	0% {transform:scale(1); }
 	50% {transform:scale(1.2); opacity:1;}
@@ -7623,15 +7623,15 @@ New Template Css Start
 	width:100px;
 	border-radius:50%;
 	background-color:var(--white);
-	
+
 	position:absolute;
 	top:50%;
 	left:50%;
-	
-	
+
+
 	-webkit-transition:height .25s ease, width .25s ease;
 	transition:height .25s ease, width .25s ease;
-	
+
 	-webkit-transform:translate(-50%,-50%);
 	transform:translate(-50%,-50%);
 
@@ -7640,7 +7640,7 @@ New Template Css Start
 	justify-content: center;
   }
   .circle-small i{color: var(--primary); font-size: 24px;}
-  
+
   .circle-small:before,
   .circle-small:after {
 	content:'';
@@ -7650,7 +7650,7 @@ New Template Css Start
 	border-radius:50%;
 	border:1px solid var(--white);
   }
-  
+
   .circle-small:before {
 	-webkit-animation: ripple 2s linear infinite;
 	animation: ripple 2s linear infinite;
@@ -7659,7 +7659,7 @@ New Template Css Start
 	-webkit-animation: ripple 2s linear 1s infinite;
 	animation: ripple 2s linear 1s infinite;
   }
-  
+
   .circle-small:hover:before,
   .circle-small:hover:after {
 	-webkit-animation: none;
@@ -7704,7 +7704,7 @@ New Template Css Start
 	.sx-latest-post-st-1 .sx-post-title .post-title{
 		font-size: 18px;
 		line-height: 26px;
-	}	
+	}
 }
 
 .sx-latest-post-st-1.sx-no-image{
@@ -7764,7 +7764,7 @@ New Template Css Start
 }
 .sx-case-study-bx .sx-s-title {
 	font-family: var(--common-family);
-	
+
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 30px;
@@ -7774,7 +7774,7 @@ New Template Css Start
 .sx-case-study-bx .sx-l-title .sx-title {
 	font-family: var(--title-family);
 	margin-bottom: 20px;
-	
+
 	font-weight: 800;
 	font-size: 25px;
 	line-height:35px;
@@ -7804,12 +7804,12 @@ New Template Css Start
 .sx-img-overlay:after{
 	content:"";
 	background-color:var(--primary);
-	position:absolute; 
-	left:0; 
-	top:0; 
-	width:0; 
+	position:absolute;
+	left:0;
+	top:0;
+	width:0;
 	height:0;
-	opacity:0.5; 
+	opacity:0.5;
 	z-index:1;
 	-webkit-transition:all 0.3s linear;
 	-moz-transition:all 0.3s linear;
@@ -7830,7 +7830,7 @@ New Template Css Start
 .sx-img-overlay:hover:after,
 
 .sx-overlay-effect:hover .sx-img-overlay:before,
-.sx-overlay-effect:hover .sx-img-overlay:after { 
+.sx-overlay-effect:hover .sx-img-overlay:after {
 	width:100%;
 	opacity:0.5;
 }
@@ -7852,7 +7852,7 @@ New Template Css Start
 	background-size: contain;
 	background-position: center;
 	margin-right: 30px;
-	
+
 }
 @media only screen and (max-width:460px){
 	.sx-ab-img-section-1{
@@ -7935,7 +7935,7 @@ New Template Css Start
 /* Icon box style 2 */
 .sx-icon-bx-2{display: flex;}
 @media only screen and (max-width:991px){
-	.sx-icon-bx-2{margin-bottom: 10px;}	
+	.sx-icon-bx-2{margin-bottom: 10px;}
 }
 .sx-icon-bx-2 .sx-media{
 	display: flex;
@@ -7960,7 +7960,7 @@ New Template Css Start
 .sx-icon-bx-2 .sx-media i{font-size: 30px; color: var(--primary);}
 .sx-icon-bx-2 .sx-icon-bx-info .sx-icon-bx-title{
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 20px;
 	margin-bottom: 5px;
@@ -8078,22 +8078,22 @@ New Template Css Start
 }
 .sx-ab-circle-box-content .sx-exp-title-outer .sx-exp-title-1{
 	font-family: var(--outline-text);
-	color: var(--secondary);		
+	color: var(--secondary);
 	font-weight: 700;
 	font-size: 128px;
 	line-height:90px;
 	text-transform: uppercase;
-	
+
 	-webkit-text-fill-color: rgba(0,0,0,0);
 	-ms-text-fill-color: rgba(0,0,0,0);
 	-moz-text-fill-color: rgba(0,0,0,0);
 	-o-text-fill-color: rgba(0,0,0,0);
-	
+
 	-webkit-text-stroke-width: 1px;
 	-ms-text-stroke-width: 1px;
 	-moz-text-stroke-width: 1px;
 	-o-text-stroke-width: 1px;
-	
+
 	-webkit-text-stroke-color: rgba(255, 255, 255, .2);
 	-ms-text-stroke-color: rgba(255, 255, 255, .2);
 	-moz-text-stroke-color: rgba(255, 255, 255, .2);
@@ -8103,22 +8103,22 @@ New Template Css Start
 }
 .sx-ab-circle-box-content .sx-exp-title-outer .sx-exp-title-2{
 	font-family: var(--outline-text);
-	color: var(--secondary);		
+	color: var(--secondary);
 	font-weight: 700;
 	font-size: 48px;
 	line-height:70px;
 	text-transform: uppercase;
-	
+
 	-webkit-text-fill-color: rgba(0,0,0,0);
 	-ms-text-fill-color: rgba(0,0,0,0);
 	-moz-text-fill-color: rgba(0,0,0,0);
 	-o-text-fill-color: rgba(0,0,0,0);
-	
+
 	-webkit-text-stroke-width: 1px;
 	-ms-text-stroke-width: 1px;
 	-moz-text-stroke-width: 1px;
 	-o-text-stroke-width: 1px;
-	
+
 	-webkit-text-stroke-color: rgba(255, 255, 255, .2);
 	-ms-text-stroke-color: rgba(255, 255, 255, .2);
 	-moz-text-stroke-color: rgba(255, 255, 255, .2);
@@ -8159,7 +8159,7 @@ New Template Css Start
 .sx-icon-bx-3 .sx-media i{font-size: 22px; line-height: 0px; color: var(--white);}
 .sx-icon-bx-3 .sx-icon-bx-info .sx-icon-bx-title{
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 26px;
@@ -8243,20 +8243,20 @@ New Template Css Start
 	flex-wrap: wrap;
 }
 .sx-p-table-bx-1{
-	padding-top: 70px; 
-	width: 25%; 
+	padding-top: 70px;
+	width: 25%;
 	border-right: 1px solid rgba(37, 26, 55, 0.1);
 }
 
 .sx-p-table-bx-1-top{
-	background-color: var(--bg-light); 
+	background-color: var(--bg-light);
 	border-top: 1px solid rgba(37, 26, 55, 0.1);
 	border-bottom: 1px solid rgba(37, 26, 55, 0.1);
 }
 .sx-p-table-bx-1-top .sx-title{
 	margin-bottom: 0px;
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 14px;
 	line-height: 60px;
@@ -8270,7 +8270,7 @@ New Template Css Start
 .sx-p-table-bx-1-bottom{border-top: 1px solid rgba(37, 26, 55, 0.1); height: 70px;}
 
 .sx-p-table-bx-2{
-	width:18.75%; 
+	width:18.75%;
 	border-right: 1px solid rgba(37, 26, 55, 0.1);
 	text-align: center;
 }
@@ -8280,19 +8280,19 @@ New Template Css Start
 }
 @media only screen and (max-width:991px){
 	.sx-p-table-bx-1{
-		width:100%; 
+		width:100%;
 		border-right: 0px;
 		padding-top: 30px;
 	}
 	.sx-p-table-bx-2{
-		width:50%; 
+		width:50%;
 		border-right: 1px solid rgba(37, 26, 55, 0.1);
 	}
 	.sx-p-table-bx-2-mid ul li {
 		line-height: 36px;
 		display: flex;
 		align-items: center;
-		
+
 	}
 	.sx-p-table-bx-2-mid ul li i{
 		margin-right: 8px;
@@ -8304,12 +8304,12 @@ New Template Css Start
 }
 @media only screen and (max-width:767px){
 	.sx-p-table-bx-2{
-		width:50%; 
+		width:50%;
 	}
 }
 @media only screen and (max-width:480px){
 	.sx-p-table-bx-2{
-		width:100%; 
+		width:100%;
 	}
 	.sx-p-table-bx-2.active-plan{
 		margin-top: 30px;
@@ -8333,13 +8333,13 @@ New Template Css Start
 	.sx-p-table-section{
 		background:none
 	}
-	
+
 }
 
 
 .sx-p-table-bx-2 .sx-p-table-bx-2-top-title{
 	font-family: var(--title-family);
-	
+
 	font-weight: 600;
 	text-align: center;
 	text-transform: uppercase;
@@ -8349,14 +8349,14 @@ New Template Css Start
 }
 
 .sx-p-table-bx-2-top{
-	background-color: var(--bg-light); 
+	background-color: var(--bg-light);
 	border-top: 1px solid rgba(37, 26, 55, 0.1);
 	border-bottom: 1px solid rgba(37, 26, 55, 0.1);
 	padding: 0px 10px;
 }
 .sx-p-table-bx-2-top .sx-price{
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 24px;
 	line-height: 35px;
@@ -8400,7 +8400,7 @@ New Template Css Start
 	position: relative;
 }
 .sx-p-table-bx-2.active-plan .sx-p-table-bx-2-top{
-	background-color: var(--bg-light); 
+	background-color: var(--bg-light);
 	border-top: 1px solid rgba(255, 255, 255, 0.1);
 	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 	padding: 0px 10px;
@@ -8447,10 +8447,10 @@ New Template Css Start
 
 @media only screen and (max-width:767px){
 	.sx-p-table-bx-2-bottom{
-		border-bottom: 1px solid rgba(37, 26, 55, 0.1);	
+		border-bottom: 1px solid rgba(37, 26, 55, 0.1);
 	}
 	.sx-p-table-bx-1{
-		border-bottom: 1px solid rgba(37, 26, 55, 0.1);	
+		border-bottom: 1px solid rgba(37, 26, 55, 0.1);
 	}
 }
 @media only screen and (max-width:480px){
@@ -8627,12 +8627,12 @@ New Template Css Start
 	.sx-bnr-1-wrap-outer .sx-bnr-1-content{
 		margin-left: 60px;
 	}
-	.home-1-slider .swiper-button-next, 
+	.home-1-slider .swiper-button-next,
 	.home-1-slider .swiper-button-prev {
 		width: 50px;
 		height: 50px;
 	}
-	.home-1-slider .swiper-button-next::after, 
+	.home-1-slider .swiper-button-next::after,
 	.home-1-slider .swiper-button-prev::after {
 		font-size: 14px;
 	  }
@@ -8671,7 +8671,7 @@ New Template Css Start
 	}
 }
 .sx-bnr-1-wrap-outer .sx-bnr-1-small-title {
-    
+
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -8681,7 +8681,7 @@ New Template Css Start
 }
 .sx-bnr-1-wrap-outer .sx-bnr-1-large-title {
     font-family: var(--title-family);
-    
+
     font-weight: 800;
     font-size: 64px;
     text-transform: capitalize;
@@ -8755,13 +8755,13 @@ New Template Css Start
 	right: 100px;
 	top: 200px;
   }
-  
+
   .sx-bnr-text-masking .light h1 {
 	display: inline-table;
 	color: rgba(255,255,255,0);
 	margin: 0px;
 	font-family: var(--outline-text);
-	
+
 	font-size: 128px;
 	line-height: 128px;
 	font-weight: 700;
@@ -8804,7 +8804,7 @@ New Template Css Start
 		line-height: 200px;
 	}
 }
-  
+
   .sx-bnr-text-masking img {
 	position: absolute;
 	top: 50%;
@@ -8823,9 +8823,9 @@ New Template Css Start
 	font-family: "Oswald", sans-serif;
 	color: #0b2f44;
   }
-  
 
-  
+
+
 /*Home 2 Bnner*/
 .sx-bnr-2-wrap-outer {
     width: 100%;
@@ -8894,7 +8894,7 @@ New Template Css Start
 
 
 .sx-bnr-2-wrap-outer .sx-bnr-2-small-title {
-    
+
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -8994,12 +8994,12 @@ New Template Css Start
 	.sx-bnr-2-wrap-outer .sx-bnr-2-content{
 		margin-left: 60px;
 	}
-	.home-2-slider .swiper-button-next, 
+	.home-2-slider .swiper-button-next,
 	.home-2-slider .swiper-button-prev {
 		width: 50px;
 		height: 50px;
 	}
-	.home-2-slider .swiper-button-next::after, 
+	.home-2-slider .swiper-button-next::after,
 	.home-2-slider .swiper-button-prev::after {
 		font-size: 14px;
 	  }
@@ -9083,7 +9083,7 @@ New Template Css Start
 @media only screen and (max-width:991px){
 	.sx-icon-bx-4 .sx-tilte{
 		font-size:18px;
-	}	
+	}
 }
 .sx-icon-bx-4 .sx-why-ch-category{
 	display: block;
@@ -9102,13 +9102,13 @@ New Template Css Start
 	overflow: inherit;
 }
 
-.sx-circle-btn{ 
-	display:block;  
-	width: 38px;  
-	height: 38px;  
-	line-height: 38px;  
-	text-align: center;  
-	border-radius:50%; 
+.sx-circle-btn{
+	display:block;
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	border-radius:50%;
 	color:var(--secondary);
 	box-shadow: 4px 10px 8px rgba(0, 0, 0, 0.1);
 	border: 1px solid #eee;
@@ -9208,7 +9208,7 @@ New Template Css Start
 .testimonial-1{padding: 50px;}
 .testimonial-1 .testimonial-position {
 	font-family: var(--common-family);
-	
+
 	font-weight: 400;
 	font-size: 14px;
 	margin-bottom: 10px;
@@ -9308,12 +9308,12 @@ New Template Css Start
 @media only screen and (max-width:1024px){
 	.sx-bnr-3-wrap-outer .swiper-slide {
 		min-height: 600px;
-	}	
+	}
 }
 @media only screen and (max-width:767px){
 	.sx-bnr-3-wrap-outer .swiper-slide {
 		min-height: 500px;
-	}	
+	}
 }
 .sx-bnr-3-wrap-outer .sx-bnr-3-content > * {
   opacity: 0;
@@ -9366,7 +9366,7 @@ New Template Css Start
 
 
 .sx-bnr-3-wrap-outer .sx-bnr-3-small-title {
-    
+
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -9436,12 +9436,12 @@ New Template Css Start
 	.sx-bnr-3-wrap-outer .sx-bnr-3-content{
 		margin-left: 60px;
 	}
-	.home-3-slider .swiper-button-next, 
+	.home-3-slider .swiper-button-next,
 	.home-3-slider .swiper-button-prev {
 		width: 50px;
 		height: 50px;
 	}
-	.home-3-slider .swiper-button-next::after, 
+	.home-3-slider .swiper-button-next::after,
 	.home-3-slider .swiper-button-prev::after {
 		font-size: 14px;
 	  }
@@ -9557,7 +9557,7 @@ New Template Css Start
 @media only screen and (max-width:1199px){
 	.sx-portfolio-bx .sx-portfolio-title{
 		font-size: 18px;
-	}	
+	}
 }
 @media only screen and (max-width:767px){
 	.sx-portfolio-bx-wrap ul{display: flex; flex-wrap: wrap; margin:0px -12px 30px;}
@@ -9692,7 +9692,7 @@ New Template Css Start
 .sx-icon-bx-5 .sx-media i{font-size: 30px; color: var(--secondary);}
 .sx-icon-bx-5 .sx-icon-bx-info .sx-icon-bx-title{
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 16px;
 	line-height: 30px;
@@ -9735,7 +9735,7 @@ New Template Css Start
 	background-size: 100%;
 	background-position: center;
 	margin-left: 30px;
-	
+
 }
 @media only screen and (max-width:460px){
 	.sx-mv-img-section-1{
@@ -9965,7 +9965,7 @@ New Template Css Start
 
 .sx-r-part-image-content-box .sx-r-part-content h3.sx-title{
 	font-family: var(--title-family);
-	
+
 	font-weight: 800;
 	font-size: 22px;
 	text-transform: capitalize;
@@ -10094,7 +10094,7 @@ INPUT ANIMATION
 
 .input-animate.input input,
 .input-animate.input textarea {
-	
+
 	border-radius: 0px;
 	font-size: 14px;
 	height: 40px;
@@ -10137,7 +10137,7 @@ INPUT ANIMATION
 		left: 0px;
 		font-size: 14px !important;
 	}
-	
+
 	.input-animate.input label {
 		position: inherit;
 		top: auto;
@@ -10402,7 +10402,7 @@ INPUT ANIMATION
 .icon-font-block2 img {
 	transition: 1s ease;
 }
-	
+
 .icon-font-block2 img:hover {
 	-webkit-transform: scale(0.8);
 	-ms-transform: scale(0.8);
@@ -10448,7 +10448,7 @@ INPUT ANIMATION
     color: #FFFFFF;
 	text-align:right;
 
-}	
+}
 
 .bg-contact{
 	background-color: #00bfff;
@@ -10504,8 +10504,30 @@ INPUT ANIMATION
 	max-width: 150%;
 }
 
+.sx-bnr-inr-entry .banner-title-outer2 .sx-bnr-sm-title {
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: var(--white);
+}
+
+.banner-title-outer2 h2{
+    margin-top: 50px;
+    position: relative;
+    color: var(--white);
+    display: inline-block;
+    font-family: var(--title-family);
+    font-weight: 800;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+
 @media only screen and (max-width: 991px){
-	
+
 	.ml-f-5{
 		margin-left: 0px;
 	}
@@ -10515,13 +10537,13 @@ INPUT ANIMATION
 		font-weight: 600;
 		color: #FFFFFF;
 		text-align:right;
-	}	
-	
+	}
+
 	.site-button2{
 		font-size: 12px;
 		margin-bottom: 30px;
 	}
-	
+
 	.mb-contact{
 		margin-bottom:20px
 	}
@@ -10543,7 +10565,7 @@ INPUT ANIMATION
 		font-size: 40px;
 		font-weight: 700;
 	}
-	
+
 	.image-logo-banner {
 		max-width: 40%;
 		margin-top:10px !important
@@ -10551,6 +10573,28 @@ INPUT ANIMATION
 }
 
 @media only screen and (max-width:768px) {
+
+    .sx-bnr-inr-entry .banner-title-outer2 .sx-bnr-sm-title {
+        display: block;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 25px;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: var(--white);
+    }
+
+    .banner-title-outer2 h2{
+        margin-top: 10px;
+        position: relative;
+        color: var(--white);
+        display: inline-block;
+        font-family: var(--title-family);
+        font-weight: 800;
+        font-size: 50px;
+        text-transform: capitalize;
+        margin-bottom: 0px;
+    }
 
 	.image-logo-banner {
 		max-width: 40%;
@@ -10587,7 +10631,7 @@ INPUT ANIMATION
 	.ml-f-5{
 		margin-left: 0px;
 	}
-	
+
 	.mb-contact{
 		margin-bottom:20px
 	}
@@ -10597,8 +10641,8 @@ INPUT ANIMATION
 		font-weight: 600;
 		color: #FFFFFF;
 		text-align:center;
-	}	
-	
+	}
+
 	.site-button2{
 		font-size: 12px;
 		margin-bottom: 30px;
@@ -10661,7 +10705,7 @@ INPUT ANIMATION
 	.apos_ment {
 		margin: 30px 0 50px;
 	}
-	
+
 	.apos_ment h1 {
 		font-size: 40px;
 		font-weight: 600;
@@ -10669,21 +10713,21 @@ INPUT ANIMATION
 		letter-spacing: -.4px;
 		line-height: 34px;
 	}
-	
+
 	.apos_ment .apos1-home {
 		left: 10%;
 	}
-	
+
 	.apos_ment > img {
 		position: absolute;
 		top: -5px;
 		width: 15px;
 	}
-	
+
 	.apos_ment .apos2-home {
 		right: 10%;
 	}
-	
+
 	.top-2{
 		top: 20px;
 	}
@@ -10706,7 +10750,7 @@ INPUT ANIMATION
 		text-align: left;
 		height: auto;
 	}
-	
+
 	.h-350-left{
 		text-align: left;
 		height: auto;

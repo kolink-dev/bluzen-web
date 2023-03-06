@@ -11,7 +11,7 @@ Bluzen | Overseas Construction Site
             <div class="overlay-main bg-white opacity-0"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
-                        <div class="banner-title-outer">
+                        <div class="banner-title-outer2">
                             <div class="banner-title-name">
                                 <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Overseas Construction Site</h2>
                                 <span class="sx-bnr-sm-title mt-4 text-cl-wi wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
@@ -24,15 +24,15 @@ Bluzen | Overseas Construction Site
                         </div>
                     </div>
                 </div>
-            <div class="sx-bnr-outline-text">
+            {{-- <div class="sx-bnr-outline-text">
                 <h1> We Are Solutions</h1>
-            </div>
+            </div> --}}
         </div>
     </div>
     <!-- Senction Content End -->
 
     <!-- Section Worplace IT Start -->
-    <div class="section-full p-t60 p-b80 sx-why-chooseus-outer sx-bg-light bg-cover" style="background-image:url(images/background/bg-1.jpg);">
+    <div class="section-full p-t60 p-b80 sx-why-chooseus-outer sx-bg-light bg-cover" style="background-image:url({{asset('frontend')}}/images/background/bg-1.jpg);">
         <div class="container">
             <!-- TITLE START -->
             <div class="section-head center">
