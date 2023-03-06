@@ -50,7 +50,7 @@
               </ul>
             </li>
             <li class="@if (Route::is('services-solution','workplace',
-                'overseas-construction-site','factory-infra-solutions'))active @endif">
+                'overseas-construction-site','factory-infra-solutions','smart-street'))active @endif">
               <a href="services-solution">Services & Solutions</a>
               <ul class="sub-menu">
                 <li class="d-md-none d-md-block @if (Route::is('services-solution'))active @endif">
@@ -66,7 +66,7 @@
                   <a href="{{route('factory-infra-solutions')}}">Factory Infra Solutions</a>
                 </li>
                 <li>
-                  <a href="#">SMART Street Light Solution</a>
+                  <a href="{{route('smart-street')}}">SMART Street Light Solution</a>
                 </li>
               </ul>
             </li>

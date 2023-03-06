@@ -19,5 +19,6 @@ Route::get('workplace','WorkplaceController@index')->name('workplace');
 Route::get('services-solution','ServiceSolutionController@index')->name('services-solution');
 Route::get('overseas-construction-site','OverseasConstructionController@index')->name('overseas-construction-site');
 Route::get('factory-infra-solutions','FactoryInfraController@index')->name('factory-infra-solutions');
+Route::get('smart-street-light-solution','SmarStreetController@index')->name('smart-street');
 
 

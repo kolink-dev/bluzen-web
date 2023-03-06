@@ -30,7 +30,7 @@
                             <li><a href="{{route('workplace')}}">Workplace IT</a></li>
                             <li><a href="{{route('overseas-construction-site')}}">Overseas Construction Site</a></li>
                             <li><a href="{{route('factory-infra-solutions')}}">Factory Infra Solutions</a></li>
-                            <li><a href="#">SMART Street Light Solution</a></li>
+                            <li><a href="{{route('smart-street')}}">SMART Street Light Solution</a></li>
                             <li></li>
                         </ul>
                     </div>

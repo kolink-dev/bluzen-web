@@ -10626,6 +10626,13 @@ INPUT ANIMATION
     height: 450px;
 }
 
+.m-r10{
+    margin-right: 10px;
+}
+
+.sx-about-bx1-content p{
+    margin-bottom: 0.2rem;
+}
 @media only screen and (max-width: 991px){
 
     .fact-inf h4 {
