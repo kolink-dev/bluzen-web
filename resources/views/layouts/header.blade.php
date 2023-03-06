@@ -4,7 +4,7 @@
       <div class="container clearfix">
         <div class="logo-header">
           <div class="logo-header-inner logo-header-one">
-            <a href="index.php">
+            <a href="{{route('home')}}">
               <img src="{{asset('frontend')}}/images/logo.webp" alt="">
             </a>
           </div>
@@ -70,7 +70,7 @@
               </ul>
             </li>
             <li>
-              <a href="contact.html">Contact Us</a>
+              <a href="#">Contact Us</a>
             </li>
           </ul>
         </div>
