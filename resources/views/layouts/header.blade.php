@@ -49,7 +49,7 @@
                 </li>
               </ul>
             </li>
-            <li class="@if (Route::is('services-solution','workplace'))active @endif">
+            <li class="@if (Route::is('services-solution','workplace','overseas-construction-site'))active @endif">
               <a href="services-solution">Services & Solutions</a>
               <ul class="sub-menu">
                 <li class="d-md-none d-md-block @if (Route::is('services-solution'))active @endif">
@@ -58,8 +58,8 @@
                 <li class="@if (Route::is('workplace'))active @endif">
                   <a href="{{route('workplace')}}">Workplace IT</a>
                 </li>
-                <li>
-                  <a href="#">Overseas Construction Site</a>
+                <li class="@if (Route::is('overseas-construction-site'))active @endif">
+                  <a href="{{route('overseas-construction-site')}}">Overseas Construction Site</a>
                 </li>
                 <li>
                   <a href="#">Factory Infra Solutions</a>

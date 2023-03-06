@@ -19,4 +19,5 @@ Route::get('/','HomeController@index')->name('home');
 Route::get('workplace','WorkplaceController@index')->name('workplace');
 
 Route::get('services-solution','ServiceSolutionController@index')->name('services-solution');
+Route::get('overseas-construction-site','OverseasConstructionController@index')->name('overseas-construction-site');
 
