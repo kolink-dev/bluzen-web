@@ -7226,54 +7226,54 @@ large-title-block
 /* End */
 
 /*-------------------------------------
-	3. icon box Section3
+	3. icon box Section overseas
 -------------------------------------*/
 
-.sx-icon-bx-3 {
+.sx-icon-bx-overseas {
     position: relative;
     z-index: 1;
     transition: all 0.5s linear;
     overflow: hidden;
   }
 
-  .sx-icon-bx-3 {
+  .sx-icon-bx-overseas {
     margin-bottom: 30px;
     padding: 30px 10px;
     background: var(--white);
     border: 2px solid #f6f6f6;
   }
-  .sx-icon-bx-3 .sx-icon-bx-icon {
+  .sx-icon-bx-overseas .sx-icon-bx-icon {
     text-align: left;
     margin-bottom: 30px;
   }
-  .sx-icon-bx-3 .sx-icon-bx-icon span {
+  .sx-icon-bx-overseas .sx-icon-bx-icon span {
     font-size: 64px;
     line-height: 64px;
     display: inline-flex;
   }
-  .sx-icon-bx-3 .sx-tilte {
+  .sx-icon-bx-overseas .sx-tilte {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 14px;
   }
   @media only screen and (max-width: 991px) {
-    .sx-icon-bx-3 .sx-tilte {
+    .sx-icon-bx-overseas .sx-tilte {
       font-size: 18px;
     }
   }
   @media only screen and (max-width: 575px) {
-    .sx-icon-bx-3 {
-      padding: 5px;
+    .sx-icon-bx-overseas {
+      padding: 15px;
     }
   }
-  .sx-icon-bx-3 p {
+  .sx-icon-bx-overseas p {
     margin-bottom: 45px;
   }
-  .sx-icon-bx-3 .icon-content {
+  .sx-icon-bx-overseas .icon-content {
     overflow: inherit;
   }
 
-  .sx-icon-bx-3:after {
+  .sx-icon-bx-overseas:after {
     content: "";
     position: absolute;
     z-index: -1;
@@ -7286,26 +7286,27 @@ large-title-block
     outline: solid 0px var(--white);
   }
 
-  .sx-icon-bx-3:hover:after {
+  .sx-icon-bx-overseas:hover:after {
     outline: solid 10px var(--white);
     outline-offset: -5px;
     background-color: #abacaf;
   }
 
-  .sx-icon-bx-3:hover {
+  .sx-icon-bx-overseas:hover {
     color: var(--white);
     z-index: 1;
     position: relative;
     height: 500px;
   }
-  .sx-icon-bx-3:hover .sx-tilte {
+  .sx-icon-bx-overseas:hover .sx-tilte {
     color: var(--white);
   }
-  .sx-icon-bx-3:hover .sx-text-primary {
+  .sx-icon-bx-overseas:hover .sx-text-primary {
     color: var(--white);
   }
 
   /* End */
+
 
 /*Blog Next Previous*/
 

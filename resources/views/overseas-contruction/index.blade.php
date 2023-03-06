@@ -46,7 +46,7 @@ Bluzen | Overseas Construction Site
                     <div class="row">
                         <!-- Workplace IT -->
                         <div class="col-md-4 col-12 wow fadeInLeft" data-wow-duration="1s">
-                            <div class="sx-icon-bx-3 bg-none-wi">
+                            <div class="sx-icon-bx-overseas bg-none-wi">
                                 <div class="sx-icon-box-wraper">
                                     <div class="sx-icon-bx-icon ">
                                     <span class="sx-text-primary">
@@ -70,7 +70,7 @@ Bluzen | Overseas Construction Site
                         </div>
                         <!-- Factory Infra Solutions -->
                         <div class="col-md-4 col-12 wow fadeInLeft" data-wow-duration="1s">
-                            <div class="sx-icon-bx-3 bg-none-wi">
+                            <div class="sx-icon-bx-overseas bg-none-wi">
                                 <div class="sx-icon-box-wraper">
                                     <div class="sx-icon-bx-icon ">
                                     <span class="sx-text-primary">
@@ -106,7 +106,7 @@ Bluzen | Overseas Construction Site
                         </div>
                         <!-- Overseas Construction Site -->
                         <div class="col-md-4 col-12 wow fadeInRight" data-wow-duration="1s">
-                            <div class="sx-icon-bx-3 bg-none-wi">
+                            <div class="sx-icon-bx-overseas bg-none-wi">
                                 <div class="sx-icon-box-wraper">
                                     <div class="sx-icon-bx-icon ">
                                     <span class="sx-text-primary">
@@ -148,7 +148,7 @@ Bluzen | Overseas Construction Site
                         </div>
                         <!-- SMART Street Light Solution -->
                         <div class="col-md-4 col-12 wow fadeInRight" data-wow-duration="1s">
-                            <div class="sx-icon-bx-3 bg-none-wi">
+                            <div class="sx-icon-bx-overseas bg-none-wi">
                                 <div class="sx-icon-box-wraper">
                                     <div class="sx-icon-bx-icon ">
                                     <span class="sx-text-primary">
@@ -177,7 +177,7 @@ Bluzen | Overseas Construction Site
                         </div>
                         <!-- SMART Street Light Solution -->
                         <div class="col-md-4 col-12 wow fadeInRight" data-wow-duration="1s">
-                            <div class="sx-icon-bx-3 bg-none-wi">
+                            <div class="sx-icon-bx-overseas bg-none-wi">
                                 <div class="sx-icon-box-wraper">
                                     <div class="sx-icon-bx-icon ">
                                     <span class="sx-text-primary">
