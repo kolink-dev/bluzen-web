@@ -70,7 +70,7 @@
                 </li>
               </ul>
             </li>
-            <li>
+            <li class="@if (Route::is('contact-us'))active @endif">
               <a href="{{route('contact-us')}}">Contact Us</a>
             </li>
           </ul>
