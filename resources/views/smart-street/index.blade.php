@@ -29,7 +29,7 @@ Bluzen | SMART Street Light Solution
           <div class="section-content">
             <div class="sx-about-bx3-content-wrap">
               <div class="row">
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-6 col-md-12 wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
                   <div class="sx-about-bx3-media">
                     <div class="sx-dot-bx1">
                       <img src="{{asset('frontend')}}/images/old/about/dotted-pic2.png" alt="image">
@@ -56,10 +56,10 @@ Bluzen | SMART Street Light Solution
                 <div class="col-lg-6 col-md-12">
                   <div class="sx-about-bx3-content">
                     <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">SMART Street Light Solution</h2>
-                    <p>BLUZEN has been providing metropolitan cities in Korea such as Seoul, Goyang, Sejong with smart street light system and operation services since 2015.</p>
-                    <p>Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution. Public mobility services and public information such as air quality would be provided to citizen by the smart street light as well.</p>
-                    <p>IoT Technologies for Smart Street Light Various experiences on IoT technologies, such as sensor, control, communication and remote monitoring, would be required for implementation and operation of Smart Street Light System.</p>
-                    <p>Conceptual Architecture of Smart Street Light System Smart Street Light system is made up with Smart Device, Gateway, Wireless Communication Network and Remote Monitoring and Control Server System.</p>
+                    <p class="wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">BLUZEN has been providing metropolitan cities in Korea such as Seoul, Goyang, Sejong with smart street light system and operation services since 2015.</p>
+                    <p class="wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution. Public mobility services and public information such as air quality would be provided to citizen by the smart street light as well.</p>
+                    <p class="wow fadeInUp" data-wow-delay="0.7s" data-wow-duration="1s">IoT Technologies for Smart Street Light Various experiences on IoT technologies, such as sensor, control, communication and remote monitoring, would be required for implementation and operation of Smart Street Light System.</p>
+                    <p class="wow fadeInUp" data-wow-delay="0.9s" data-wow-duration="1s">Conceptual Architecture of Smart Street Light System Smart Street Light system is made up with Smart Device, Gateway, Wireless Communication Network and Remote Monitoring and Control Server System.</p>
                   </div>
                 </div>
               </div>
@@ -72,22 +72,24 @@ Bluzen | SMART Street Light Solution
                     <div class="col-lg-6 col-md-12">
                         <div class="sx-about-bx1-content">
                             <h2 class="sx-title mb-5 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">SMART Street Light</h2>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Increase Safety of Road Users</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Reduce Energy Consumption & Maintenance Cost</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Reduction of Light Pollution</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Public WIFI Hotspot Service</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Personal Mobility Charge Service</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Air Quality Information Service</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>City Surveillance Services</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>SOS Communication Service</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Intelligent CCTV & ITS Integration Service</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Traffic Information</p>
-                            <p><i class="fa fa-solid fa-check-square m-r10"></i>Incident Information</p>
+                            <p class="wow fadeInDown" data-wow-delay="0.3s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Increase Safety of Road Users</p>
+                            <p class="wow fadeInDown" data-wow-delay="0.5s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Reduce Energy Consumption & Maintenance Cost</p>
+                            <p class="wow fadeInDown" data-wow-delay="0.7s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Reduction of Light Pollution</p>
+                            <p class="wow fadeInDown" data-wow-delay="0.9s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Public WIFI Hotspot Service</p>
+                            <p class="wow fadeInDown" data-wow-delay="1.1s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Personal Mobility Charge Service</p>
+                            <p class="wow fadeInDown" data-wow-delay="1.3s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Air Quality Information Service</p>
+                            <p class="wow fadeInDown" data-wow-delay="1.5s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>City Surveillance Services</p>
+                            <p class="wow fadeInDown" data-wow-delay="1.7s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>SOS Communication Service</p>
+                            <p class="wow fadeInDown" data-wow-delay="1.9s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Intelligent CCTV & ITS Integration Service</p>
+                            <p class="wow fadeInDown" data-wow-delay="2.1s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Traffic Information</p>
+                            <p class="wow fadeInDown" data-wow-delay="2.3s" data-wow-duration="1s"><i class="fa fa-solid fa-check-square m-r10"></i>Incident Information</p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <div class="sx-mv-bx1-media">
-                            <div class="sx-dot-bx-right"><img src="{{asset('frontend')}}/images/old/about/dotted-pic.png" alt="image"></div>
+                        <div class="sx-mv-bx1-media wow fadeInDown" data-wow-delay="0.5s" data-wow-duration="1s">
+                            <div class="sx-dot-bx-right">
+                                <img src="{{asset('frontend')}}/images/old/about/dotted-pic.png" alt="image">
+                            </div>
                             <div class="sx-mv-img-outer">
                                 <div class="sx-mv-img-section-2">
                                     <img src="{{asset('frontend')}}/images/smart/smartstreet1.png" alt="image">
