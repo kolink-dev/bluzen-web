@@ -70,7 +70,7 @@ Bluzen | Factory Infra Solutions
                             <h4 class="testimonial-name mt-4">ICT CONSULTING</h4>
                         </div>
                     </div>
-                    <div class="testimonial-text mt-4">
+                    <div class="testimonial-text ft-p mt-4">
                         <p>Gathering, Analysis, Optimization based network consulting</p>
                         <p>Future improvement modeling consulting following the data center trend</p>
                     </div>
@@ -102,7 +102,7 @@ Bluzen | Factory Infra Solutions
                     <h4 class="testimonial-name mt-4">IT INFRA CONSTRUCTION</h4>
                     </div>
                 </div>
-                <div class="testimonial-text mt-4">
+                <div class="testimonial-text ft-p mt-4">
                     <p>Telecommunication facility, power supply installation construction</p>
                     <p>CCTV, UPS, thermohygrostat, ISPs and optical cable installation</p>
                 </div>
@@ -137,7 +137,7 @@ Bluzen | Factory Infra Solutions
                     <h4 class="testimonial-name mt-4">NETWORK / SYSTEM INTEGRATION</h4>
                     </div>
                 </div>
-                <div class="testimonial-text mt-4">
+                <div class="testimonial-text ft-p mt-4">
                     <p>Network/system integration and construction (design, construction, operation management, etc.)</p>
                     <p>Business-based network design</p>
                 </div>
@@ -161,12 +161,13 @@ Bluzen | Factory Infra Solutions
                               <path d="M169.31 83.848c-4.858 0-9.355 1.8-12.954 4.499L128.92 62.522c4.498-4.769 7.556-11.698 7.556-18.897C136.476 28.328 124.152 16 108.77 16S81.064 28.238 81.064 43.535c0 11.698 7.556 21.956 17.811 25.825l-3.328 21.956c-7.394.288-13.045 6.42-12.249 14.019a7.016 7.016 0 0 1-.075.108l-38.231 9.628c-2.699-6.569-9.085-11.158-16.912-11.158-9.985 0-18.081 8.099-18.081 17.997s8.096 17.997 18.081 17.997c6.297 0 11.784-2.969 15.112-7.829l58.201 28.255c-.63 1.8-.9 3.599-.9 5.669 0 9.898 8.096 17.997 18.081 17.997s18.081-8.099 18.081-17.997-8.096-17.997-18.081-17.997c-.9 0-1.799 0-2.699.27l-11.154-35.184c2.069-1.8 3.328-4.499 3.958-7.199l40.66.63c1.169 10.258 9.625 17.997 20.15 17.997 11.154 0 20.51-8.998 20.51-20.426s-9.534-20.245-20.689-20.245zM108.501 70.71c6.027 0 11.784-2.07 16.282-5.399l27.796 26.185c-1.799 2.7-3.328 5.669-3.598 8.998l-40.66-.27c-1.169-3.869-3.958-7.199-7.826-8.728l3.328-21.326c1.439.54 2.879.54 4.678.54zm1.979 79.096c-3.058 1.53-5.397 3.599-7.196 6.299L45.442 127.58c.798-2.28 1.018-4.561.843-7.39l.056-.078 38.861-9.898c2.069 3.869 6.297 6.299 11.154 6.299 1.529 0 3.058-.27 4.228-.63l9.896 33.923z" fill="#112F5B" data-color="1"></path>
                             </g>
                         </svg>
-                    <h4 class="testimonial-name mt-4">NETWORK / SYSTEM INTEGRATION</h4>
+                    <h4 class="testimonial-name mt-4">IT MAINTENANCE</h4>
                     </div>
                 </div>
-                <div class="testimonial-text mt-4">
-                    <p>Network/system integration and construction (design, construction, operation management, etc.)</p>
-                    <p>Business-based network design</p>
+                <div class="testimonial-text ft-p mt-4">
+                    <p>Maintenance of network system, security system</p>
+                    <p>PC, O.A Maintenance</p>
+                    <p>ERP System construction and maintenance</p>
                 </div>
                 </div>
             </div>

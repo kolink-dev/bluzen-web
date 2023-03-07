@@ -55,7 +55,7 @@ Bluzen | SMART Street Light Solution
                 </div>
                 <div class="col-lg-6 col-md-12">
                   <div class="sx-about-bx3-content">
-                    <h2 class="sx-title">SMART Street Light Solution</h2>
+                    <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">SMART Street Light Solution</h2>
                     <p>BLUZEN has been providing metropolitan cities in Korea such as Seoul, Goyang, Sejong with smart street light system and operation services since 2015.</p>
                     <p>Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution. Public mobility services and public information such as air quality would be provided to citizen by the smart street light as well.</p>
                     <p>IoT Technologies for Smart Street Light Various experiences on IoT technologies, such as sensor, control, communication and remote monitoring, would be required for implementation and operation of Smart Street Light System.</p>
@@ -71,7 +71,7 @@ Bluzen | SMART Street Light Solution
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="sx-about-bx1-content">
-                            <h2 class="sx-title mb-5">SMART Street Light</h2>
+                            <h2 class="sx-title mb-5 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">SMART Street Light</h2>
                             <p><i class="fa fa-solid fa-check-square m-r10"></i>Increase Safety of Road Users</p>
                             <p><i class="fa fa-solid fa-check-square m-r10"></i>Reduce Energy Consumption & Maintenance Cost</p>
                             <p><i class="fa fa-solid fa-check-square m-r10"></i>Reduction of Light Pollution</p>

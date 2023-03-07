@@ -37,7 +37,7 @@ HEADER (top part of page)
 ======================================*/
 
 /*-------------------------------------
-	logo for header 
+	logo for header
 -------------------------------------*/
 
 .header-style2 .logo-header {
@@ -58,7 +58,7 @@ HEADER (top part of page)
 .header-style2 .logo-header-inner img {max-width: 100px;max-height: 100%;}
 
 /*-------------------------------------
-	eamil-phone (left) 
+	eamil-phone (left)
 -------------------------------------*/
 .header-style2 .e-p-bx{padding:0px;}
 .header-style2 .e-p-bx li {
@@ -89,7 +89,7 @@ HEADER (top part of page)
 .header-style2 .e-p-bx li i {margin-right: 5px;vertical-align: middle;}
 
 /*-------------------------------------
-	social-links (right) 
+	social-links (right)
 -------------------------------------*/
 .header-style2 .social-bx {margin:0px;}
 .header-style2 .social-bx li{font-size: 12px;	margin: 0;	position: relative;}
@@ -123,12 +123,13 @@ HEADER (top part of page)
 	height: 100%;
 	width: 0px;
 	z-index: -1;
-	background-color: var(--primary);
+	/* background-color: var(--primary); */
 	transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	-webkit-transition: all 0.4s ease;
 	-o-transition: all 0.4s ease;
 }
+
 
 .header-style2 .social-bx li a:hover:after {
 	width: 100%;
@@ -265,13 +266,13 @@ HEADER (top part of page)
 	font-size: 13px;
 	padding: 10px 20px;
 	overflow: hidden;
-	border-left:0px solid transparent;	
+	border-left:0px solid transparent;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-ms-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
-	position: relative;	
+	position: relative;
 }
 
 
@@ -416,7 +417,7 @@ HEADER (top part of page)
 
 	.header-style2 .header-nav .nav {float: none;margin: 0px;background: #fff;width:100%; display: block; height: 100%;}
 	.header-style2 .header-nav .nav li {float: none;width: 100%;display: block;}
-	
+
 	.header-style2 .header-nav .nav i {float: right;}
 	.header-style2 .header-nav .nav li .sub-menu>li a {padding-left: 30px;}
 	.header-style2 .header-nav .nav li.has-child {	position: relative;	}
@@ -515,7 +516,7 @@ HEADER (top part of page)
 }
 .header-style2 .main-bar{position: relative;	width: 100%;left: 0px;padding:0px; border-bottom: 1px solid rgba(255, 255, 255, 0.1);}
 .header-style2 .main-bar .container{
-	padding:10px 50px; 
+	padding:10px 50px;
 	/* max-width: 100%; */
 }
 
@@ -525,13 +526,13 @@ HEADER (top part of page)
 	.header-style2 .main-bar .container {  padding: 0px 15px; max-width: 100%;}
 	.header-style2 .top-bar .container {max-width: 100%;}
 }
-	
+
 @media only screen and (max-width:640px){
 	.header-style2 .top-bar .container .d-flex{display:block !important;}
 	.header-style2 .top-bar .container .d-flex .social-bx li{display:inline-block;padding-bottom:7px;}
 	.header-style2 .top-bar .container .d-flex .social-bx li a{text-align:left;}
 }
-	
+
 
 
 
@@ -542,8 +543,8 @@ HEADER (top part of page)
 .header-style2 .sticky-no .main-bar {position: static !important;}
 
 /*-------------------------------------
-	when header is sticky 
--------------------------------------*/  
+	when header is sticky
+-------------------------------------*/
 /* header sticky  */
 
 /*____WHEN HEADER IS STICKY____*/

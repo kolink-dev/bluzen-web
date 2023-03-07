@@ -10634,6 +10634,9 @@ INPUT ANIMATION
     margin-bottom: 0.2rem;
     font-size: 15px;
 }
+.ft-p p{
+    margin-bottom: 10px !important;
+}
 @media only screen and (max-width: 991px){
 
     .fact-inf h4 {
