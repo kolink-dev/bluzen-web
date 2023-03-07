@@ -190,7 +190,7 @@ HEADER (top part of page)
 	padding: 24px 20px;
 	cursor: pointer;
 	margin: -9px 0;
-	font-weight: 600;
+	font-weight: 500;
 	text-transform: capitalize;
 	font-family: var(--title-family);
 	font-size: 18px;
@@ -200,7 +200,7 @@ HEADER (top part of page)
 	transition: var(--transition);
 }
 @media only screen and (max-width:1440px){
-	.header-style2 .header-nav .nav>li>a{font-size:16px; padding: 24px 20px;}
+	.header-style2 .header-nav .nav>li>a{font-size:16px; padding: 24px 25px;}
 }
 .header-style2 .header-nav .nav>li>a:after {
 	content: '';
@@ -228,7 +228,7 @@ HEADER (top part of page)
 
 
 .header-style2 .header-nav .nav>li.active>a,
-.header-style2 .header-nav .nav>li.current-menu-item>a {background-color: transparent;color: #ff8151; font-weight:500}
+.header-style2 .header-nav .nav>li.current-menu-item>a {background-color: transparent;color: #ff8151; font-weight:900}
 .header-style2 .header-nav .nav>li:hover>a {color:#ff8151;}
 
 .header-style2 .header-nav .nav>li:hover>.sub-menu,
