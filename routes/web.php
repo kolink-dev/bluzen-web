@@ -20,5 +20,6 @@ Route::get('services-solution','ServiceSolutionController@index')->name('service
 Route::get('overseas-construction-site','OverseasConstructionController@index')->name('overseas-construction-site');
 Route::get('factory-infra-solutions','FactoryInfraController@index')->name('factory-infra-solutions');
 Route::get('smart-street-light-solution','SmarStreetController@index')->name('smart-street');
+Route::get('contact-us','ContactController@index')->name('contact-us');
 
 

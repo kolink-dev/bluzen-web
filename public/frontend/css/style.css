@@ -6613,7 +6613,8 @@ ol.commentlist li::after {
 
 
 .contact-home-1-form {
-	padding: 50px;
+	/* padding: 50px; */
+    padding: 80px 50px 170px;
 }
 .contact-home-1-form .sx-title{
 	font-family: var(--title-family);
@@ -10637,6 +10638,36 @@ INPUT ANIMATION
 .ft-p p{
     margin-bottom: 10px !important;
 }
+
+.mb-contact-us {
+    margin-bottom: 5px ;
+}
+
+.ml-cp-5{
+    margin-left: 20px;
+}
+
+.lb-color{
+    color: #393738;
+    font-weight: 600;
+}
+
+.sx-cp{
+    width: 50px !important;
+    height: 50px !important;
+    min-width: 50px !important;
+    margin-right: 30px !important;
+    border-radius: 50% !important;
+    background-color: #ededed !important;
+}
+
+.ft-fafa25{
+    font-size: 25px !important;
+}
+
+.sx-icon-bx-cp{
+    font-size: 13px !important;
+}
 @media only screen and (max-width: 991px){
 
     .fact-inf h4 {
@@ -10690,6 +10721,11 @@ INPUT ANIMATION
 }
 
 @media only screen and (max-width:768px) {
+
+    .ml-cp-5{
+        margin-left: 0px;
+    }
+
     .fact-inf {
         padding: 20px;
         height: auto;
