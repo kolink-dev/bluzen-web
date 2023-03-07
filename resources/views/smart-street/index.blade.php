@@ -90,7 +90,7 @@ Bluzen | SMART Street Light Solution
                             <div class="sx-dot-bx-right"><img src="{{asset('frontend')}}/images/old/about/dotted-pic.png" alt="image"></div>
                             <div class="sx-mv-img-outer">
                                 <div class="sx-mv-img-section-2">
-                                    <img src="{{asset('frontend')}}/images/old/about/p1-1.jpg" alt="image">
+                                    <img src="{{asset('frontend')}}/images/smart/smart-street-lighting-1.png" alt="image">
                                 </div>
                                 <div class="sx-mv-img-section-1-wrap">
                                     {{-- <div class="sx-mv-video">
@@ -98,7 +98,7 @@ Bluzen | SMART Street Light Solution
                                             <i class="flaticon-play"></i>
                                         </a>
                                     </div> --}}
-                                    <div class="sx-mv-img-section-1" style="background-image:url({{asset('frontend')}}/images/old/about/right-pic.jpg)"></div>
+                                    <div class="sx-mv-img-section-1" style="background-image:url({{asset('frontend')}}/images/smart/smart-street-lighting-2.png)"></div>
                                 </div>
                             </div>
                         </div>
