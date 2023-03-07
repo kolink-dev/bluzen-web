@@ -4,6 +4,10 @@
 Bluzen | Contact Us
 @endsection
 
+@push('heads')
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+@endpush
+
 @section('content')
 <!-- Section Content Start -->
 <div class="page-content">
@@ -39,9 +43,13 @@ Bluzen | Contact Us
         </div>
         <!-- TITLE END -->
         <div class="section-content">
+            <div class="col-md-12">
+                <div class="responsive-map-container" id="iframeHolder" >
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.929599848034!2d103.7597668!3d1.3368107!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da106e393d0d67%3A0xca9206ecb6667295!2sBluzen%20Pte.%20Ltd.!5e0!3m2!1sen!2sid!4v1678173182627!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
             <!-- CONTACT FORM-->
             <div class="row justify-content-center">
-
                 <div class="col-lg-6 col-md-12 m-b30 mt-5">
                     <div class="contact-home1-right">
                         <div class="contact-home-1-form sx-bg-light">
@@ -91,14 +99,16 @@ Bluzen | Contact Us
                         <!-- TITLE START -->
                         <div class="section-head left"></div>
                         <!-- TITLE END -->
+
                         <div class="row sx-contact-form-icon-bx">
+
                             <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="0.3s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Pte Ltd Singapore</a>
+                                        <a href="javascript:void(0);" id="bluzen-sg" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Pte Ltd Singapore</a>
                                         <p class="mb-contact-us">21 Bukit Batok Crescent, #13-73 WCEGA Tower, Singapore 658056</p>
                                         <p class="mb-contact-us">Tel: +65 6271 0177 / 070 7793 5095</p>
                                     </div>
@@ -111,7 +121,7 @@ Bluzen | Contact Us
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Vina Co., Ltd Vietnam</a>
+                                        <a href="javascript:void(0);" id="bluzen-vina" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Vina Co., Ltd Vietnam</a>
                                         <p class="mb-contact-us">23/38 Phuong Mai Street, Phuong Mai ward, Dong Da district, Ha Noi</p>
                                         <p class="mb-contact-us">Tel: +84 9 6517 3527 / 070 8844 5095</p>
                                     </div>
@@ -185,3 +195,21 @@ Bluzen | Contact Us
 
 <!-- Section Contact Us End -->
 @endsection
+
+@push('js')
+    <script>
+        $(function(){
+            $('#bluzen-sg').click(function(){
+                if(!$('#iframe').length) {
+                    $('#iframeHolder').html('<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.929599848034!2d103.7597668!3d1.3368107!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da106e393d0d67%3A0xca9206ecb6667295!2sBluzen%20Pte.%20Ltd.!5e0!3m2!1sen!2sid!4v1678173182627!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>');
+                }
+            });
+            $('#bluzen-vina').click(function(){
+                if(!$('#iframe').length) {
+                    $('#iframeHolder').html('<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7861188.9727857215!2d101.78233786459568!3d15.831814204614897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ad1d1c3afb29%3A0xa1688ea53fb1cb54!2sBluzen%20Vina!5e0!3m2!1sen!2sid!4v1678174092269!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>');
+                }
+            });
+        });
+    </script>
+@endpush
+

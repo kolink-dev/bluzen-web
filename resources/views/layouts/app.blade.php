@@ -46,7 +46,7 @@
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" /> -->
     <link rel="stylesheet" href="{{asset('frontend')}}/css/swiper.min.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
+    @stack('heads')
 </head>
 
 <body>
@@ -85,7 +85,7 @@
 
     </div>
 
-
+    @stack('js')
     <!-- JAVASCRIPT  FILES ========================================= -->
     <!-- JQUERY.MIN JS -->
     <script src="{{asset('frontend')}}/js/jquery-3.6.1.min.js.js"></script>
