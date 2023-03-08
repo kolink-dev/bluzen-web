@@ -466,7 +466,7 @@ Bluzen | We support your growth through digital transformation
                             </div>
                         </div>
                         <div class="col-md-4 col-12 text-center wow fadeInDown">
-                            <a href="#" class="site-button site-button2 sx-btn-primary icon sx-btn-lg">
+                            <a href="{{route('contact-us')}}" class="site-button site-button2 sx-btn-primary icon sx-btn-lg">
                                 <i class="fa  fa-long-arrow-right"></i>
                                 Contact Us
                             </a>
