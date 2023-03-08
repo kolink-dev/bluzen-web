@@ -21,7 +21,7 @@
           <div class="extra-cell">
             <ul class="list-unstyled social-bx d-flex flex-wrap align-content-center">
               <li>
-                <a target="_blank" title="Linkedln" class="font-linkdin" href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQG24f8ZtnWRiAAAAYaBVwv4HDQkaVQtYpNs9qdzzMZU2-Zl3R3ggEAUxxZHGYnoWdb7JQXGRd2EACwm9EZbNN27TK8RUdDpUvkDtwy_vbGHQnODUKCsXgcaKeTn1RCeXDyG6S4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fbluzen">
+                <a target="_blank" title="Linkedln" class="font-linkdin" href="https://www.linkedin.com/company/bluzen">
                   <i class="feather-linkedin"></i>
                 </a>
               </li>
