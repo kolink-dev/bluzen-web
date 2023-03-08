@@ -45,9 +45,9 @@
                             <h4 class="sx-f-title mb-1">Bluzen Pte Ltd Singapore</h4>
                             <p> 21 Bukit Batok Crescent, #13-73 WCEGA Tower, Singapore 658056
                             Tel: +65 6271 0177 / 070 8843 5095</p>
+                            <a href="{{route('contact-us')}}">Bluzen Branch</a>
                             </li>
-                           <li></li>
-                           <li></li>
+                          
                         </ul>
                     </div>
                 </div>
