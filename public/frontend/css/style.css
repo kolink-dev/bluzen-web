@@ -3858,7 +3858,11 @@ input[type=radio]:checked+label:before {
 .sx-social-icons ul{ list-style:none; margin-bottom: 0px;}
 .sx-social-icons li { margin-right:10px}
 .sx-social-icons li a { color:var(--secondary-light) ; font-size: 16px; width: 40px; height: 40px; border-radius: 50%; background-color: var(--bg-light); display: inline-block; text-align: center; line-height: 40px;}
-.sx-social-icons li a:hover { color:var(--white); background-color:var(--primary);}
+.sx-social-icons li a:hover {
+    color:var(--white);
+    background-color: #f0db90;
+    /* background-color:var(--primary); */
+}
 
 /*-------widget newsletter-------*/
 
@@ -11007,6 +11011,9 @@ transition: all .3s ease ;}
     background-color: #f5f5f5;
 }
 
+.color-ft-none a{
+    color: #666666 !important;
+}
 
 @media only screen and (max-width:768px){
 

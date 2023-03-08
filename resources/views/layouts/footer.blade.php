@@ -53,26 +53,20 @@
                 </div>
 
                 <!-- SOLUTIONS -->
-                <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-12 col footer-col-3">
+                 <div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-12 col footer-col-3">
                     <div class="widget widget_info">
                         <h4 class="sx-f-title">Media Social</h4>
-                        <ul>
-                            <li>
-                                <div class="widget-info-icon">
-                                    <i class="flaticon-phone"></i>
-                                </div>
-                                <div class="widget-info-detail">
-                                    <a href="tel:+55(66633)2566">+ 55 ( 66633 ) 25 66</a>
-                                    <a href="tel:+55(66633)2577">+ 55 ( 66633 ) 25 77</a>
-                                </div>
-                            </li>
-
-                        </ul>
+                        <div class="sx-social-icons">
+                            <ul class="d-flex">
+                                <li class="color-ft-none"><a href="https://www.linkedin.com/company/bluzen" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                <li class="color-ft-none"><a href="mailto:dennis@bluzen.com"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div> -->
+                </div>
 
                 <!-- CONTACT US -->
-                <!-- <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                {{-- <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                     <div class="widget widget_insta-gallery">
                         <h4 class="sx-f-title">Instagram</h4>
                         <ul>
@@ -86,7 +80,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>                           -->
+                </div> --}}
             </div>
         </div>
     </div>
