@@ -21,5 +21,7 @@ Route::get('overseas-construction-site','OverseasConstructionController@index')-
 Route::get('factory-infra-solutions','FactoryInfraController@index')->name('factory-infra-solutions');
 Route::get('smart-street-light-solution','SmarStreetController@index')->name('smart-street');
 Route::get('contact-us','ContactController@index')->name('contact-us');
+Route::get('about-us','AboutController@index')->name('about-us');
+
 
 

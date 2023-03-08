@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Contact Us - Bluzen We support your growth through digital transformation
+About Us - Bluzen We support your growth through digital transformation
 @endsection
 
 @push('heads')
@@ -17,7 +17,7 @@ Contact Us - Bluzen We support your growth through digital transformation
                 <div class="sx-bnr-inr-entry">
                     <div class="banner-title-outer2">
                         <div class="banner-title-name">
-                            <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Get In Touch</h2>
+                            <h2 class="sx-title wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">About Bluzen</h2>
                         </div>
                     </div>
                 </div>
@@ -139,8 +139,7 @@ Contact Us - Bluzen We support your growth through digital transformation
             <!-- CONTACT FORM-->
             <div class="justify-content-center">
                 <div class="section-head center sx-head-l-title wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
-                    <h2 class="sx-title mb-4 m-t50">Careers</h2>
-                    <hr>
+                    <h2 class="sx-title mb-5 m-t50">Careers</h2>
                 </div>
                 <div class="col-md-12 m-b50 m-t50">
                     <div class="row">
