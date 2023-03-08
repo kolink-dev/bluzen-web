@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Bluzen | Contact Us
+Contact Us - Bluzen We support your growth through digital transformation
 @endsection
 
 @push('heads')

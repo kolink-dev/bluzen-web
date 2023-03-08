@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Bluzen | Factory Infra Solutions
+Factory Infra Solutions - Bluzen We support your growth through digital transformation
 @endsection
 
 @section('content')

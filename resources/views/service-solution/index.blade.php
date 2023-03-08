@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Bluzen | Service and Solutions
+Service and Solutions - Bluzen We support your growth through digital transformation
 @endsection
 
 @section('content')

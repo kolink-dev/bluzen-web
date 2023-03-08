@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Bluzen | Overseas Construction Site
+Overseas Construction Site - Bluzen We support your growth through digital transformation
 @endsection
 
 @section('content')

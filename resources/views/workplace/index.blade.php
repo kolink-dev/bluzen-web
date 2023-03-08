@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Bluzen | Workplace IT
+Workplace IT - Bluzen
 @endsection
 
 @section('content')

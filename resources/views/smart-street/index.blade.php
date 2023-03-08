@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Bluzen | SMART Street Light Solution
+SMART Street Light Solution - Bluzen We support your growth through digital transformation
 @endsection
 
 @section('content')
