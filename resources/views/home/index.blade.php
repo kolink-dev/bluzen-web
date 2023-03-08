@@ -280,7 +280,7 @@ Bluzen | We support your growth through digital transformation
                 </div>
                 <div class="section-content mt-4">
                     <div class="sx-box m-b30">
-                        <div class="icon-font container">
+                        <div class="icon-font container wow fadeInUp">
                             <div class="row">
                                 <div class="icon-font-block2">
                                     <img src="{{asset('frontend')}}/images/clients/daelim.webp">
@@ -365,13 +365,13 @@ Bluzen | We support your growth through digital transformation
         <div class="section-full p-t10 p-b40 mobile-page-padding">
             <div class="container">
             <hr>
-                <div class="c3_top mt-4">
-                    <h1 data-aos="fade-left" class="aos-init aos-animate">Our Partners</h1>
+                <div class="c3_top mt-4 wow fadeInDown">
+                    <h1>Our Partners</h1>
                 </div>
                 <!-- ====== start clients ====== -->
                 <section class="clients style-5 pb-100 mt-4">
                     <div class="content">
-                        <div class="clients-slider5">
+                        <div class="clients-slider5 wow fadeInLeft">
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
@@ -407,7 +407,7 @@ Bluzen | We support your growth through digital transformation
                                 </div>
                             </div>
                         </div>
-                        <div class="clients-slider5" dir="rtl">
+                        <div class="clients-slider5 wow fadeInRight" dir="rtl">
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
@@ -457,15 +457,15 @@ Bluzen | We support your growth through digital transformation
         <!-- SECTION OUR Partners End -->
 
         <!-- Contact Us START -->
-            <div class="counter-blocks bg-contact ">
+            <div class="counter-blocks bg-contact wow fadeInUp">
                 <div class="col-md-12">
                     <div class="row">
-                        <div class="col-md-7 col-12 mt-2">
+                        <div class="col-md-7 col-12 mt-2 wow fadeInUp">
                             <div class="mb-contact">
                             <h2 class="cp-h2">Are You Ready to Grow Your Business?</h2>
                             </div>
                         </div>
-                        <div class="col-md-4 col-12 text-center">
+                        <div class="col-md-4 col-12 text-center wow fadeInDown">
                             <a href="#" class="site-button site-button2 sx-btn-primary icon sx-btn-lg">
                                 <i class="fa  fa-long-arrow-right"></i>
                                 Contact Us
@@ -483,14 +483,14 @@ Bluzen | We support your growth through digital transformation
             <div class="container">
                 <div class="section-content">
                 <!-- TITLE START -->
-                     <div class="c3_top mt-4 mb-4">
+                     <div class="c3_top mt-4 mb-4 wow fadeInDown">
                         <h1 data-aos="fade-left" class="aos-init aos-animate">Our Projects</h1>
                     </div>
                 <!-- TITLE END -->
                     <div class="container mt-4">
                         <div class="row">
                             <!-- COLUMNS 1 -->
-                            <div class="masonry-item m-b30 m-b30p">
+                            <div class="masonry-item m-b30 m-b30p wow fadeInUp">
                                 <div class="p-3 hover-animation-1">
                                     <div class="testimonial-user mt-4 info">
                                         <div class="text-center mb-3">
@@ -516,7 +516,7 @@ Bluzen | We support your growth through digital transformation
                             </div>
 
                             <!-- COLUMNS 2 -->
-                            <div class="masonry-item m-b30 m-b30p bottom-proj-mb right-line-mb">
+                            <div class="masonry-item m-b30 m-b30p bottom-proj-mb right-line-mb wow fadeInDown">
                                 <div class="p-3 hover-animation-1">
                                     <div class="testimonial-user-info mt-4">
                                         <div class="text-center mb-3">
@@ -540,7 +540,7 @@ Bluzen | We support your growth through digital transformation
                             </div>
 
                             <!-- COLUMNS 3 -->
-                            <div class="masonry-item re-bd-pr m-b30 h-100 bottom-proj-mb right-line-mb">
+                            <div class="masonry-item re-bd-pr m-b30 h-100 bottom-proj-mb right-line-mb wow fadeInUp">
                                 <div class="p-3 hover-animation-1">
                                     <div class="testimonial-user-info mt-4">
                                         <div class="text-center mb-3">
