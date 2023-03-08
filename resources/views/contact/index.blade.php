@@ -137,58 +137,14 @@ Bluzen | Contact Us
 
             </div>
             <!-- CONTACT FORM-->
-            {{-- <div class="justify-content-center">
-                <center>
-                    <div class="col-lg-8 col-md-12 m-b80 m-t80">
-                        <div class="contact-home1-right">
-                            <div class="contact-home-1-form sx-bg-light">
-                                <h4 class="sx-title mb-5 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Contact Us</h4>
-                                    <form class="cons-contact-form2 form-transparent" method="post" action="https://theme7x.com/itodo/form-handler2.php">
-                                        <div class="row">
-                                            <div class="col-md-6 text-left wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                                <label class="lb-color">First Name</label>
-                                                <div class="input input-animate">
-                                                    <input type="text" name="firstname">
-                                                    <span class="spin"></span>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 text-left wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                                <label class="lb-color">Last Name</label>
-                                                <div class="input input-animate">
-                                                    <input type="text" name="lastname">
-                                                    <span class="spin"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="text-left">
-                                            <label class="lb-color wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Your Email*</label>
-                                            <div class="input input-animate wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                                <input type="email" name="email" id="email" required>
-                                                <span class="spin"></span>
-                                            </div>
-                                        </div>
-
-                                        <div class="text-left">
-                                            <label class="lb-color wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Write a message</label>
-                                            <div class="input textarea input-animate wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                                <textarea name="message" id="message"></textarea>
-                                                <span class="spin"></span>
-                                            </div>
-                                        </div>
-
-                                        <div class="sx-btn-center text-left p-t10 wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
-                                            <button type="submit" class="site-button sx-btn-primary icon">
-                                                <i class="fa  fa-long-arrow-right"></i>
-                                                Submit
-                                            </button>
-                                        </div>
-                                    </form>
-                            </div>
-                        </div>
+            <div class="justify-content-center">
+                <div class="col-md-12 m-b80 m-t80">
+                    <div class="row">
+                        <div class="col-md-6"><img src="{{asset('frontend/images/it-engineer.png')}}" alt=""></div>
+                        <div class="col-md-6"><img src="{{asset('frontend/images/internship.png')}}" alt=""></div>
                     </div>
-                </center>
-            </div> --}}
+                </div>
+            </div>
         </div>
       </div>
     </div>
