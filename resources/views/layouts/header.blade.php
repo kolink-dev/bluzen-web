@@ -35,20 +35,42 @@
             <li class="@if (Route::is('home'))active @endif">
               <a href="{{route('home')}}">Home</a>
             </li>
-            <li>
-              <a href="#about-us">About Us</a>
-              <ul class="sub-menu">
+            @if (Route::is('home') == false )
                 <li>
-                  <a href="#our-clients">Our Clients</a>
+                    <a href="{{route('home')}}#about-us">About Us</a>
+                    <ul class="sub-menu">
+                    <li class="d-md-none d-md-block">
+                        <a href="{{route('home')}}#about-us">About</a>
+                    </li>
+                    <li>
+                        <a href="{{route('home')}}#our-clients">Our Clients</a>
+                    </li>
+                    <li>
+                        <a href="{{route('home')}}#our-partners">Our Partners</a>
+                    </li>
+                    <li>
+                        <a href="{{route('home')}}#our-projects">Our Projects</a>
+                    </li>
+                    </ul>
                 </li>
+            @else
                 <li>
-                  <a href="#our-partners">Our Partners</a>
+                    <a href="#about-us">About Us</a>
+                    <ul class="sub-menu">
+                        
+                    <li>
+                        <a href="#our-clients">Our Clients</a>
+                    </li>
+                    <li>
+                        <a href="#our-partners">Our Partners</a>
+                    </li>
+                    <li>
+                        <a href="#our-projects">Our Projects</a>
+                    </li>
+                    </ul>
                 </li>
-                <li>
-                  <a href="#our-projects">Our Projects</a>
-                </li>
-              </ul>
-            </li>
+            @endif
+
             <li class="@if (Route::is('services-solution','workplace',
                 'overseas-construction-site','factory-infra-solutions','smart-street'))active @endif">
               <a href="services-solution">Services & Solutions</a>

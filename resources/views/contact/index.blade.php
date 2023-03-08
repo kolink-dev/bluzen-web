@@ -57,74 +57,69 @@ Bluzen | Contact Us
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" id="bluzen-sg" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Pte Ltd Singapore</a>
+                                        <p class="mb-contact-us sx-icon-bx-title sx-icon-bx-cp">Bluzen Pte Ltd Singapore</p>
                                         <p class="mb-contact-us">21 Bukit Batok Crescent, #13-73 WCEGA Tower, Singapore 658056</p>
                                         <p class="mb-contact-us">Tel: +65 6271 0177 / 070 7793 5095</p>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" id="bluzen-vina" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Vina Co., Ltd Vietnam</a>
+                                        <p class="mb-contact-us sx-icon-bx-title sx-icon-bx-cp">Bluzen Vina Co., Ltd Vietnam</p>
                                         <p class="mb-contact-us">23/38 Phuong Mai Street, Phuong Mai ward, Dong Da district, Ha Noi</p>
                                         <p class="mb-contact-us">Tel: +84 9 6517 3527 / 070 8844 5095</p>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.7s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Group Thailand</a>
+                                        <p class="mb-contact-us sx-icon-bx-title sx-icon-bx-cp">Bluzen Group Thailand</p>
                                         <p class="mb-contact-us">155/18 Moo 2 Tumbot Tubma Muan Rayong 21000, Thailand, Pattaya, TH</p>
                                         <p class="mb-contact-us">Tel: +66 08 1663 6621</p>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.8s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Malaysia Sdn Bhd</a>
+                                        <p class="mb-contact-us sx-icon-bx-title sx-icon-bx-cp">Bluzen Malaysia Sdn Bhd</p>
                                         <p class="mb-contact-us">Sublot 87, Lot 14934 Block 11, Muara Tebas Land District,
                                             1st Floor, Stutong Parade, Jalan Setia Raja, 93250, Kuching, Sarawak.</p>
                                         <p class="mb-contact-us">Tel: +60-12-524-9171</p>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Indonesia</a>
+                                        <p class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Indonesia</p>
                                         <p class="mb-contact-us">PT BLUZEN GROUP INDONESIA</p>
                                         <p class="mb-contact-us">Jln Boulevard Barat Ruko Inkopal Blok G No.21 Kelapa Gading Jakarta Utara 19440 </p>
                                         <p class="mb-contact-us">Tel: +621 4585366</p>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1.1s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="mailto:dennis@bluzen.com" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Korea</a>
+                                        <p class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Korea</p>
                                         <p class="mb-contact-us">120-2702, Lakepalace, Jamsil-Ro 88, Songpa-Gu, Seoul, Korea, Seoul, KR</p>
                                         <p class="mb-contact-us">Tel: +82 02 4485095</p>
                                     </div>
@@ -142,7 +137,7 @@ Bluzen | Contact Us
 
             </div>
             <!-- CONTACT FORM-->
-            <div class="justify-content-center">
+            {{-- <div class="justify-content-center">
                 <center>
                     <div class="col-lg-8 col-md-12 m-b80 m-t80">
                         <div class="contact-home1-right">
@@ -193,7 +188,7 @@ Bluzen | Contact Us
                         </div>
                     </div>
                 </center>
-            </div>
+            </div> --}}
         </div>
       </div>
     </div>
