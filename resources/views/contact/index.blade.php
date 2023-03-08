@@ -51,7 +51,7 @@ Bluzen | Contact Us
                             <div class="text-center m-b30 wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
                                 <h3>Bluzen Group</h3>
                             </div>
-                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.3s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -63,7 +63,7 @@ Bluzen | Contact Us
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -100,7 +100,7 @@ Bluzen | Contact Us
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.9s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -113,7 +113,7 @@ Bluzen | Contact Us
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1.1s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -138,10 +138,17 @@ Bluzen | Contact Us
             </div>
             <!-- CONTACT FORM-->
             <div class="justify-content-center">
-                <div class="col-md-12 m-b80 m-t80">
+                <div class="section-head center sx-head-l-title wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
+                    <h2 class="sx-title mb-5 m-t50">Careers</h2>
+                </div>
+                <div class="col-md-12 m-b50 m-t50">
                     <div class="row">
-                        <div class="col-md-6"><img src="{{asset('frontend/images/it-engineer.png')}}" alt=""></div>
-                        <div class="col-md-6"><img src="{{asset('frontend/images/internship.png')}}" alt=""></div>
+                        <div class="col-md-6 mb-4 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                            <img src="{{asset('frontend/images/it-engineer.png')}}" alt="" style="border-radius:8px">
+                        </div>
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                            <img src="{{asset('frontend/images/internship.png')}}" alt="" style="border-radius:8px">
+                        </div>
                     </div>
                 </div>
             </div>
