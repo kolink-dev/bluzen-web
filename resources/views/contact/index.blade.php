@@ -37,7 +37,7 @@ Bluzen | Contact Us
         <!-- TITLE START -->
         <div class="section-head center">
             <div class="sx-head-l-title wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
-                <h2 class="sx-title">Contact Us</h2>
+                <h2 class="sx-title mb-5">Contact Us</h2>
                 <hr>
             </div>
         </div>
@@ -45,91 +45,36 @@ Bluzen | Contact Us
         <div class="section-content">
             <div class="col-md-12">
 
-                <img src="{{asset('frontend/images/maps.png')}}" class="d-none d-md-block mb-5 wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s" alt="">
-                <img src="{{asset('frontend/images/maps-mobile.png')}}" class="d-md-none d-md-block wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s" alt="">
-
-            </div>
-            <!-- CONTACT FORM-->
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-12 m-b30 mt-5">
-                    <div class="contact-home1-right">
-                        <div class="contact-home-1-form sx-bg-light">
-                            <h4 class="sx-title mb-5 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Contact Us</h4>
-                                <form class="cons-contact-form2 form-transparent" method="post" action="https://theme7x.com/itodo/form-handler2.php">
-                                    <div class="row">
-                                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                            <label class="lb-color">First Name</label>
-                                            <div class="input input-animate">
-                                                <input type="text" name="firstname">
-                                                <span class="spin"></span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                            <label class="lb-color">Last Name</label>
-                                            <div class="input input-animate">
-                                                <input type="text" name="lastname">
-                                                <span class="spin"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <label class="lb-color wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Your Email*</label>
-                                    <div class="input input-animate wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                        <input type="email" name="email" id="email" required>
-                                        <span class="spin"></span>
-                                    </div>
-
-                                    <label class="lb-color wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Write a message</label>
-                                    <div class="input textarea input-animate wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                        <textarea name="message" id="message"></textarea>
-                                        <span class="spin"></span>
-                                    </div>
-
-                                    <div class="sx-btn-center text-left p-t10 wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
-                                        <button type="submit" class="site-button sx-btn-primary icon">
-                                            <i class="fa  fa-long-arrow-right"></i>
-                                            Submit
-                                        </button>
-                                    </div>
-                                </form>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12  m-b30">
-                    <div class="contact-info">
-                        <!-- TITLE START -->
-                        <div class="section-head left"></div>
-                        <!-- TITLE END -->
-
+                <div class="row">
+                    <div class="col-md-6">
                         <div class="row sx-contact-form-icon-bx">
-
-                            <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="0.3s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.3s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="javascript:void(0);" id="bluzen-sg" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Pte Ltd Singapore</a>
+                                        <a href="mailto:dennis@bluzen.com" id="bluzen-sg" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Pte Ltd Singapore</a>
                                         <p class="mb-contact-us">21 Bukit Batok Crescent, #13-73 WCEGA Tower, Singapore 658056</p>
                                         <p class="mb-contact-us">Tel: +65 6271 0177 / 070 7793 5095</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
                                     </div>
                                     <div class="sx-icon-bx-info">
-                                        <a href="javascript:void(0);" id="bluzen-vina" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Vina Co., Ltd Vietnam</a>
+                                        <a href="mailto:dennis@bluzen.com" id="bluzen-vina" class="sx-icon-bx-title sx-icon-bx-cp">Bluzen Vina Co., Ltd Vietnam</a>
                                         <p class="mb-contact-us">23/38 Phuong Mai Street, Phuong Mai ward, Dong Da district, Ha Noi</p>
                                         <p class="mb-contact-us">Tel: +84 9 6517 3527 / 070 8844 5095</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="0.7s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.7s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -142,7 +87,7 @@ Bluzen | Contact Us
                                 </div>
                             </div>
 
-                            <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="0.9s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="0.9s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -156,7 +101,7 @@ Bluzen | Contact Us
                                 </div>
                             </div>
 
-                            <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="1.1s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1.1s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -170,7 +115,7 @@ Bluzen | Contact Us
                                 </div>
                             </div>
 
-                            <div class="col-lg-12 col-md-6 m-b30 ml-cp-5 wow fadeInLeft" data-wow-delay="1.3s" data-wow-duration="1s">
+                            <div class="col-lg-12 col-md-6 m-b20 ml-cp-5 wow fadeInLeft" data-wow-delay="1.3s" data-wow-duration="1s">
                                 <div class="sx-icon-bx-5">
                                     <div class="sx-media sx-cp">
                                         <i class="flaticon-map-location ft-fafa25"></i>
@@ -184,9 +129,67 @@ Bluzen | Contact Us
                             </div>
 
                         </div>
-
                     </div>
+                    <div class="col-md-6">
+                        {{-- <img src="{{asset('frontend/images/maps.png')}}" class="d-none d-md-block mb-5 wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s" alt=""> --}}
+                        <img src="{{asset('frontend/images/maps-v2.png')}}" class="m-t30 wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s" alt="">
+                    </div>
+
                 </div>
+
+            </div>
+            <!-- CONTACT FORM-->
+            <div class="justify-content-center">
+                <center>
+                    <div class="col-lg-8 col-md-12 m-b80 m-t80">
+                        <div class="contact-home1-right">
+                            <div class="contact-home-1-form sx-bg-light">
+                                <h4 class="sx-title mb-5 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">Contact Us</h4>
+                                    <form class="cons-contact-form2 form-transparent" method="post" action="https://theme7x.com/itodo/form-handler2.php">
+                                        <div class="row">
+                                            <div class="col-md-6 text-left wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
+                                                <label class="lb-color">First Name</label>
+                                                <div class="input input-animate">
+                                                    <input type="text" name="firstname">
+                                                    <span class="spin"></span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 text-left wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
+                                                <label class="lb-color">Last Name</label>
+                                                <div class="input input-animate">
+                                                    <input type="text" name="lastname">
+                                                    <span class="spin"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="text-left">
+                                            <label class="lb-color wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Your Email*</label>
+                                            <div class="input input-animate wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
+                                                <input type="email" name="email" id="email" required>
+                                                <span class="spin"></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="text-left">
+                                            <label class="lb-color wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Write a message</label>
+                                            <div class="input textarea input-animate wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
+                                                <textarea name="message" id="message"></textarea>
+                                                <span class="spin"></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="sx-btn-center text-left p-t10 wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">
+                                            <button type="submit" class="site-button sx-btn-primary icon">
+                                                <i class="fa  fa-long-arrow-right"></i>
+                                                Submit
+                                            </button>
+                                        </div>
+                                    </form>
+                            </div>
+                        </div>
+                    </div>
+                </center>
             </div>
         </div>
       </div>

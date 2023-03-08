@@ -6614,7 +6614,7 @@ ol.commentlist li::after {
 
 .contact-home-1-form {
 	/* padding: 50px; */
-    padding: 80px 50px 170px;
+    padding: 80px 50px;
 }
 .contact-home-1-form .sx-title{
 	font-family: var(--title-family);
