@@ -25,6 +25,11 @@
                   <i class="feather-linkedin"></i>
                 </a>
               </li>
+              <li>
+                <a target="_blank" title="Linkedln" class="font-linkdin" href="https://www.facebook.com/bluzenSG/?locale=ko_KR">
+                  <i class="feather-facebook"></i>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -57,7 +62,7 @@
                 <li>
                     <a href="#about-us">About Us</a>
                     <ul class="sub-menu">
-                        
+
                     <li>
                         <a href="#our-clients">Our Clients</a>
                     </li>
