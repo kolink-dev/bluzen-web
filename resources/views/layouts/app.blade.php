@@ -46,6 +46,15 @@
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" /> -->
     <link rel="stylesheet" href="{{asset('frontend')}}/css/swiper.min.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "{{route('home')}}",
+          "logo": "{{asset('frontend')}}/images/footer-bluzen.png"
+        }
+    </script>
+    @stack('script-google')
     @stack('heads')
 </head>
 

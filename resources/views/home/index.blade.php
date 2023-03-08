@@ -3,6 +3,23 @@
 @section('title')
 Bluzen | We support your growth through digital transformation
 @endsection
+@push('script-google')
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org/",
+        "@type": "ImageObject",
+        "contentUrl": "{{asset('frontend')}}/images/project/health-campus.jpg",
+        "license": "{{route('home')}}",
+        "acquireLicensePage": "{{route('home')}}",
+        "creditText": "HCMC Gets Connected",
+        "creator": {
+            "@type": "Person",
+            "name": "HCMC Gets Connected"
+        },
+        "copyrightNotice": "Clara Kent"
+        }
+    </script>
+@endpush
 @section('content')
 
 @include('component.side-navigator')
