@@ -17,8 +17,7 @@ Bluzen | We support your growth through digital transformation
                 <div class="text-left">
                     <h2 class="text-white f-70 wow fadeInDown" data-wow-delay=".5s" data-wow-duration="1s">Innovative IT</h2>
                     <br>
-                    <h2 class="text-white f-70 wow fadeInDown" style="margin-top:-10px" data-wow-delay=".5s" data-wow-duration="1s">Services for Success</h2>
-
+                    <h2 class="text-white f-70 wow fadeInDown" style="margin-top:-30px" data-wow-delay=".5s" data-wow-duration="1s">Services for Success</h2>
                     <!-- <h2 class="pa-h2-v2-hero-subhead pa-white">The Coolest Modern HTML Template is Here! Welcome to <strong>Particle</strong> by Skilltech Web Design</h2> -->
                     <h4 class="text-silver wow fadeInDown" data-wow-delay=".8s" data-wow-duration="2s">We support your growth through digital transformation</h4>
                     <img src="{{asset('frontend')}}/images/footer-bluzen.png" width="200" class="image-logo-banner mt-5 wow fadeInDown"  data-wow-delay=".8s" data-wow-duration="2s" alt="image">
