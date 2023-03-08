@@ -60,6 +60,8 @@
                             <ul class="d-flex">
                                 <li class="color-ft-none"><a href="https://www.linkedin.com/company/bluzen" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 <li class="color-ft-none"><a href="mailto:dennis@bluzen.com"><i class="fa fa-envelope"></i></a></li>
+                                <li class="color-ft-none"><a href="https://www.facebook.com/bluzenSG/?locale=ko_KR" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
                             </ul>
                         </div>
                     </div>
