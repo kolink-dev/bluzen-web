@@ -26,7 +26,7 @@
                 </a>
               </li>
               <li>
-                <a target="_blank" title="Linkedln" class="font-linkdin" href="https://www.facebook.com/bluzenSG/?locale=ko_KR">
+                <a target="_blank" title="Facebook" class="font-linkdin" href="https://www.facebook.com/bluzenSG/?locale=ko_KR">
                   <i class="feather-facebook"></i>
                 </a>
               </li>
