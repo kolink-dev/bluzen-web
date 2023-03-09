@@ -96,7 +96,7 @@ Bluzen | We support your growth through digital transformation
                                     <p>Making it easier for your teams to work together and share information is a surefire way to boost productivity and gain a competitive edge.</p>
                                 </div>
                                 <div class="sx-center-btn mt-3-mb">
-                                    <a href="javascript:void(0);" class="site-button-circle">
+                                    <a href="{{route('workplace')}}" class="site-button-circle">
                                     <i class="fa fa-long-arrow-right"></i>
                                     </a>
                                 </div>
@@ -140,7 +140,7 @@ Bluzen | We support your growth through digital transformation
                                         <p>In order to start a stable business and smooth business operation at an overseas plant, it is essential to construct a network timely from the factory building design stage, and to establish efficient operation, maintenance, and technical support system.</p>
                                     </div>
                                     <div class="sx-center-btn mt-3-mb">
-                                        <a href="javascript:void(0);" class="site-button-circle">
+                                        <a href="{{route('factory-infra-solutions')}}" class="site-button-circle">
                                         <i class="fa fa-long-arrow-right"></i>
                                         </a>
                                     </div>
@@ -176,7 +176,7 @@ Bluzen | We support your growth through digital transformation
                                         <p>To work with Factory ERP system leader “ISC”, Bluzen is providing Total Factory Solution of IT Infra and ERP System by professional technicians. This enables you to build a systematic and rapid IT environment just like an automated factory.</p>
                                     </div>
                                     <div class="sx-center-btn mt-3-mb">
-                                        <a href="javascript:void(0);" class="site-button-circle">
+                                        <a href="{{route('overseas-construction-site')}}" class="site-button-circle">
                                         <i class="fa fa-long-arrow-right"></i>
                                         </a>
                                     </div>
@@ -215,7 +215,7 @@ Bluzen | We support your growth through digital transformation
                                         <p>Global cities are adopting smart street light system as the core infrastructure of smart city and expecting to achieve remarkable reduction of energy consumption, maintenance efforts and prevention of light pollution.</p>
                                     </div>
                                     <div class="sx-center-btn mt-3-mb">
-                                        <a href="javascript:void(0);" class="site-button-circle">
+                                        <a href="{{route('smart-street')}}" class="site-button-circle">
                                         <i class="fa fa-long-arrow-right"></i>
                                         </a>
                                     </div>
